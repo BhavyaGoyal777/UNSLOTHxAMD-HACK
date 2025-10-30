@@ -201,7 +201,7 @@ This project was developed for the AMD AI Dev Day Hackathon.
 - **AMD** - For providing access to MI300X GPUs (192GB HBM) and ROCm platform, enabling high-performance model training
 - **Unsloth** - For the seamless fine-tuning framework that made efficient LoRA training and GRPO optimization possible on AMD hardware
 - **Llama Synthetic Data Generation Kit** - For inspiration and tools for synthetic dataset creation
-
+- **BIG BIG THANKS TO CLAUDE CODE 
 ## License
 
 AMD AI Dev Day Hackathon Submission
