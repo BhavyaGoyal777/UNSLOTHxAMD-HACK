@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "If Neena says, 'Anita's father Raman is the only son of my father-in-law Mahipal,' then how is Bindu, who is the sister of Anita, related to Mahipal?",
+    "choices": [
+      "A) Niece",
+      "B) Daughter",
+      "C) Wife",
+      "D) Daughter-in-law"
+    ],
+    "answer": "A",
+    "explanation": "Bindu is the sister of Anita, making her the daughter of Raman. Since Raman is the only son of Mahipal, Bindu is Mahipal's granddaughter, hence his niece.",
+    "reasoning": "Step 1: Anita's father is Raman. Step 2: Raman is the only son of Mahipal. Step 3: Bindu is Anita's sister, so she is also Raman's daughter. Step 4: As Raman is Mahipal's son, Bindu is Mahipal's granddaughter. Step 5: Therefore, Bindu is Mahipal's niece.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If X is the brother of the son of Y's son, how is X related to Y?",
+    "choices": [
+      "A) Son",
+      "B) Brother",
+      "C) Cousin",
+      "D) Grandson"
+    ],
+    "answer": "D",
+    "explanation": "X is the brother of Y's grandson, making X Y's grandson as well.",
+    "reasoning": "Step 1: Y's son has a son, who is Y's grandson. Step 2: X is the brother of this grandson. Step 3: Therefore, X is also Y's grandson. Step 4: This makes X Y's grandson. Step 5: Thus, X is Y's grandson.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a lady on the platform, Manju said, 'She is the sister of the father of my mother's son.' Who is the lady to Manju?",
+    "choices": [
+      "A) Mother",
+      "B) Sister",
+      "C) Aunt",
+      "D) Niece"
+    ],
+    "answer": "A",
+    "explanation": "The lady is the sister of Manju's grandfather, making her Manju's mother.",
+    "reasoning": "Step 1: Manju's mother's son is Manju. Step 2: The father of Manju is Manju's father. Step 3: The sister of Manju's father is Manju's aunt. Step 4: However, the lady is the sister of Manju's grandfather, making her Manju's mother. Step 5: Therefore, the lady is Manju's mother.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to the woman in the picture, Rajiv said, 'Her mother has only one grandchild whose mother is my wife.' How is the woman in the picture related to Rajiv?",
+    "choices": [
+      "A) Cousin",
+      "B) Wife",
+      "C) Sister",
+      "D) Data inadequate"
+    ],
+    "answer": "D",
+    "explanation": "The information provided is insufficient to determine the exact relationship.",
+    "reasoning": "Step 1: The woman's mother has only one grandchild. Step 2: The grandchild's mother is Rajiv's wife. Step 3: This implies the woman's mother is Rajiv's wife's mother. Step 4: Therefore, the woman could be Rajiv's wife or sister. Step 5: The relationship is not clearly determined.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing towards Rita, Nikhil said, 'I am the only son of her mother's son.' How is Rita related to Nikhil?",
+    "choices": [
+      "A) Aunt",
+      "B) Niece",
+      "C) Mother",
+      "D) Cousin"
+    ],
+    "answer": "C",
+    "explanation": "Nikhil is the only son of Rita's mother's son, making Rita his mother.",
+    "reasoning": "Step 1: Nikhil is the only son of her mother's son. Step 2: Her mother's son is Rita. Step 3: Therefore, Nikhil is Rita's son. Step 4: This makes Rita Nikhil's mother. Step 5: Hence, Rita is Nikhil's mother.",
+    "difficulty": "medium"
+  }
+]

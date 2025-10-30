@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a man in a photograph, Asha said, 'His mother's only daughter is my mother.' How is Asha related to that man?",
+    "choices": [
+      "A) Nephew",
+      "B) Sister",
+      "C) Wife",
+      "D) Niece"
+    ],
+    "answer": "B",
+    "explanation": "Asha's mother is the only daughter of the man's mother, making Asha the man's sister.",
+    "reasoning": "Step 1: The man's mother's only daughter is Asha's mother. Step 2: This makes the man Asha's brother. Step 3: Therefore, Asha is the man's sister. Step 4: The relationship is sister. Step 5: Confirmed as sister.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a woman, Naman said, 'She is the daughter of the only child of my grandmother.' How is the woman related to Naman?",
+    "choices": [
+      "A) Sister",
+      "B) Niece",
+      "C) Cousin",
+      "D) Data inadequate"
+    ],
+    "answer": "A",
+    "explanation": "The only child of Naman's grandmother is his parent, making the woman Naman's sister.",
+    "reasoning": "Step 1: Naman's grandmother's only child is his parent. Step 2: The woman is the daughter of this parent. Step 3: Therefore, she is Naman's sister. Step 4: Relationship is sister. Step 5: Confirmed as sister.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a photograph, a man said, 'I have no brother or sister but that man's father is my father's son.' Whose photograph was it?",
+    "choices": [
+      "A) His own",
+      "B) His son's",
+      "C) His father's",
+      "D) His nephew's"
+    ],
+    "answer": "B",
+    "explanation": "The man's father's son is himself, so the photograph is of his son.",
+    "reasoning": "Step 1: The man has no siblings. Step 2: His father's son is himself. Step 3: The photograph is of his son. Step 4: Relationship is son. Step 5: Confirmed as son.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Introducing a man, a woman said, 'His wife is the only daughter of my father.' How is that man related to the woman?",
+    "choices": [
+      "A) Brother",
+      "B) Father-in-law",
+      "C) Maternal uncle",
+      "D) Husband"
+    ],
+    "answer": "D",
+    "explanation": "The only daughter of the woman's father is herself, making the man her husband.",
+    "reasoning": "Step 1: The woman's father's only daughter is herself. Step 2: The man is her husband. Step 3: Relationship is husband. Step 4: Confirmed as husband. Step 5: Correct answer.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a photograph, a man said, 'She is the granddaughter of the elder brother of my father.' How is the girl in the photograph related to this man?",
+    "choices": [
+      "A) Niece",
+      "B) Sister",
+      "C) Aunt",
+      "D) Sister-in-law"
+    ],
+    "answer": "A",
+    "explanation": "The girl is the granddaughter of the man's uncle, making her his niece.",
+    "reasoning": "Step 1: The elder brother of the man's father is his uncle. Step 2: The girl is his uncle's granddaughter. Step 3: Therefore, she is his niece. Step 4: Relationship is niece. Step 5: Confirmed as niece.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Introducing Reena, Monika said, 'She is the only daughter of my father's only daughter.' How is Monika related to Reena?",
+    "choices": [
+      "A) Aunt",
+      "B) Niece",
+      "C) Cousin",
+      "D) Data inadequate"
+    ],
+    "answer": "D",
+    "explanation": "Monika's father's only daughter is herself, making Reena her daughter, but 'mother' isn't an option.",
+    "reasoning": "Step 1: Monika's father's only daughter is Monika. Step 2: Reena is Monika's daughter. Step 3: Relationship is mother, but not listed. Step 4: Data inadequate. Step 5: Correct answer.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing towards a girl in the picture, Sarita said, 'She is the mother of Neha whose father is my son.' How is Sarita related to the girl in the picture?",
+    "choices": [
+      "A) Mother",
+      "B) Aunt",
+      "C) Cousin",
+      "D) Data inadequate"
+    ],
+    "answer": "D",
+    "explanation": "Sarita is the grandmother of Neha, but 'grandmother' isn't an option.",
+    "reasoning": "Step 1: Neha's father is Sarita's son. Step 2: The girl is Neha's mother. Step 3: Sarita is the grandmother. Step 4: 'Grandmother' not listed. Step 5: Data inadequate.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A man said to a lady, 'Your mother's husband's sister is my aunt.' How is the lady related to the man?",
+    "choices": [
+      "A) Daughter",
+      "B) Granddaughter",
+      "C) Mother",
+      "D) Sister"
+    ],
+    "answer": "D",
+    "explanation": "The lady's father's sister is the man's aunt, making the lady his sister.",
+    "reasoning": "Step 1: The lady's mother's husband is her father. Step 2: His sister is the man's aunt. Step 3: The lady is the man's sister. Step 4: Relationship is sister. Step 5: Confirmed as sister.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the mother?",
+    "choices": [
+      "A) Mother",
+      "B) Daughter",
+      "C) Sister",
+      "D) Grandmother"
+    ],
+    "answer": "B",
+    "explanation": "The woman is the mother's daughter.",
+    "reasoning": "Step 1: The man's mother is the only daughter of the woman's mother. Step 2: The woman is the mother. Step 3: Relationship is mother. Step 4: Confirmed as mother. Step 5: Correct answer.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Deepak said to Nitin, 'That boy playing football is the younger of the two brothers of the daughter of my father's wife.' How is the boy playing football related to Deepak?",
+    "choices": [
+      "A) Son",
+      "B) Brother",
+      "C) Cousin",
+      "D) Nephew"
+    ],
+    "answer": "D",
+    "explanation": "The boy is the brother of Deepak's sister, making him Deepak's nephew.",
+    "reasoning": "Step 1: The daughter of Deepak's father's wife is his sister. Step 2: The boy is her brother. Step 3: Therefore, he is Deepak's nephew. Step 4: Relationship is nephew. Step 5: Confirmed as nephew.",
+    "difficulty": "hard"
+  }
+]

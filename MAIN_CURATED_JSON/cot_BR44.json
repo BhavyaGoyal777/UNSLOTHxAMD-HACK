@@ -1,0 +1,44 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "In a family where P is the father of T, Q is T's wife and R's mother, and P is S's granddaughter, how many males are in the family?",
+    "choices": [
+      "A) Two",
+      "B) Three",
+      "C) Four",
+      "D) Cannot be determined"
+    ],
+    "answer": "B",
+    "explanation": "P is male, T is male, and R is male. Therefore, there are three males in the family.",
+    "reasoning": "Step 1: Identify known males. Step 2: Consider possible males. Step 3: Determine the count. Step 4: Conclude the number. Step 5: Verify the answer.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "In the same family, what is U's relation to T?",
+    "choices": [
+      "A) Father",
+      "B) Mother",
+      "C) Mother-in-law",
+      "D) No relation"
+    ],
+    "answer": "C",
+    "explanation": "U is the mother of Q, who is T's wife. Therefore, U is the mother-in-law of T.",
+    "reasoning": "Step 1: Identify U's relation to Q. Step 2: Determine Q's relation to T. Step 3: Conclude U's relation to T. Step 4: Verify the answer.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Which of the following is a couple in the family where P is the father of T, Q is T's wife and R's mother, and P is S's granddaughter?",
+    "choices": [
+      "A) T and U",
+      "B) S and Q",
+      "C) S and U",
+      "D) T and P"
+    ],
+    "answer": "A",
+    "explanation": "T is the husband and U is the wife, making them a couple.",
+    "reasoning": "Step 1: Identify couples in the family. Step 2: Determine T and U's relation. Step 3: Conclude they are a couple. Step 4: Verify the answer.",
+    "difficulty": "medium"
+  }
+]

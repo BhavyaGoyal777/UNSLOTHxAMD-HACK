@@ -1,0 +1,226 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends A, B, C, D, E sit in a row. A sits at the left end. B sits to the right of A. C sits at the far right. D sits between B and C. Who sits at position 3?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D"
+    ],
+    "answer": "D",
+    "explanation": "A is at position 1, B at 2, D between B and C, so D at 3 and C at 4. Position 3 is D.",
+    "reasoning": "Step 1: A at left end (position 1). Step 2: B to the right of A (position 2). Step 3: C at far right (position 5). Step 4: D between B and C (position 3 or 4). Step 5: Since C is at 5, D must be at 3.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is Y's father. Y is Z's mother. Z is Q's sister. How is X related to Q?",
+    "choices": [
+      "A) Grandfather",
+      "B) Father",
+      "C) Uncle",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "X is Y's father and Y is Z's mother, making X Z's grandfather. Since Z is Q's sister, X is Q's grandfather.",
+    "reasoning": "Step 1: X is Y's father. Step 2: Y is Z's mother. Step 3: X is Z's grandfather. Step 4: Z is Q's sister. Step 5: X is Q's grandfather.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six people P, Q, R, S, T, U sit in a circle. P is opposite Q. R is between P and S. T is next to U. Who is opposite R?",
+    "choices": [
+      "A) S",
+      "B) T",
+      "C) U",
+      "D) Q"
+    ],
+    "answer": "A",
+    "explanation": "P opposite Q. R between P and S. T next to U. R is two seats from P, so opposite R is S.",
+    "reasoning": "Step 1: P opposite Q. Step 2: R between P and S. Step 3: T next to U. Step 4: R is two seats from P. Step 5: Opposite R is S.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's mother. C is B's father. D is B's sister. E is D's daughter. How is E related to A?",
+    "choices": [
+      "A) Granddaughter",
+      "B) Daughter",
+      "C) Sister",
+      "D) Niece"
+    ],
+    "answer": "A",
+    "explanation": "A is B's mother. D is B's sister, making D A's daughter. E is D's daughter, so E is A's granddaughter.",
+    "reasoning": "Step 1: A is B's mother. Step 2: D is B's sister, so A's daughter. Step 3: E is D's daughter. Step 4: E is A's granddaughter.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Seven people A, B, C, D, E, F, G sit in a row. A is at the left end. B is second from the right. C is between A and D. D is third from the left. Who sits at position 4?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "C",
+    "explanation": "A at 1, D at 3, C between A and D at 2. B second from right (position 6). Positions: 1-A, 2-C, 3-D, 4-E, 5-F, 6-B, 7-G.",
+    "reasoning": "Step 1: A at 1. Step 2: D at 3. Step 3: C between A and D at 2. Step 4: B at 6. Step 5: Position 4 is E.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "M is N's father. N is O's mother. O is P's brother. Q is P's sister. How is Q related to M?",
+    "choices": [
+      "A) Granddaughter",
+      "B) Daughter",
+      "C) Sister",
+      "D) Niece"
+    ],
+    "answer": "A",
+    "explanation": "M is N's father, N is O's mother, making M O's grandfather. O is P's brother, Q is P's sister, so Q is M's granddaughter.",
+    "reasoning": "Step 1: M is N's father. Step 2: N is O's mother. Step 3: M is O's grandfather. Step 4: O is P's brother. Step 5: Q is P's sister, making Q M's granddaughter.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight people W, X, Y, Z, A, B, C, D sit in a circle. W is opposite X. Y is between W and Z. A is next to B. Who is opposite Y?",
+    "choices": [
+      "A) Z",
+      "B) A",
+      "C) B",
+      "D) C"
+    ],
+    "answer": "B",
+    "explanation": "W opposite X. Y between W and Z. A next to B. Y is two seats from W, opposite Y is A.",
+    "reasoning": "Step 1: W opposite X. Step 2: Y between W and Z. Step 3: A next to B. Step 4: Y is two seats from W. Step 5: Opposite Y is A.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "S is T's mother. T is U's father. U is V's sister. W is V's brother. How is W related to S?",
+    "choices": [
+      "A) Grandson",
+      "B) Son",
+      "C) Brother",
+      "D) Nephew"
+    ],
+    "answer": "A",
+    "explanation": "S is T's mother, T is U's father, making S U's grandmother. U is V's sister, W is V's brother, so W is S's grandson.",
+    "reasoning": "Step 1: S is T's mother. Step 2: T is U's father. Step 3: S is U's grandmother. Step 4: U is V's sister. Step 5: W is V's brother, making W S's grandson.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Nine people E, F, G, H, I, J, K, L, M sit in a row. E is at the left end. F is second from the right. G is between E and H. H is third from the left. Who sits at position 5?",
+    "choices": [
+      "A) G",
+      "B) H",
+      "C) I",
+      "D) J"
+    ],
+    "answer": "C",
+    "explanation": "E at 1, F at 8, G between E and H at 2, H at 3. Positions: 1-E, 2-G, 3-H, 4-I, 5-J, 6-K, 7-L, 8-F, 9-M.",
+    "reasoning": "Step 1: E at 1. Step 2: F at 8. Step 3: G between E and H at 2. Step 4: H at 3. Step 5: Position 5 is J.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "R is S's father. S is T's mother. T is U's sister. V is U's brother. How is V related to R?",
+    "choices": [
+      "A) Grandson",
+      "B) Son",
+      "C) Brother",
+      "D) Nephew"
+    ],
+    "answer": "A",
+    "explanation": "R is S's father, S is T's mother, making R T's grandfather. T is U's sister, V is U's brother, so V is R's grandson.",
+    "reasoning": "Step 1: R is S's father. Step 2: S is T's mother. Step 3: R is T's grandfather. Step 4: T is U's sister. Step 5: V is U's brother, making V R's grandson.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Ten people N, O, P, Q, R, S, T, U, V, W sit in a circle. N is opposite O. P is between N and Q. R is next to S. Who is opposite P?",
+    "choices": [
+      "A) Q",
+      "B) R",
+      "C) S",
+      "D) T"
+    ],
+    "answer": "B",
+    "explanation": "N opposite O. P between N and Q. R next to S. P is two seats from N, opposite P is R.",
+    "reasoning": "Step 1: N opposite O. Step 2: P between N and Q. Step 3: R next to S. Step 4: P is two seats from N. Step 5: Opposite P is R.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is Q's mother. Q is R's father. R is S's sister. T is S's brother. How is T related to P?",
+    "choices": [
+      "A) Grandson",
+      "B) Son",
+      "C) Brother",
+      "D) Nephew"
+    ],
+    "answer": "A",
+    "explanation": "P is Q's mother, Q is R's father, making P R's grandmother. R is S's sister, T is S's brother, so T is P's grandson.",
+    "reasoning": "Step 1: P is Q's mother. Step 2: Q is R's father. Step 3: P is R's grandmother. Step 4: R is S's sister. Step 5: T is S's brother, making T P's grandson.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eleven people A, B, C, D, E, F, G, H, I, J, K sit in a row. A is at the left end. B is second from the right. C is between A and D. D is third from the left. Who sits at position 6?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "C",
+    "explanation": "A at 1, B at 10, C between A and D at 2, D at 3. Positions: 1-A, 2-C, 3-D, 4-E, 5-F, 6-G, 7-H, 8-I, 9-J, 10-B, 11-K.",
+    "reasoning": "Step 1: A at 1. Step 2: B at 10. Step 3: C between A and D at 2. Step 4: D at 3. Step 5: Position 6 is G.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "M is N's father. N is O's mother. O is P's brother. Q is P's sister. How is Q related to M?",
+    "choices": [
+      "A) Granddaughter",
+      "B) Daughter",
+      "C) Sister",
+      "D) Niece"
+    ],
+    "answer": "A",
+    "explanation": "M is N's father, N is O's mother, making M O's grandfather. O is P's brother, Q is P's sister, so Q is M's granddaughter.",
+    "reasoning": "Step 1: M is N's father. Step 2: N is O's mother. Step 3: M is O's grandfather. Step 4: O is P's brother. Step 5: Q is P's sister, making Q M's granddaughter.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Twelve people L, M, N, O, P, Q, R, S, T, U, V, W sit in a circle. L is opposite M. N is between L and O. P is next to Q. Who is opposite N?",
+    "choices": [
+      "A) O",
+      "B) P",
+      "C) Q",
+      "D) R"
+    ],
+    "answer": "B",
+    "explanation": "L opposite M. N between L and O. P next to Q. N is two seats from L, opposite N is P.",
+    "reasoning": "Step 1: L opposite M. Step 2: N between L and O. Step 3: P next to Q. Step 4: N is two seats from L. Step 5: Opposite N is P.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "K is L's mother. L is M's father. M is N's sister. O is N's brother. How is O related to K?",
+    "choices": [
+      "A) Grandson",
+      "B) Son",
+      "C) Brother",
+      "D) Nephew"
+    ],
+    "answer": "A",
+    "explanation": "K is L's mother, L is M's father, making K M's grandmother. M is N's sister, O is N's brother, so O is K's grandson.",
+    "reasoning": "Step 1: K is L's mother. Step 2: L is M's father. Step 3: K is M's grandmother. Step 4: M is N's sister. Step 5: O is N's brother, making O K's grandson.",
+    "difficulty": "medium"
+  }
+]

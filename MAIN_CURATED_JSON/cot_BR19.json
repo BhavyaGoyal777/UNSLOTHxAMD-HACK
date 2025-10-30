@@ -1,0 +1,58 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Deepak said to Nitin, 'That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.' How is the boy playing football related to Deepak?",
+    "choices": [
+      "A) Son",
+      "B) Brother",
+      "C) Cousin",
+      "D) Brother-in-law"
+    ],
+    "answer": "C",
+    "explanation": "The boy is the younger brother of Deepak's sister, making him Deepak's cousin.",
+    "reasoning": "Step 1: Deepak refers to the boy as the younger brother of his sister. Step 2: The sister is the daughter of Deepak's father's wife, meaning she is Deepak's sister. Step 3: The boy is her younger brother. Step 4: Therefore, the boy is Deepak's cousin. Step 5: The correct relation is cousin.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing a photograph, X said to his friend Y, 'She is the only daughter of the father of my mother.' How is X related to the person in the photograph?",
+    "choices": [
+      "A) Daughter",
+      "B) Son",
+      "C) Nephew",
+      "D) Cannot be decided"
+    ],
+    "answer": "A",
+    "explanation": "The person in the photograph is X's mother, making her the daughter of X's grandfather.",
+    "reasoning": "Step 1: The photograph is of the only daughter of X's grandfather. Step 2: X's mother is the only daughter of X's grandfather. Step 3: Therefore, the person is X's mother. Step 4: The relation is mother. Step 5: The correct answer is daughter as per the choices.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Veena, who is the sister-in-law of Ashok, is the daughter-in-law of Kalyani. Dheeraj is the father of Sudeep, who is the only brother of Ashok. How is Kalyani related to Ashok?",
+    "choices": [
+      "A) Mother-in-law",
+      "B) Aunt",
+      "C) Wife",
+      "D) None of these"
+    ],
+    "answer": "A",
+    "explanation": "Kalyani is the mother-in-law of Ashok as she is the mother of Veena's husband.",
+    "reasoning": "Step 1: Veena is Ashok's sister-in-law. Step 2: Veena is the daughter-in-law of Kalyani. Step 3: Kalyani is the mother of Veena's husband. Step 4: Veena's husband is Ashok's brother, Sudeep. Step 5: Kalyani is the mother-in-law of Ashok.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a woman, Abhijit said, 'Her granddaughter is the only daughter of my brother.' How is the woman related to Abhijit?",
+    "choices": [
+      "A) Sister",
+      "B) Grandmother",
+      "C) Mother-in-law",
+      "D) Mother"
+    ],
+    "answer": "B",
+    "explanation": "The woman is the grandmother of Abhijit as her granddaughter is the daughter of Abhijit's brother.",
+    "reasoning": "Step 1: The granddaughter is the daughter of Abhijit's brother. Step 2: The woman is the grandmother of Abhijit's niece. Step 3: Therefore, the woman is Abhijit's grandmother.",
+    "difficulty": "medium"
+  }
+]

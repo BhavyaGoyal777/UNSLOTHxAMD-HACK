@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "K is the wife of H. H is the son of M. M is the mother of B. B is the sister of T. What is the relation between B and K?",
+    "choices": [
+      "A) B is the mother-in-law of K",
+      "B) K is the aunt of B",
+      "C) B is the husband of K",
+      "D) B is the sister-in-law of K"
+    ],
+    "answer": "A",
+    "explanation": "B is the mother of K's husband, making B the mother-in-law of K.",
+    "reasoning": "Step 1: K is the wife of H. Step 2: H is the son of M. Step 3: M is the mother of B. Step 4: B is the sister of T. Step 5: B is the mother-in-law of K.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "B is the daughter of Z, who is the son of K. What symbol correctly represents 'B is the daughter of Z % K'?",
+    "choices": [
+      "A) @",
+      "B) –",
+      "C) +",
+      "D) %"
+    ],
+    "answer": "B",
+    "explanation": "The correct symbol to represent 'B is the daughter of Z % K' is '–'.",
+    "reasoning": "Step 1: B is the daughter of Z. Step 2: Z is the son of K. Step 3: B is the daughter of Z, so the symbol should represent 'daughter of'. Step 4: The correct symbol for 'daughter of' is '–'. Step 5: The answer is B.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the son of B and B is the sister of A, who is the aunt of B?",
+    "choices": [
+      "A) B's sister is C and A is the son of C",
+      "B) A's sister is C and B is the sister of A",
+      "C) B's sister is C and A is the son of C",
+      "D) A is the son of C and B is the sister of A"
+    ],
+    "answer": "D",
+    "explanation": "A is the son of C and B is the sister of A, making C the aunt of B.",
+    "reasoning": "Step 1: A is the son of B. Step 2: B is the sister of A. Step 3: To find the aunt of B, we need someone who is the sister of B's parent. Step 4: A is the son of C and B is the sister of A. Step 5: C is the aunt of B.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A woman walking with a boy meets another woman and says, 'He is my maternal uncle and his maternal uncle’s maternal uncle are brothers.' How is the boy related to the woman?",
+    "choices": [
+      "A) Nephew",
+      "B) Son",
+      "C) Brother-in-law",
+      "D) Grandson"
+    ],
+    "answer": "A",
+    "explanation": "The boy is the nephew of the woman.",
+    "reasoning": "Step 1: The boy is the maternal uncle of the woman. Step 2: His maternal uncle’s maternal uncle is the woman's grandfather. Step 3: The boy's maternal uncle and the woman's grandfather are brothers. Step 4: This makes the boy the nephew of the woman. Step 5: The answer is A.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a photograph, Sahil said, 'She is the mother of my son’s wife’s daughter.' Who is the woman in the photograph to Sahil?",
+    "choices": [
+      "A) Daughter-in-law",
+      "B) Granddaughter",
+      "C) Daughter",
+      "D) Wife"
+    ],
+    "answer": "B",
+    "explanation": "The woman is Sahil's granddaughter.",
+    "reasoning": "Step 1: Sahil's son's wife's daughter is Sahil's granddaughter. Step 2: The woman is the mother of Sahil's granddaughter. Step 3: Therefore, the woman is Sahil's granddaughter. Step 4: The answer is B.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "L is the husband of H. H is the mother of J. J is the father of T. What is the relationship of L to T?",
+    "choices": [
+      "A) Paternal Grandmother",
+      "B) Maternal Grandmother",
+      "C) Paternal Grandfather",
+      "D) Maternal Grandfather"
+    ],
+    "answer": "B",
+    "explanation": "L is the maternal grandfather of T.",
+    "reasoning": "Step 1: L is the husband of H. Step 2: H is the mother of J. Step 3: J is the father of T. Step 4: Therefore, L is the maternal grandfather of T. Step 5: The answer is B.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Which of the following expressions indicates 'R is the sister of H'? R is the daughter of D. D is the wife of F. F is the father of H.",
+    "choices": [
+      "A) H $ D @ F # R",
+      "B) R % D @ F $ H",
+      "C) R $ D @ F # H",
+      "D) H % D @ F $ R"
+    ],
+    "answer": "C",
+    "explanation": "R is the sister of H.",
+    "reasoning": "Step 1: R is the daughter of D. Step 2: D is the wife of F. Step 3: F is the father of H. Step 4: Therefore, R is the sister of H. Step 5: The answer is C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Reeta said, 'My Mother’s only son Ashok has no son'. Which of the following can be concluded?",
+    "choices": [
+      "A) Ashok has only daughters",
+      "B) Ashok is not married",
+      "C) Ashok does not have a father",
+      "D) Ashok has only one sister"
+    ],
+    "answer": "A",
+    "explanation": "Ashok has only daughters.",
+    "reasoning": "Step 1: Reeta's mother's only son is Ashok. Step 2: Ashok has no son. Step 3: Therefore, Ashok must have only daughters. Step 4: The answer is A.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a girl, Sagar said, 'She is the only daughter of my grandfather’s son'. How is the girl related to Sagar?",
+    "choices": [
+      "A) Daughter",
+      "B) Sister",
+      "C) Cousin Sister",
+      "D) Data inadequate"
+    ],
+    "answer": "D",
+    "explanation": "The relationship cannot be determined with the given information.",
+    "reasoning": "Step 1: The girl is the only daughter of Sagar's grandfather's son. Step 2: Sagar's grandfather's son could be Sagar's father or uncle. Step 3: If it's Sagar's father, the girl is Sagar's sister. Step 4: If it's Sagar's uncle, the girl is Sagar's cousin. Step 5: The relationship is inadequate.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Shalu is the mother-in-law of Rakhi who is the sister-in-law of Sameer. Dinesh is the brother of Sameer. How is Shalu related to Dinesh?",
+    "choices": [
+      "A) Aunt",
+      "B) Sister-in-law",
+      "C) Mother-in-law",
+      "D) Wife"
+    ],
+    "answer": "A",
+    "explanation": "Shalu is the aunt of Dinesh.",
+    "reasoning": "Step 1: Shalu is the mother-in-law of Rakhi. Step 2: Rakhi is the sister-in-law of Sameer. Step 3: Dinesh is the brother of Sameer. Step 4: Therefore, Shalu is the aunt of Dinesh. Step 5: The answer is A.",
+    "difficulty": "medium"
+  }
+]

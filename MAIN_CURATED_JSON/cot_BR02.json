@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A and B are brothers. C and D are sisters. A's son is D's brother. How is B related to C?",
+    "choices": [
+      "A) Father",
+      "B) Brother",
+      "C) Uncle",
+      "D) Grandfather"
+    ],
+    "answer": "B",
+    "explanation": "B is the brother of A, who is the father of D's brother. Since C is D's sister, B is C's brother.",
+    "reasoning": "Step 1: A and B are brothers. Step 2: C and D are sisters. Step 3: A's son is D's brother, making A the father of D's brother. Step 4: Since C is D's sister, A is also C's brother. Step 5: Therefore, B, being A's brother, is C's brother.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is the son of C, while C and Q are sisters to one another. Z is the mother of Q. If P is the son of Z, which statement is correct?",
+    "choices": [
+      "A) Q is the grandfather of A",
+      "B) P is the maternal uncle of A",
+      "C) P is the cousin of A",
+      "D) Z is the brother of C"
+    ],
+    "answer": "C",
+    "explanation": "P is the son of Z, who is Q's mother. Since C is Q's sister, Z is also A's grandmother. Thus, P is A's cousin.",
+    "reasoning": "Step 1: A is the son of C. Step 2: C and Q are sisters. Step 3: Z is Q's mother, making Z also C's mother. Step 4: P is Z's son, so P is C's son. Step 5: Therefore, P is A's cousin.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing at a photo, Dinesh said, 'His father is the only son of my mother.' The photo belongs to:",
+    "choices": [
+      "A) Dinesh",
+      "B) Dinesh's brother",
+      "C) Dinesh's father",
+      "D) Dinesh's son"
+    ],
+    "answer": "B",
+    "explanation": "The man's father is the only son of Dinesh's mother, making the man Dinesh's brother.",
+    "reasoning": "Step 1: The man's father is the only son of Dinesh's mother. Step 2: Dinesh's mother's only son is Dinesh himself. Step 3: Since the man is pointing to someone else, it must be Dinesh's brother. Step 4: Therefore, the photo belongs to Dinesh's brother.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Looking at a portrait of a man, Sanjay said, 'His mother is the wife of my father's son. Brothers and sisters I have none.' At whose portrait was Sanjay looking?",
+    "choices": [
+      "A) His son",
+      "B) His nephew",
+      "C) His cousin",
+      "D) His uncle"
+    ],
+    "answer": "A",
+    "explanation": "Sanjay has no siblings, so his father's son is himself. The man's mother is Sanjay's wife, making the man Sanjay's son.",
+    "reasoning": "Step 1: Sanjay has no brothers or sisters. Step 2: His father's son is himself. Step 3: The man's mother is Sanjay's wife. Step 4: Therefore, the man is Sanjay's son.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A man said to a lady, 'The son of your only brother is the brother of my wife.' What is the lady to the man?",
+    "choices": [
+      "A) Mother",
+      "B) Sister",
+      "C) Sister of father-in-law",
+      "D) Maternal aunt"
+    ],
+    "answer": "D",
+    "explanation": "The lady's only brother's son is the brother of the man's wife, making the lady the maternal aunt of the man's wife, hence the man's maternal aunt.",
+    "reasoning": "Step 1: The lady's only brother's son is the brother of the man's wife. Step 2: This makes the lady the aunt of the man's wife. Step 3: Therefore, the lady is the man's maternal aunt.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the brother of B and K and D is the mother of B, E is the father of A. Which statement is not definitely true?",
+    "choices": [
+      "A) B is the brother of K",
+      "B) A is the father of K",
+      "C) A is the son of D",
+      "D) D is the wife of E"
+    ],
+    "answer": "B",
+    "explanation": "A is the brother of B and K, but it's not stated whether A is the father of K.",
+    "reasoning": "Step 1: A is the brother of B and K. Step 2: D is the mother of B. Step 3: E is the father of A. Step 4: A is the son of D. Step 5: D is the wife of E. Step 6: A is not necessarily the father of K.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Introducing a lady, a man said, 'Her mother is the only daughter of my mother-in-law.' What is the man to the lady?",
+    "choices": [
+      "A) Son",
+      "B) Father",
+      "C) Uncle",
+      "D) Husband"
+    ],
+    "answer": "A",
+    "explanation": "The lady's mother is the only daughter of the man's mother-in-law, making the man the lady's son.",
+    "reasoning": "Step 1: The lady's mother is the only daughter of the man's mother-in-law. Step 2: This makes the lady the granddaughter of the man's mother-in-law. Step 3: Therefore, the man is the lady's son.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Introducing a woman, a man said, 'Her mother's husband's sister is my aunt.' How is the man related to the woman?",
+    "choices": [
+      "A) Nephew",
+      "B) Brother",
+      "C) Brother-in-law",
+      "D) Cousin"
+    ],
+    "answer": "D",
+    "explanation": "The woman's mother's husband's sister is the man's aunt, making the man the woman's cousin.",
+    "reasoning": "Step 1: The woman's mother's husband's sister is the man's aunt. Step 2: This makes the man the cousin of the woman.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Leela, who is Sohan's daughter, says to Latika, 'Your mother Alka is the younger sister of my father who is the third child of Gajanan.' What is the relation of Gajanan to Latika?",
+    "choices": [
+      "A) Father",
+      "B) Uncle",
+      "C) Grandfather",
+      "D) Father-in-law"
+    ],
+    "answer": "C",
+    "explanation": "Leela's father is the third child of Gajanan, making Gajanan Leela's grandfather. Since Alka is Leela's father's sister, Gajanan is also Latika's grandfather.",
+    "reasoning": "Step 1: Leela's father is the third child of Gajanan. Step 2: Alka is the younger sister of Leela's father. Step 3: Therefore, Gajanan is the grandfather of both Leela and Latika.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Old man's son is my son's uncle, then what relation has the old man with me?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Grandfather",
+      "D) Uncle"
+    ],
+    "answer": "B",
+    "explanation": "The old man's son is the uncle of my son, making the old man my father.",
+    "reasoning": "Step 1: The old man's son is the uncle of my son. Step 2: This means the old man's son is my brother. Step 3: Therefore, the old man is my father.",
+    "difficulty": "medium"
+  }
+]

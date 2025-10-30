@@ -1,0 +1,30 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons Andrew, Bill, Charles, David, Emma, Fabio, George, and Henry sit around a square table facing outward. David sits at a corner and does not like ice-cream. George sits immediately to the right of David. Bill sits opposite Fabio, who likes ice-cream but not vanilla. Who sits immediately to the right of Fabio?",
+    "choices": [
+      "A) Bill",
+      "B) George",
+      "C) Emma",
+      "D) Charles"
+    ],
+    "answer": "C",
+    "explanation": "From the given information, Emma sits immediately to the right of Fabio.",
+    "reasoning": "Step 1: Identify the seating arrangement around the square table. Step 2: Note that David is at a corner and George is to his right. Step 3: Bill is opposite Fabio, who likes strawberry ice-cream. Step 4: Determine the positions relative to Fabio. Step 5: Conclude Emma is to Fabio's immediate right.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons Andrew, Bill, Charles, David, Emma, Fabio, George, and Henry sit around a square table facing outward. David sits at a corner and does not like ice-cream. George sits immediately to the right of David. Bill sits opposite Fabio, who likes ice-cream but not vanilla. Who is sitting opposite the person who likes vanilla ice-cream?",
+    "choices": [
+      "A) Henry",
+      "B) George",
+      "C) Emma",
+      "D) Charles"
+    ],
+    "answer": "A",
+    "explanation": "Henry sits opposite the person who likes vanilla ice-cream.",
+    "reasoning": "Step 1: Identify the seating arrangement around the square table. Step 2: Note that David is at a corner and George is to his right. Step 3: Bill is opposite Fabio, who likes strawberry ice-cream. Step 4: Determine the positions relative to Fabio. Step 5: Conclude Henry is opposite the vanilla ice-cream liker.",
+    "difficulty": "medium"
+  }
+]

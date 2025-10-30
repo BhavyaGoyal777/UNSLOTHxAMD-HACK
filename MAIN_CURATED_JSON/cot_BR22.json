@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a man, Priya said he is the only son of her grandfather's only child. How is the man related to Priya?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Uncle",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "Priya's grandfather's only child is her parent. The man is the only son of this parent, making him Priya's brother.",
+    "reasoning": "Step 1: Grandfather has only one child, who is Priya's parent. Step 2: The man is the only son of this parent. Step 3: Since Priya is pointing to the man, they are different people. Step 4: The man must be Priya's brother. Step 5: Verified as brother.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D B's aunt. E is D's husband, so E is B's uncle.",
+    "reasoning": "Step 1: A is B's father, C is B's mother. Step 2: D is C's sister, making D B's aunt. Step 3: E is D's husband. Step 4: E is the husband of B's aunt. Step 5: E is B's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle facing center. A is left of B. C is opposite D. E is between A and D. Who is right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "With A left of B, C opposite D, and E between A and D, B must be right of C.",
+    "reasoning": "Step 1: A left of B. Step 2: C opposite D. Step 3: E between A and D. Step 4: B adjacent to C. Step 5: B is right of C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?",
+    "choices": [
+      "A) Mother",
+      "B) Grandmother",
+      "C) Aunt",
+      "D) Data inadequate"
+    ],
+    "answer": "B",
+    "explanation": "P is the mother of K, who is D's sister. D is J's father, making P J's grandmother.",
+    "reasoning": "Step 1: P is K's mother. Step 2: K is D's sister. Step 3: D is J's father. Step 4: P is D's mother. Step 5: P is J's grandmother.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six friends P, Q, R, S, T, U sit in a row. P sits third from left. Q sits second to right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P at position 3. Step 2: Q at position 5. Step 3: R at extreme end. Step 4: R at position 1. Step 5: Valid.",
+    "difficulty": "medium"
+  }
+]

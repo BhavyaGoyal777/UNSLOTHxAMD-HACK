@@ -1,0 +1,143 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "D, the son-in-law of B, is the brother-in-law of A who is the brother of C. How is A related to B?",
+    "choices": [
+      "A) Brother",
+      "B) Son",
+      "C) Father",
+      "D) Data inadequate"
+    ],
+    "answer": "B",
+    "explanation": "D is the son-in-law of B and brother-in-law of A. This means B is the father/mother of D's wife, and A is the brother of D's wife. Thus, A is B's son.",
+    "reasoning": "Step 1: D is son-in-law of B, meaning D is married to B's child. Step 2: D is brother-in-law of A, so A is the sibling of D's spouse. Step 3: Since A is the brother of C, and D is married to A's sibling, B must be the parent of A. Step 4: Therefore, A is B's son. Step 5: Confirmed that A is B's son.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Deepak is brother of Ravi. Reena is sister of Atul. Ravi is son of Reena. How is Deepak related to Reena?",
+    "choices": [
+      "A) Son",
+      "B) Brother",
+      "C) Nephew",
+      "D) Father"
+    ],
+    "answer": "A",
+    "explanation": "Deepak is brother of Ravi, who is the son of Reena. Thus, Deepak is the son of Reena.",
+    "reasoning": "Step 1: Deepak is Ravi's brother. Step 2: Ravi is Reena's son. Step 3: Therefore, Deepak and Ravi share the same parents. Step 4: Since Ravi is Reena's son, Deepak must also be Reena's son. Step 5: Deepak is Reena's son.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Q's mother is sister of P and daughter of M. S is the daughter of P and sister of T. How is M related to T?",
+    "choices": [
+      "A) Grandmother",
+      "B) Father",
+      "C) Grandfather",
+      "D) Grandfather or Grandmother"
+    ],
+    "answer": "D",
+    "explanation": "S is the daughter of P and sister of T. So, T is the daughter of P. Now, the sister of P is the daughter of M. This means that P is the son or daughter of M. Clearly, T is the granddaughter of M. So, M is the grandfather or grandmother of T.",
+    "reasoning": "Step 1: Q's mother is sister of P, making P the aunt/uncle of Q. Step 2: Q's mother is daughter of M, so M is Q's grandmother. Step 3: S is daughter of P and sister of T, so T is also daughter of P. Step 4: Since P is M's child, T is M's granddaughter. Step 5: M is either grandfather or grandmother of T.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Q is the brother of R; P is the sister of Q; T is brother of S; S is the daughter of R. Who are the cousins of Q?",
+    "choices": [
+      "A) R and P",
+      "B) P and T",
+      "C) Q and T",
+      "D) S and T"
+    ],
+    "answer": "A",
+    "explanation": "Q's brother is R, so R is the cousin of Q. P is Q's sister, and since R is the brother of Q, P is also the cousin of Q.",
+    "reasoning": "Step 1: Q's brother is R. Step 2: P is Q's sister. Step 3: T is brother of S, who is daughter of R. Step 4: S is R's daughter, making T R's son. Step 5: R and P are Q's siblings, so they are Q's cousins.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is father of C and D is son of B. E is brother of A. If C is sister of D, How is B related to E?",
+    "choices": [
+      "A) Daughter",
+      "B) Brother-in-law",
+      "C) Husband",
+      "D) Sister-in-law"
+    ],
+    "answer": "D",
+    "explanation": "A is father of C and C is sister of D. So, A is father of D. But D is son of B. So, B is the mother of D and wife of A. Also, E is the brother of A. So, B is the sister-in-law of E.",
+    "reasoning": "Step 1: A is father of C. Step 2: C is sister of D, so A is also father of D. Step 3: D is son of B, so B is D's mother. Step 4: Since A is D's father, B is A's wife. Step 5: E is A's brother, making B E's sister-in-law.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "E is the son of A. D is the son of B. E married to C. C is B's daughter. How is D related to E?",
+    "choices": [
+      "A) Brother",
+      "B) Uncle",
+      "C) Father-in-law",
+      "D) Brother-in-law"
+    ],
+    "answer": "D",
+    "explanation": "C is B's daughter and D is B's son. So, D is the brother of C. E is married to C. So, E is the husband of C, whose brother is D. Thus, D is the brother-in-law of E.",
+    "reasoning": "Step 1: E is son of A. Step 2: D is son of B. Step 3: E married to C, who is B's daughter. Step 4: D is C's brother. Step 5: D is E's brother-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is father of X; B is mother of Y. The sister of X is Z and Y. Which of the following statements is definitely not true?",
+    "choices": [
+      "A) B is the mother of Z",
+      "B) X is the sister of Z",
+      "C) Y is the son of A",
+      "D) B has one daughter",
+      "E) B is the wife of A"
+    ],
+    "answer": "C",
+    "explanation": "A is the father of X and Y is the sister of X. So, Y is the daughter of A. Thus, Y cannot be the son of A.",
+    "reasoning": "Step 1: A is father of X. Step 2: Y is sister of X, so Y is A's daughter. Step 3: B is mother of Y, so B is A's wife. Step 4: Y is daughter of A, so Y cannot be son of A. Step 5: Statement C is definitely not true.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is the son of Q while Q and R are the sisters to one another. T is the mother of R. If S is the son of T, which of the following statements is correct?",
+    "choices": [
+      "A) T is the brother of Q",
+      "B) S is the cousin of P",
+      "C) Q and S are sisters",
+      "D) S is the maternal uncle of P"
+    ],
+    "answer": "D",
+    "explanation": "Q and R are sisters, so T is the mother of R, meaning T is the mother of both Q and R. S is the son of T, meaning S is the brother of Q. Thus, P is the son of Q, making S the maternal uncle of P.",
+    "reasoning": "Step 1: Q and R are sisters. Step 2: T is mother of R, so T is also mother of Q. Step 3: S is son of T, making S brother of Q. Step 4: P is son of Q, so S is P's maternal uncle. Step 5: S is the maternal uncle of P.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P's father Q is B's paternal uncle and A's husband M is P's paternal uncle. How is A related to B?",
+    "choices": [
+      "A) Cousin",
+      "B) Aunt",
+      "C) Mother",
+      "D) Data inadequate"
+    ],
+    "answer": "C",
+    "explanation": "Q is the paternal uncle of B, meaning Q is the brother of P's father. P is the son of Q. So, B's father and P's father are brothers. Also, M is the paternal uncle of P, meaning M is the brother of P's father. So, M is the father of B. Since A is the wife of M, so A is the mother of B.",
+    "reasoning": "Step 1: Q is paternal uncle of B, so Q is brother of B's father. Step 2: M is paternal uncle of P, so M is brother of P's father. Step 3: Since Q is P's father, M must be B's father. Step 4: A is wife of M, so A is B's mother. Step 5: A is mother of B.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "C is A's father's nephew. D is A's cousin but not the brother of C. How is D related to C?",
+    "choices": [
+      "A) Father",
+      "B) Sister",
+      "C) Mother",
+      "D) Aunt"
+    ],
+    "answer": "B",
+    "explanation": "C is A's father's nephew, meaning C is the son of A's father's brother i.e., C is the cousin of A. D is also A's cousin. So, D must be real brother or sister of C. But D is not brother of C. So, D must be sister of C.",
+    "reasoning": "Step 1: C is A's father's nephew, so C is cousin of A. Step 2: D is A's cousin. Step 3: Since D is not brother of C, D must be sister of C. Step 4: D is sister of C. Step 5: D is sister of C.",
+    "difficulty": "medium"
+  }
+]

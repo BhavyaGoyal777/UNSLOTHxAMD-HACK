@@ -1,0 +1,171 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Six friends P, Q, R, S, T, U sit in a row. P sits third from the left. Q sits second to the right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P is at position 3. Step 2: Q is second to the right of P, so Q is at position 5. Step 3: R is at an extreme end, so position 1 or 6. Step 4: Testing R at position 1. Step 5: No conflicts, so R at position 1 is valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle facing the center. A is left of B. C is opposite D. E is between A and D. Who is to the right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "With A left of B, C opposite D, and E between A and D, B must be to the right of C.",
+    "reasoning": "Step 1: A left of B. Step 2: C opposite D. Step 3: E between A and D. Step 4: B adjacent to C. Step 5: B is right of C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight people A, B, C, D, E, F, G, H sit around a circular table. A is second to the left of G. Only two people sit between A and H. C sits second to the left of H. Only three people sit between the immediate left of D. Who sits second to the right of F?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) D",
+      "D) G"
+    ],
+    "answer": "B",
+    "explanation": "Based on the seating constraints, C sits second to the right of F.",
+    "reasoning": "Step 1: A is second to left of G. Step 2: Two between A and H. Step 3: C is second to left of H. Step 4: Three between D and immediate left. Step 5: C is second to right of F.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "If all persons sit in alphabetical order clockwise, starting from A, how many would remain unchanged?",
+    "choices": [
+      "A) One",
+      "B) Two",
+      "C) Three",
+      "D) Four"
+    ],
+    "answer": "A",
+    "explanation": "Only one person remains in the same position when rearranged alphabetically.",
+    "reasoning": "Step 1: Original positions. Step 2: Alphabetical order. Step 3: Compare positions. Step 4: Identify unchanged. Step 5: Only one remains.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Which statement about E is true?",
+    "choices": [
+      "A) E is immediate neighbor of B",
+      "B) Only one person between E and F",
+      "C) Only three between E and G",
+      "D) A sits third to right of E"
+    ],
+    "answer": "C",
+    "explanation": "Only three people sit between E and G.",
+    "reasoning": "Step 1: E's position. Step 2: Check neighbors. Step 3: Distance to G. Step 4: Three people in between. Step 5: Correct statement.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Who are the immediate neighbors of G?",
+    "choices": [
+      "A) E, D",
+      "B) H, C",
+      "C) H, D",
+      "D) D, F"
+    ],
+    "answer": "C",
+    "explanation": "H and D are immediate neighbors of G.",
+    "reasoning": "Step 1: G's position. Step 2: Identify left and right. Step 3: H and D adjacent. Step 4: Confirm. Step 5: Correct.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Four of the following are alike. Which does not belong?",
+    "choices": [
+      "A) HA",
+      "B) GH",
+      "C) CG",
+      "D) BC",
+      "E) FD"
+    ],
+    "answer": "E",
+    "explanation": "FD does not belong as others follow a pattern.",
+    "reasoning": "Step 1: Analyze pairs. Step 2: Identify pattern. Step 3: FD breaks pattern. Step 4: Confirm. Step 5: Correct.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Who is an immediate neighbor of E?",
+    "choices": [
+      "A) C, B",
+      "B) A, F",
+      "C) B, H",
+      "D) Cannot be determined"
+    ],
+    "answer": "B",
+    "explanation": "A and F are immediate neighbors of E.",
+    "reasoning": "Step 1: E's position. Step 2: Identify neighbors. Step 3: A and F adjacent. Step 4: Confirm. Step 5: Correct.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Who is second to the left of F?",
+    "choices": [
+      "A) B",
+      "B) E",
+      "C) G",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "E is second to the left of F.",
+    "reasoning": "Step 1: F's position. Step 2: Count left. Step 3: E is second. Step 4: Confirm. Step 5: Correct.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Who sits second to the right of C?",
+    "choices": [
+      "A) H",
+      "B) F",
+      "C) D",
+      "D) A"
+    ],
+    "answer": "B",
+    "explanation": "F sits second to the right of C.",
+    "reasoning": "Step 1: C's position. Step 2: Count right. Step 3: F is second. Step 4: Confirm. Step 5: Correct.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Who are not facing the center?",
+    "choices": [
+      "A) C, A",
+      "B) C, F",
+      "C) G, F",
+      "D) E, B"
+    ],
+    "answer": "D",
+    "explanation": "E and B are not facing the center.",
+    "reasoning": "Step 1: Identify facing directions. Step 2: E and B face outwards. Step 3: Confirm. Step 4: Correct.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Who is third to the left of B?",
+    "choices": [
+      "A) G",
+      "B) H",
+      "C) C",
+      "D) Cannot be determined"
+    ],
+    "answer": "A",
+    "explanation": "G is third to the left of B.",
+    "reasoning": "Step 1: B's position. Step 2: Count left. Step 3: G is third. Step 4: Confirm. Step 5: Correct.",
+    "difficulty": "medium"
+  }
+]

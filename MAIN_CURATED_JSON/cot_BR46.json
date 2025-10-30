@@ -1,0 +1,240 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends A, B, C, D, E sit in a row. A sits at one end. B sits to the immediate right of A. C sits at the other end. D sits to the left of E. Who sits in the middle?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) D",
+      "D) E"
+    ],
+    "answer": "D",
+    "explanation": "A is at position 1, B at 2, C at 5, so D and E must be at 3 and 4. E is to the right of D, so D is at 3 and E at 4. Middle position is 3, occupied by D.",
+    "reasoning": "Step 1: A sits at position 1. Step 2: B sits to the right of A at position 2. Step 3: C sits at position 5. Step 4: D sits to the left of E, so D at 3 and E at 4. Step 5: Middle position is 3, occupied by D.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is the father of B. C is the mother of B. D is the sister of C. E is the husband of D. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is the sister of B's mother, making D B's aunt. E is D's husband, so E is B's uncle.",
+    "reasoning": "Step 1: A is B's father, C is B's mother. Step 2: D is C's sister, making D B's aunt. Step 3: E is D's husband, so E is B's uncle. Step 4: Verified through family relations. Step 5: Conclusion is E is B's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six people P, Q, R, S, T, U sit in a circle. P sits opposite Q. R sits between S and T. U sits next to Q. Who sits to the immediate left of P?",
+    "choices": [
+      "A) R",
+      "B) S",
+      "C) T",
+      "D) U"
+    ],
+    "answer": "B",
+    "explanation": "P opposite Q, U next to Q. R between S and T. Seating arrangement forces S to the left of P.",
+    "reasoning": "Step 1: P opposite Q in a circle of 6. Step 2: U sits next to Q, so U is adjacent to Q. Step 3: R between S and T. Step 4: Arrangement forces S to the left of P. Step 5: Verified through circular logic.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is the mother of Y. Y is the father of Z. Z is the sister of W. How is X related to W?",
+    "choices": [
+      "A) Grandmother",
+      "B) Mother",
+      "C) Aunt",
+      "D) Sister"
+    ],
+    "answer": "A",
+    "explanation": "X is the grandmother of Z and W, as Y is their father and X is Y's mother.",
+    "reasoning": "Step 1: X is Y's mother. Step 2: Y is Z's father. Step 3: Z is W's sister. Step 4: X is the grandmother of both Z and W. Step 5: Conclusion is X is W's grandmother.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Seven people A, B, C, D, E, F, G sit in a row. A sits at the left end. B sits third from the right. C sits between D and E. F sits next to G. Who sits at position 4?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) D",
+      "D) F"
+    ],
+    "answer": "C",
+    "explanation": "A at 1, B at 5 (third from right). C between D and E, F next to G. Position 4 is occupied by C.",
+    "reasoning": "Step 1: A at position 1. Step 2: B at position 5. Step 3: C between D and E. Step 4: F and G at positions 6 and 7. Step 5: Position 4 is C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "M is the father of N. N is the mother of O. O is the brother of P. How is M related to P?",
+    "choices": [
+      "A) Grandfather",
+      "B) Father",
+      "C) Uncle",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "M is the grandfather of O and P, as N is their mother and M is N's father.",
+    "reasoning": "Step 1: M is N's father. Step 2: N is O's mother. Step 3: O is P's brother. Step 4: M is the grandfather of both O and P. Step 5: Conclusion is M is P's grandfather.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight people A, B, C, D, E, F, G, H sit in a circle. A sits opposite B. C sits between D and E. F sits next to G. H sits next to A. Who sits to the immediate right of C?",
+    "choices": [
+      "A) D",
+      "B) E",
+      "C) F",
+      "D) G"
+    ],
+    "answer": "B",
+    "explanation": "C between D and E, so E is to the right of C.",
+    "reasoning": "Step 1: A opposite B. Step 2: C between D and E. Step 3: F next to G. Step 4: H next to A. Step 5: C's right is E.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "S is the daughter of T. T is the sister of U. U is the mother of V. How is S related to V?",
+    "choices": [
+      "A) Aunt",
+      "B) Mother",
+      "C) Sister",
+      "D) Cousin"
+    ],
+    "answer": "D",
+    "explanation": "S is the cousin of V, as T is U's sister and S is T's daughter.",
+    "reasoning": "Step 1: S is T's daughter. Step 2: T is U's sister. Step 3: U is V's mother. Step 4: S and V are cousins. Step 5: Conclusion is S is V's cousin.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Nine people A, B, C, D, E, F, G, H, I sit in a row. A sits at the left end. B sits third from the left. C sits between D and E. F sits next to G. H sits next to I. Who sits at position 5?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) D",
+      "D) F"
+    ],
+    "answer": "B",
+    "explanation": "A at 1, B at 3. C between D and E. F and G at 7 and 8. H and I at 8 and 9. Position 5 is C.",
+    "reasoning": "Step 1: A at 1. Step 2: B at 3. Step 3: C between D and E. Step 4: F and G at 7 and 8. Step 5: Position 5 is C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "J is the brother of K. K is the mother of L. L is the sister of M. How is J related to M?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "J is the uncle of M, as K is M's mother and J is K's brother.",
+    "reasoning": "Step 1: J is K's brother. Step 2: K is L's mother. Step 3: L is M's sister. Step 4: J is the uncle of both L and M. Step 5: Conclusion is J is M's uncle.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Ten people A, B, C, D, E, F, G, H, I, J sit in a circle. A sits opposite B. C sits between D and E. F sits next to G. H sits next to I. J sits next to A. Who sits to the immediate left of A?",
+    "choices": [
+      "A) J",
+      "B) I",
+      "C) H",
+      "D) G"
+    ],
+    "answer": "A",
+    "explanation": "J sits next to A, so J is to the left of A.",
+    "reasoning": "Step 1: A opposite B. Step 2: C between D and E. Step 3: F next to G. Step 4: H next to I. Step 5: J next to A, so J is left of A.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is the father of Q. Q is the mother of R. R is the brother of S. How is P related to S?",
+    "choices": [
+      "A) Grandfather",
+      "B) Father",
+      "C) Uncle",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "P is the grandfather of R and S, as Q is their mother and P is Q's father.",
+    "reasoning": "Step 1: P is Q's father. Step 2: Q is R's mother. Step 3: R is S's brother. Step 4: P is the grandfather of both R and S. Step 5: Conclusion is P is S's grandfather.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eleven people A, B, C, D, E, F, G, H, I, J, K sit in a row. A sits at the left end. B sits third from the left. C sits between D and E. F sits next to G. H sits next to I. J sits next to K. Who sits at position 6?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) D",
+      "D) F"
+    ],
+    "answer": "B",
+    "explanation": "A at 1, B at 3. C between D and E. F and G at 7 and 8. H and I at 9 and 10. J and K at 10 and 11. Position 6 is C.",
+    "reasoning": "Step 1: A at 1. Step 2: B at 3. Step 3: C between D and E. Step 4: F and G at 7 and 8. Step 5: Position 6 is C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "R is the mother of S. S is the father of T. T is the sister of U. How is R related to U?",
+    "choices": [
+      "A) Grandmother",
+      "B) Mother",
+      "C) Aunt",
+      "D) Sister"
+    ],
+    "answer": "A",
+    "explanation": "R is the grandmother of T and U, as S is their father and R is S's mother.",
+    "reasoning": "Step 1: R is S's mother. Step 2: S is T's father. Step 3: T is U's sister. Step 4: R is the grandmother of both T and U. Step 5: Conclusion is R is U's grandmother.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Twelve people A, B, C, D, E, F, G, H, I, J, K, L sit in a circle. A sits opposite B. C sits between D and E. F sits next to G. H sits next to I. J sits next to K. L sits next to A. Who sits to the immediate right of C?",
+    "choices": [
+      "A) D",
+      "B) E",
+      "C) F",
+      "D) G"
+    ],
+    "answer": "B",
+    "explanation": "C between D and E, so E is to the right of C.",
+    "reasoning": "Step 1: A opposite B. Step 2: C between D and E. Step 3: F next to G. Step 4: H next to I. Step 5: C's right is E.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "S is the daughter of T. T is the sister of U. U is the mother of V. How is S related to V?",
+    "choices": [
+      "A) Aunt",
+      "B) Mother",
+      "C) Sister",
+      "D) Cousin"
+    ],
+    "answer": "D",
+    "explanation": "S is the cousin of V, as T is U's sister and S is T's daughter.",
+    "reasoning": "Step 1: S is T's daughter. Step 2: T is U's sister. Step 3: U is V's mother. Step 4: S and V are cousins. Step 5: Conclusion is S is V's cousin.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Thirteen people A, B, C, D, E, F, G, H, I, J, K, L, M sit in a row. A sits at the left end. B sits third from the left. C sits between D and E. F sits next to G. H sits next to I. J sits next to K. L sits next to M. Who sits at position 7?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) D",
+      "D) F"
+    ],
+    "answer": "D",
+    "explanation": "A at 1, B at 3. C between D and E. F and G at 7 and 8. Position 7 is F.",
+    "reasoning": "Step 1: A at 1. Step 2: B at 3. Step 3: C between D and E. Step 4: F and G at 7 and 8. Step 5: Position 7 is F.",
+    "difficulty": "medium"
+  }
+]

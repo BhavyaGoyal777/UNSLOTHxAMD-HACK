@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "In a circular arrangement, A is seated opposite B. C is seated to the immediate left of D, who is two seats away from E. F is seated between G and H. Who is seated to the immediate right of E?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) F",
+      "D) G"
+    ],
+    "answer": "C",
+    "explanation": "E is two seats away from D, so E is next to F. F is between G and H, so F is to the right of E.",
+    "reasoning": "Step 1: A is opposite B in a circular arrangement. Step 2: C is immediately left of D, who is two seats from E. Step 3: F is between G and H. Step 4: E must be next to F. Step 5: F is to the right of E.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "In a row of five seats, A sits at one end. B sits two seats away from A. C sits to the immediate right of B. D sits between E and C. Who sits at the other end?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) D",
+      "D) E"
+    ],
+    "answer": "E",
+    "explanation": "A is at one end. B is two seats away, so B is third. C is next to B, so fourth. D is between E and C, so E must be at the other end.",
+    "reasoning": "Step 1: A at one end. Step 2: B two seats away, so position 3. Step 3: C next to B, position 4. Step 4: D between E and C, so E at position 5. Step 5: E is at the other end.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "In a circular table with six people, A is opposite B. C is two seats to the right of A. D is to the immediate left of E, who is three seats away from F. Who is seated next to F?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) E",
+      "D) B"
+    ],
+    "answer": "B",
+    "explanation": "E is three seats from F, so F is next to E. D is left of E, so F is next to D.",
+    "reasoning": "Step 1: A opposite B. Step 2: C two seats right of A. Step 3: E three seats from F. Step 4: F next to E. Step 5: D left of E, so F next to D.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "In a row of seven seats, A sits third from the left. B sits two seats to the right of A. C sits at the far right. D sits between E and F. G sits to the immediate left of B. Who sits at the far left?",
+    "choices": [
+      "A) D",
+      "B) E",
+      "C) F",
+      "D) G"
+    ],
+    "answer": "D",
+    "explanation": "A is third from left. B is fifth. G is left of B, so fourth. C is far right, seventh. D between E and F, so E and F are first and second or second and third. G is fourth, so far left is E or F. Since G is fourth, E must be second, F third, but A is third. Thus, D is between E and F, making E first.",
+    "reasoning": "Step 1: A third from left. Step 2: B fifth. Step 3: G left of B, so fourth. Step 4: C seventh. Step 5: D between E and F, so E first.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "In a circular arrangement, A is seated next to B and C. B is opposite D. C is next to E, who is opposite F. Who is seated next to F?",
+    "choices": [
+      "A) D",
+      "B) E",
+      "C) C",
+      "D) A"
+    ],
+    "answer": "A",
+    "explanation": "F is opposite E, so next to D. D is opposite B, who is next to A. Thus, F is next to D.",
+    "reasoning": "Step 1: A next to B and C. Step 2: B opposite D. Step 3: C next to E, opposite F. Step 4: F opposite E, so next to D. Step 5: D next to F.",
+    "difficulty": "medium"
+  }
+]

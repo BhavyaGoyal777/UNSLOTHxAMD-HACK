@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Nine persons A to I sit in a straight line facing north. B is third to the left of E. G is immediately right of A, who sits second to the left of B. D sits exactly in the middle. B is not an immediate neighbor of D and H. C sits immediately left of H. I is adjacent to E. How many persons sit to the left of E?",
+    "choices": [
+      "A) 3",
+      "B) 6",
+      "C) 5",
+      "D) 2"
+    ],
+    "answer": "C",
+    "explanation": "E is in position 6, with A, G, B, F, D to the left.",
+    "reasoning": "Step 1: B is third left of E, placing E at position 6. Step 2: A is second left of B, placing A at position 3. Step 3: G is immediately right of A, so G at position 4. Step 4: B is at position 5. Step 5: Counting left of E gives 5 people.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Nine persons A to I sit in a straight line facing north. B is third to the left of E. G is immediately right of A, who sits second to the left of B. D sits exactly in the middle. B is not an immediate neighbor of D and H. C sits immediately left of H. I is adjacent to E. What is the position of D with respect to I?",
+    "choices": [
+      "A) Immediate left",
+      "B) Second to the left",
+      "C) Third to the left",
+      "D) Second to the right"
+    ],
+    "answer": "B",
+    "explanation": "D is second to the left of I.",
+    "reasoning": "Step 1: D is in the middle at position 5. Step 2: I is adjacent to E at position 7. Step 3: Counting from I, D is two positions left. Step 4: D is second to the left of I. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Nine persons A to I sit in a straight line facing north. B is third to the left of E. G is immediately right of A, who sits second to the left of B. D sits exactly in the middle. B is not an immediate neighbor of D and H. C sits immediately left of H. I is adjacent to E. Find the odd one out?",
+    "choices": [
+      "A) I",
+      "B) C",
+      "C) D",
+      "D) G"
+    ],
+    "answer": "D",
+    "explanation": "A is the odd one out as others sit in the middle.",
+    "reasoning": "Step 1: A is at position 1. Step 2: Others are clustered around the middle. Step 3: A is isolated. Step 4: A is the odd one out. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Nine persons A to I sit in a straight line facing north. B is third to the left of E. G is immediately right of A, who sits second to the left of B. D sits exactly in the middle. B is not an immediate neighbor of D and H. C sits immediately left of H. I is adjacent to E. Which are immediate neighbors of B?",
+    "choices": [
+      "A) G-C",
+      "B) A-F",
+      "C) G-F",
+      "D) D-F"
+    ],
+    "answer": "C",
+    "explanation": "G and F are immediate neighbors of B.",
+    "reasoning": "Step 1: B is at position 5. Step 2: G is at position 4. Step 3: F is at position 6. Step 4: G and F are neighbors. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Nine persons A to I sit in a straight line facing north. B is third to the left of E. G is immediately right of A, who sits second to the left of B. D sits exactly in the middle. B is not an immediate neighbor of D and H. C sits immediately left of H. I is adjacent to E. How many persons sit to the right of I?",
+    "choices": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "B",
+    "explanation": "Two people sit to the right of I.",
+    "reasoning": "Step 1: I is at position 7. Step 2: C and H are at positions 8 and 9. Step 3: Counting right of I gives 2 people. Step 4: Verified. Step 5: Final count is 2.",
+    "difficulty": "medium"
+  }
+]

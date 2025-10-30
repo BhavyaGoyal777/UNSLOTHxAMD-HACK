@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Six friends P, Q, R, S, T, U sit in a row. P sits third from the left. Q sits second to the right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P is at position 3. Step 2: Q is second to the right of P, so Q is at position 5. Step 3: R is at an extreme end, which could be position 1 or 6. Step 4: Testing R at position 1 doesn't conflict with other constraints. Step 5: R at position 1 is valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle facing the center. A is left of B. C is opposite D. E is between A and D. Who is to the right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "With A left of B, C opposite D, and E between A and D, B must be to the right of C.",
+    "reasoning": "Step 1: A is left of B. Step 2: C is opposite D. Step 3: E is between A and D. Step 4: In a 5-person circle, opposite means 2-3 positions apart. Step 5: B is adjacent to C, making B to the right of C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D B's aunt. E is D's husband, so E is B's uncle.",
+    "reasoning": "Step 1: A is B's father, C is B's mother. Step 2: D is C's sister, so D is B's aunt. Step 3: E is D's husband. Step 4: E is the husband of B's aunt. Step 5: E is B's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Priya's grandfather had only one child. Priya points to a man, saying he is the only son of her grandfather's only child. How is the man related to Priya?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Uncle",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "The grandfather's only child is Priya's parent. The man is the only son of that parent, making him Priya's brother.",
+    "reasoning": "Step 1: Grandfather's only child is Priya's parent. Step 2: The man is the only son of this parent. Step 3: If the parent has only one son, he could be Priya's brother. Step 4: Since Priya is pointing to the man, they are different people. Step 5: The man is Priya's brother.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six people sit around a circular table. A sits opposite B. C sits to the left of D. E sits between A and F. Who sits to the right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "D",
+    "explanation": "A sits opposite B. C is left of D, so D is to the right of C. E is between A and F, making F to the right of C.",
+    "reasoning": "Step 1: A opposite B. Step 2: C left of D, so D is right of C. Step 3: E between A and F. Step 4: F is next after E. Step 5: F is to the right of C.",
+    "difficulty": "medium"
+  }
+]

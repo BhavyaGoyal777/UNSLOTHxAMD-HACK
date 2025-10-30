@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "If G is the parent of A, T is the child of A, J is the sister-in-law of O, and L is the child of P who is the parent of G, how is J related to A?",
+    "choices": [
+      "A) Uncle",
+      "B) Brother-in-law",
+      "C) Daughter-in-law",
+      "D) Aunt"
+    ],
+    "answer": "B",
+    "explanation": "J is the sister-in-law of O, who is related to A through G and P, making J the brother-in-law of A.",
+    "reasoning": "Step 1: G is the parent of A. Step 2: T is the child of A. Step 3: J is the sister-in-law of O. Step 4: L is the child of P, who is the parent of G. Step 5: J's relation to A is determined as brother-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the parent of B, C is the child of B, D is the sister-in-law of E, and F is the child of G who is the parent of A. G is the wife of H. How is G related to C?",
+    "choices": [
+      "A) Mother",
+      "B) Mother-in-law",
+      "C) Sister-in-law",
+      "D) Daughter-in-law"
+    ],
+    "answer": "B",
+    "explanation": "G is the parent of A, who is the parent of B, making G the grandmother of C. However, since G is the wife of H, she is the mother-in-law of C.",
+    "reasoning": "Step 1: A is the parent of B. Step 2: C is the child of B. Step 3: D is the sister-in-law of E. Step 4: F is the child of G, who is the parent of A. Step 5: G is the mother-in-law of C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the parent of B, C is the child of B, D is the sister-in-law of E, and F is the child of G who is the parent of A. If B is the son of C, how is A related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Mother",
+      "D) Aunt"
+    ],
+    "answer": "B",
+    "explanation": "A is the parent of B, and since B is male, A is the father of B.",
+    "reasoning": "Step 1: A is the parent of B. Step 2: C is the child of B. Step 3: D is the sister-in-law of E. Step 4: F is the child of G, who is the parent of A. Step 5: A is the father of B.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If P is elder to Q, R is the brother of S, and T is younger to P. The age of Q is 22 years and the age of T is 33 years. What can be the age of P?",
+    "choices": [
+      "A) 17 years",
+      "B) 13 years",
+      "C) 29 years",
+      "D) 40 years"
+    ],
+    "answer": "C",
+    "explanation": "P is elder to Q (22) and T (33), so P must be older than 33. The only option older than 33 is 40 years.",
+    "reasoning": "Step 1: P is elder to Q (22). Step 2: R is the brother of S. Step 3: T is younger to P. Step 4: Q is 22, T is 33. Step 5: P must be older than T, so 40 years.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If I is the parent of J, K is the brother of L, and M is the child of I. The age of M is 25 years and the age of L is 32 years. What can be the age of K?",
+    "choices": [
+      "A) 27 years",
+      "B) 23 years",
+      "C) 29 years",
+      "D) 30 years"
+    ],
+    "answer": "D",
+    "explanation": "K is the brother of L (32), and M is 25. K must be older than M but younger than L, so 30 years.",
+    "reasoning": "Step 1: I is the parent of J. Step 2: K is the brother of L. Step 3: M is the child of I. Step 4: M is 25, L is 32. Step 5: K is 30 years old.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If T is the nephew of Q, how is Q related to T?",
+    "choices": [
+      "A) Nephew",
+      "B) Brother",
+      "C) Aunt",
+      "D) Uncle"
+    ],
+    "answer": "C",
+    "explanation": "Q is the aunt of T, as T is the nephew of Q.",
+    "reasoning": "Step 1: T is the nephew of Q. Step 2: Q is the aunt of T. Step 3: Nephew relation confirmed. Step 4: Q is female. Step 5: Q is the aunt of T.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "What does 'L () M × N' mean?",
+    "choices": [
+      "A) M is the sister of N",
+      "B) N is the sister of M",
+      "C) M is the niece of N",
+      "D) N is the brother of M"
+    ],
+    "answer": "A",
+    "explanation": "'L () M × N' means M is the sister of N.",
+    "reasoning": "Step 1: 'L () M × N' translates to M is the sister of N. Step 2: Confirms the sister relation. Step 3: No other relations apply. Step 4: M is the sister of N. Step 5: Correct answer is A.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If 'P of Q + R' means P and R are sisters, which is true?",
+    "choices": [
+      "A) P and R are sisters",
+      "B) P is the mother of Q",
+      "C) R is the sister of P",
+      "D) Q is the mother of R"
+    ],
+    "answer": "A",
+    "explanation": "'P of Q + R' means P and R are sisters to each other.",
+    "reasoning": "Step 1: 'P of Q + R' translates to P and R are sisters. Step 2: Confirms sister relation. Step 3: No other relations apply. Step 4: P and R are sisters. Step 5: Correct answer is A.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If 'Y × Z () K' means Z is the son of K, how is Z related to K?",
+    "choices": [
+      "A) Z and Y are brothers",
+      "B) K is the aunt of Y",
+      "C) Z is the son of K",
+      "D) Y is the son of K"
+    ],
+    "answer": "C",
+    "explanation": "Z is the son of K, as per the given relation.",
+    "reasoning": "Step 1: 'Y × Z () K' means Z is the son of K. Step 2: Confirms son relation. Step 3: No other relations apply. Step 4: Z is the son of K. Step 5: Correct answer is C.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If 'S × J + T' means T is the niece of S, which is true?",
+    "choices": [
+      "A) T is the aunt of S",
+      "B) T is the niece of S",
+      "C) S is the uncle of T",
+      "D) S is the brother of J"
+    ],
+    "answer": "B",
+    "explanation": "T is the niece of S, as per the given relation.",
+    "reasoning": "Step 1: 'S × J + T' means T is the niece of S. Step 2: Confirms niece relation. Step 3: No other relations apply. Step 4: T is the niece of S. Step 5: Correct answer is B.",
+    "difficulty": "easy"
+  }
+]

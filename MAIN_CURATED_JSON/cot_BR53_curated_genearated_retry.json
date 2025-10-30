@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Rohan's grandmother's only son is Rohan's father. The father's wife is Rohan's mother. The brother of Rohan's father is Rohan's uncle. The persons on the left and right are Rohan's uncle and mother. How are the persons on Rahul’s left and right related to each other?",
+    "choices": [
+      "A) Father and Daughter",
+      "B) Brother and Sister",
+      "C) Husband and Wife",
+      "D) Mother and Son"
+    ],
+    "answer": "B",
+    "explanation": "Rohan's grandmother's only son is Rohan's father. The father's wife is Rohan's mother. The brother of Rohan's father is Rohan's uncle. Therefore, the persons on the left and right are brother and sister.",
+    "reasoning": "Step 1: Rohan's grandmother's only son is Rohan's father. Step 2: The father's wife is Rohan's mother. Step 3: The brother of Rohan's father is Rohan's uncle. Step 4: The persons on the left and right are Rohan's uncle and mother. Step 5: Therefore, they are brother and sister.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Anand is the son of Mita's only brother. Mita is the sister of Anand's father. How is Mita related to Anand?",
+    "choices": [
+      "A) Aunt and Nephew",
+      "B) Grandmother and Grandson",
+      "C) Mother and Son",
+      "D) Father and Son"
+    ],
+    "answer": "A",
+    "explanation": "Mita is the sister of Anand's father, making her Anand's aunt.",
+    "reasoning": "Step 1: Anand is the son of Mita's only brother. Step 2: Mita is the sister of Anand's father. Step 3: Therefore, Mita is Anand's aunt.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "The man is the paternal grandfather of Priya's son's wife. The paternal grandfather of Priya's son's wife is Priya's father-in-law. How is the man related to Priya?",
+    "choices": [
+      "A) Husband",
+      "B) Father",
+      "C) Father-in-law",
+      "D) Paternal Grandfather"
+    ],
+    "answer": "C",
+    "explanation": "The man is the paternal grandfather of Priya's son's wife, making him Priya's father-in-law.",
+    "reasoning": "Step 1: The man is the paternal grandfather of Priya's son's wife. Step 2: The paternal grandfather of Priya's son's wife is Priya's father-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "John's father's wife is John's mother. The only son of John's mother is John himself. Maya is the daughter of John. How is Maya related to John?",
+    "choices": [
+      "A) Mother",
+      "B) Daughter",
+      "C) Sister",
+      "D) Niece"
+    ],
+    "answer": "B",
+    "explanation": "John's father's wife is John's mother. The only son of John's mother is John himself. Therefore, Maya is John's daughter.",
+    "reasoning": "Step 1: John's father's wife is John's mother. Step 2: The only son of John's mother is John. Step 3: Maya is the daughter of John. Step 4: Therefore, Maya is John's daughter.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "The teacher is the younger sister of A's mother. The younger sister of A's mother is A's aunt. How is the teacher related to A?",
+    "choices": [
+      "A) Mother",
+      "B) Daughter",
+      "C) Sister",
+      "D) Aunt"
+    ],
+    "answer": "D",
+    "explanation": "The teacher is the younger sister of A's mother, making her A's aunt.",
+    "reasoning": "Step 1: The teacher is the younger sister of A's mother. Step 2: The younger sister of A's mother is A's aunt.",
+    "difficulty": "easy"
+  }
+]

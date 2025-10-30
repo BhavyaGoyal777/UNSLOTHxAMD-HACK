@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons A, B, C, D, P, Q, R, and S sit in a row. Only 3 persons sit to the left of R. 3 persons sit between R and Q. B is 2nd to the left of Q. Who sits immediately to the right of R?",
+    "choices": [
+      "A) Q",
+      "B) P",
+      "C) S",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "Given 3 persons to the left of R and 3 between R and Q, R is positioned with P to the right.",
+    "reasoning": "Step 1: 3 left of R. Step 2: 3 between R and Q. Step 3: B is 2nd to left of Q. Step 4: Determine R's position. Step 5: P is to the right of R.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons A, B, C, D, P, Q, R, and S sit in a row. More than 2 people sit between B and S. D is 2nd to the left of S. Who is third to the right of B?",
+    "choices": [
+      "A) R",
+      "B) C",
+      "C) D",
+      "D) A"
+    ],
+    "answer": "C",
+    "explanation": "With more than 2 between B and S, and D 2nd left of S, D is third right of B.",
+    "reasoning": "Step 1: More than 2 between B and S. Step 2: D is 2nd left of S. Step 3: Determine B's position. Step 4: Count three to the right. Step 5: D is third.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons A, B, C, D, P, Q, R, and S sit in a row. Neighbors of R face south. Neighbors of P face the same direction. Who sits at the extreme left end?",
+    "choices": [
+      "A) R",
+      "B) S",
+      "C) Q",
+      "D) A"
+    ],
+    "answer": "B",
+    "explanation": "S is at the extreme left based on seating constraints and directions.",
+    "reasoning": "Step 1: R's neighbors face south. Step 2: P's neighbors same direction. Step 3: Determine left end. Step 4: S is placed left. Step 5: S is extreme left.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons A, B, C, D, P, Q, R, and S sit in a row. C is 2nd to the right of A. A and P face opposite directions. How many people sit between D and A?",
+    "choices": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "C",
+    "explanation": "Three people sit between D and A based on the arrangement.",
+    "reasoning": "Step 1: C is 2nd right of A. Step 2: A and P opposite directions. Step 3: Determine positions. Step 4: Count between D and A. Step 5: Three people in between.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons A, B, C, D, P, Q, R, and S sit in a row. B and Q face opposite directions. Who sits between P and R?",
+    "choices": [
+      "A) D",
+      "B) C",
+      "C) S",
+      "D) Q"
+    ],
+    "answer": "A",
+    "explanation": "D sits between P and R based on the seating arrangement.",
+    "reasoning": "Step 1: B and Q opposite directions. Step 2: Determine seating order. Step 3: Identify between P and R. Step 4: D is in the middle. Step 5: D confirmed.",
+    "difficulty": "medium"
+  }
+]

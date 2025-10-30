@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a photograph, Arun said, 'She is the mother of my son's wife's daughter.' How is Arun related to the lady?",
+    "choices": [
+      "A) Uncle",
+      "B) Cousin",
+      "C) Father-in-law",
+      "D) None of these"
+    ],
+    "answer": "C",
+    "explanation": "The lady is the mother of Arun's son's wife's daughter, making her Arun's daughter-in-law's mother. Thus, Arun is the father-in-law of the lady.",
+    "reasoning": "Step 1: Arun's son's wife's daughter is his granddaughter. Step 2: The lady is the mother of his granddaughter. Step 3: Therefore, the lady is Arun's daughter-in-law. Step 4: Hence, Arun is the father-in-law of the lady. Step 5: The correct answer is C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a photograph, a lady tells Pramod, 'I am the only daughter of this lady and her son is your maternal uncle.' How is the speaker related to Pramod's father?",
+    "choices": [
+      "A) Sister-in-law",
+      "B) Wife",
+      "C) Either 1 or 2",
+      "D) Neither 1 nor 2"
+    ],
+    "answer": "A",
+    "explanation": "The speaker is the sister of Pramod's father, making her the paternal aunt and sister-in-law to Pramod's father.",
+    "reasoning": "Step 1: The speaker is the only daughter of another lady. Step 2: Her son is Pramod's maternal uncle. Step 3: Therefore, the speaker is Pramod's paternal aunt. Step 4: Hence, she is the sister-in-law of Pramod's father. Step 5: The correct answer is A.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Rahul told Anand, 'Yesterday I defeated the only brother of the daughter of my grandmother.' Whom did Rahul defeat?",
+    "choices": [
+      "A) Son",
+      "B) Father",
+      "C) Brother",
+      "D) Father-in-law"
+    ],
+    "answer": "C",
+    "explanation": "The daughter of Rahul's grandmother is his mother, whose only brother is Rahul's uncle. Thus, Rahul defeated his uncle.",
+    "reasoning": "Step 1: The daughter of Rahul's grandmother is his mother. Step 2: The only brother of his mother is Rahul's uncle. Step 3: Therefore, Rahul defeated his uncle. Step 4: The correct answer is C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to an old man, Kunal said, 'His son is my son's uncle.' How is the old man related to Kunal?",
+    "choices": [
+      "A) Brother",
+      "B) Uncle",
+      "C) Father",
+      "D) Grandfather"
+    ],
+    "answer": "C",
+    "explanation": "The old man's son is Kunal's brother, making the old man Kunal's father.",
+    "reasoning": "Step 1: The old man's son is Kunal's son's uncle. Step 2: Therefore, the old man's son is Kunal's brother. Step 3: Hence, the old man is Kunal's father. Step 4: The correct answer is C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X introduces Y saying, 'He is the husband of the granddaughter of the father of my father.' How is Y related to X?",
+    "choices": [
+      "A) Brother",
+      "B) Son",
+      "C) Brother-in-law",
+      "D) Nephew"
+    ],
+    "answer": "C",
+    "explanation": "The granddaughter of X's father is X's sister, making Y the brother-in-law of X.",
+    "reasoning": "Step 1: The father of X's father is X's grandfather. Step 2: The granddaughter of X's grandfather is X's sister. Step 3: Therefore, Y is the husband of X's sister. Step 4: Hence, Y is X's brother-in-law. Step 5: The correct answer is C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Arun said, 'This girl is the wife of the grandson of my mother.' Who is Arun to the girl?",
+    "choices": [
+      "A) Father",
+      "B) Grandfather",
+      "C) Husband",
+      "D) Father-in-law"
+    ],
+    "answer": "D",
+    "explanation": "The grandson of Arun's mother is Arun's son, making the girl Arun's daughter-in-law. Thus, Arun is the father-in-law.",
+    "reasoning": "Step 1: The grandson of Arun's mother is Arun's son. Step 2: The girl is the wife of Arun's son. Step 3: Therefore, the girl is Arun's daughter-in-law. Step 4: Hence, Arun is the father-in-law of the girl. Step 5: The correct answer is D.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If Kamal says, 'Ravi's mother is the only daughter of my mother, how is Kamal related to Ravi?",
+    "choices": [
+      "A) Grandfather",
+      "B) Father",
+      "C) Brother",
+      "D) Cannot be determined"
+    ],
+    "answer": "B",
+    "explanation": "Ravi's mother is Kamal's mother's only daughter, making Kamal Ravi's father.",
+    "reasoning": "Step 1: Ravi's mother is the only daughter of Kamal's mother. Step 2: Therefore, Ravi's mother is Kamal's sister. Step 3: Hence, Kamal is Ravi's father. Step 4: The correct answer is B.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a person, a man said to a woman, 'His mother is the only daughter of your father. How was the woman related to the person?",
+    "choices": [
+      "A) Aunt",
+      "B) Mother",
+      "C) Wife",
+      "D) Daughter"
+    ],
+    "answer": "B",
+    "explanation": "The woman is the mother of the person because her father is the person's grandfather.",
+    "reasoning": "Step 1: The person's mother is the only daughter of the woman's father. Step 2: Therefore, the woman is the person's mother. Step 3: Hence, the correct answer is B.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a man in a photograph, a woman said, 'His brother's father is the only son of my grandfather.' How is the woman related to the man in the photograph?",
+    "choices": [
+      "A) Mother",
+      "B) Aunt",
+      "C) Sister",
+      "D) Daughter"
+    ],
+    "answer": "A",
+    "explanation": "The man's brother's father is the woman's grandfather's only son, making the woman the man's daughter.",
+    "reasoning": "Step 1: The man's brother's father is the only son of the woman's grandfather. Step 2: Therefore, the man's brother's father is the woman's father. Step 3: Hence, the woman is the man's daughter. Step 4: The correct answer is A.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P's father is Q's son. M is the paternal uncle of P and N is the brother of Q. How is N related to M?",
+    "choices": [
+      "A) Brother",
+      "B) Nephew",
+      "C) Cousin",
+      "D) Data inadequate"
+    ],
+    "answer": "A",
+    "explanation": "P's father is Q's son, making Q P's grandfather. M is P's paternal uncle, so M is Q's son. N is Q's brother, making N M's brother.",
+    "reasoning": "Step 1: P's father is Q's son, so Q is P's grandfather. Step 2: M is P's paternal uncle, so M is Q's son. Step 3: N is Q's brother, making N M's brother. Step 4: The correct answer is A.",
+    "difficulty": "medium"
+  }
+]

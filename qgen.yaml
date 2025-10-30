@@ -1,0 +1,10 @@
+# Q-Agent Generation Configuration
+# Configuration for question generation
+# IMPORTANT: These match training notebook settings (temperature=0.3, seed=42)
+
+max_new_tokens: 1024
+temperature: 0.3
+top_p: 0.9
+do_sample: true
+repetition_penalty: 1.2
+tgps_show: true

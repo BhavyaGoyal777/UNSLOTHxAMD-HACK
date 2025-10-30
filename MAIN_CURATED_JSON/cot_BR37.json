@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is sister of B, B is married to C, C is son of D. A is mother of E. F is father of G, who is daughter of A. G is daughter of A. H is son of B. How is H related to D?",
+    "choices": [
+      "A) Brother",
+      "B) Grandson",
+      "C) Cousin",
+      "D) Uncle"
+    ],
+    "answer": "B",
+    "explanation": "H is the son of B, and B is married to C, who is the son of D. Therefore, H is the grandson of D.",
+    "reasoning": "Step 1: A is sister of B. Step 2: B is married to C. Step 3: C is son of D. Step 4: H is son of B. Step 5: Therefore, H is grandson of D.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is sister of B. A is mother of E. How is E related to B?",
+    "choices": [
+      "A) Nephew",
+      "B) Daughter",
+      "C) Niece",
+      "D) Son-in-law"
+    ],
+    "answer": "C",
+    "explanation": "E is the daughter of A, and A is the sister of B. Therefore, E is the niece of B.",
+    "reasoning": "Step 1: A is sister of B. Step 2: A is mother of E. Step 3: Therefore, E is the niece of B.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is sister of B. B is married to C. C is son of D. How is C related to A?",
+    "choices": [
+      "A) Uncle",
+      "B) Son",
+      "C) Brother-in-law",
+      "D) Brother"
+    ],
+    "answer": "C",
+    "explanation": "C is the son of D, and D is the parent of B. A is the sister of B. Therefore, C is the son of A's sister's husband, making him the brother-in-law.",
+    "reasoning": "Step 1: A is sister of B. Step 2: B is married to C. Step 3: C is son of D. Step 4: Therefore, C is the son of A's sister's husband. Step 5: Hence, C is the brother-in-law of A.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "How is X related to Y?",
+    "choices": [
+      "A) I alone sufficient",
+      "B) II alone sufficient",
+      "C) Both I and II sufficient to answer the question",
+      "D) Both I and II not sufficient to answer the question"
+    ],
+    "answer": "D",
+    "explanation": "The information provided in both statements I and II is insufficient to determine the relationship between X and Y.",
+    "reasoning": "Step 1: Statement I says T is father of U, who is brother of X. Step 2: Statement II says V is mother of Y, who is the only sister of W. Step 3: No direct relation is established between X and Y. Step 4: Therefore, both statements together are insufficient. Step 5: Hence, the answer is D.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Introducing a woman, Nishanthi said, 'She is the daughter-in-law of the grandmother of my mother.' How is this woman related to Nishanthi?",
+    "choices": [
+      "A) Mother-in-law",
+      "B) Mother",
+      "C) Son",
+      "D) Daughter"
+    ],
+    "answer": "A",
+    "explanation": "The woman is the daughter-in-law of Nishanthi's grandmother, making her Nishanthi's mother-in-law.",
+    "reasoning": "Step 1: The woman is daughter-in-law of Nishanthi's grandmother. Step 2: Therefore, she is the wife of Nishanthi's grandfather. Step 3: Hence, she is the mother-in-law of Nishanthi.",
+    "difficulty": "hard"
+  }
+]

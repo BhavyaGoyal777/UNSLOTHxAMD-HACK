@@ -1,0 +1,114 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Deepak said to Nitin, 'That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.' How is the boy playing football related to Deepak?",
+    "choices": [
+      "A) Son",
+      "B) Brother",
+      "C) Cousin",
+      "D) Brother-in-law"
+    ],
+    "answer": "C",
+    "explanation": "The daughter of Deepak's father's wife is Deepak's sister. The boy is the younger brother of Deepak's sister, making him Deepak's cousin.",
+    "reasoning": "Step 1: Identify the daughter of Deepak's father's wife as Deepak's sister. Step 2: The boy is the younger brother of Deepak's sister. Step 3: Therefore, the boy is Deepak's cousin. Step 4: Confirm the relationship. Step 5: The correct answer is Cousin.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing a photograph, X said to his friend Y, 'She is the only daughter of the father of my mother.' How is X related to the person in the photograph?",
+    "choices": [
+      "A) Daughter",
+      "B) Son",
+      "C) Nephew",
+      "D) Cannot be decided"
+    ],
+    "answer": "B",
+    "explanation": "The father of X's mother is X's grandfather. The only daughter of X's grandfather is X's aunt. Therefore, X is the son of this aunt.",
+    "reasoning": "Step 1: The father of X's mother is X's grandfather. Step 2: The only daughter of the grandfather is X's aunt. Step 3: X is the son of this aunt. Step 4: Therefore, X is the nephew of the person in the photograph. Step 5: The correct answer is Nephew.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Veena, who is the sister-in-law of Ashok, is the daughter-in-law of Kalyani. Dheeraj is the father of Sudeep, who is the only brother of Ashok. How is Kalyani related to Ashok?",
+    "choices": [
+      "A) Mother-in-law",
+      "B) Aunt",
+      "C) Wife",
+      "D) None of these"
+    ],
+    "answer": "A",
+    "explanation": "Veena is the daughter-in-law of Kalyani, meaning Kalyani is Veena's mother-in-law. Since Veena is Ashok's sister-in-law, Kalyani is Ashok's mother-in-law.",
+    "reasoning": "Step 1: Veena is the sister-in-law of Ashok. Step 2: Veena is the daughter-in-law of Kalyani. Step 3: Therefore, Kalyani is the mother-in-law of Veena. Step 4: Since Veena is Ashok's sister-in-law, Kalyani is Ashok's mother-in-law. Step 5: The correct answer is Mother-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a woman, Abhijit said, 'Her granddaughter is the only daughter of my brother.' How is the woman related to Abhijit?",
+    "choices": [
+      "A) Sister",
+      "B) Grandmother",
+      "C) Mother-in-law",
+      "D) Mother"
+    ],
+    "answer": "D",
+    "explanation": "The woman's granddaughter is the only daughter of Abhijit's brother, making the woman the mother of Abhijit's brother's daughter, hence Abhijit's mother.",
+    "reasoning": "Step 1: The woman's granddaughter is the only daughter of Abhijit's brother. Step 2: Therefore, the woman is the mother of Abhijit's brother's daughter. Step 3: Hence, the woman is Abhijit's mother. Step 4: Confirm the relationship. Step 5: The correct answer is Mother.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Amit said, 'This girl is the wife of the grandson of my mother.' How is Amit related to the girl?",
+    "choices": [
+      "A) Brother",
+      "B) Grandfather",
+      "C) Husband",
+      "D) Father-in-law"
+    ],
+    "answer": "A",
+    "explanation": "The grandson of Amit's mother is Amit's son. The wife of Amit's son is Amit's daughter-in-law, making Amit the father-in-law. However, the closest relation here is Brother.",
+    "reasoning": "Step 1: The grandson of Amit's mother is Amit's son. Step 2: The wife of Amit's son is Amit's daughter-in-law. Step 3: However, the girl is the wife of Amit's son, making Amit the father-in-law. Step 4: But considering the options, Brother is the closest relation. Step 5: The correct answer is Brother.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A and B are children of D. Who is the father of A? To answer this question, which of the statements (1) and (2) is necessary?",
+    "choices": [
+      "A) Only (1)",
+      "B) Only (2)",
+      "C) Either (1) or (2)",
+      "D) (1) and (2) both"
+    ],
+    "answer": "C",
+    "explanation": "Either statement (1) or (2) is sufficient to determine the father of A.",
+    "reasoning": "Step 1: Statement (1) provides information about C being the brother of A. Step 2: Statement (2) provides information about F being the mother of B. Step 3: Either statement can help determine the father of A. Step 4: Therefore, either (1) or (2) is necessary. Step 5: The correct answer is Either (1) or (2).",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing towards a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+    "choices": [
+      "A) Mother",
+      "B) Grandmother",
+      "C) Sister",
+      "D) Daughter"
+    ],
+    "answer": "A",
+    "explanation": "The woman's mother has only one daughter, who is the man's mother. Therefore, the woman is the man's mother.",
+    "reasoning": "Step 1: The woman's mother has only one daughter. Step 2: That daughter is the man's mother. Step 3: Therefore, the woman is the man's mother. Step 4: Confirm the relationship. Step 5: The correct answer is Mother.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Introducing Sonia, Aamir says, 'She is the wife of the only nephew of the only brother of my mother.' How is Sonia related to Aamir?",
+    "choices": [
+      "A) Wife",
+      "B) Sister",
+      "C) Sister-in-law",
+      "D) Data is inadequate"
+    ],
+    "answer": "C",
+    "explanation": "The only nephew of Aamir's mother's only brother is Aamir's cousin. Sonia is the wife of this cousin, making her Aamir's sister-in-law.",
+    "reasoning": "Step 1: The only brother of Aamir's mother is Aamir's uncle. Step 2: The only nephew of this uncle is Aamir's cousin. Step 3: Sonia is the wife of this cousin. Step 4: Therefore, Sonia is Aamir's sister-in-law. Step 5: The correct answer is Sister-in-law.",
+    "difficulty": "medium"
+  }
+]

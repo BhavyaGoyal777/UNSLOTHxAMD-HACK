@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Prateek is the son of Rashmi. Rashmi is the wife of Sawan. Sawan is the husband of Chitra. How is Prateek related to Chitra?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "Prateek is the brother-in-law of Chitra, making him her uncle.",
+    "reasoning": "Step 1: Prateek is the son of Rashmi. Step 2: Rashmi is the wife of Sawan. Step 3: Sawan is Chitra's husband. Step 4: Therefore, Prateek is Chitra's brother-in-law. Step 5: Hence, Prateek is Chitra's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Kartik is the brother of Preeti. Preeti is the mother of Amrita. How is Kartik related to Amrita?",
+    "choices": [
+      "A) Uncle",
+      "B) Brother",
+      "C) Cousin",
+      "D) Father"
+    ],
+    "answer": "A",
+    "explanation": "Kartik is the brother of Preeti, who is the mother of Amrita, making Kartik the uncle.",
+    "reasoning": "Step 1: Kartik is the brother of Preeti. Step 2: Preeti is the mother of Amrita. Step 3: Therefore, Kartik is the uncle of Amrita. Step 4: This relationship is confirmed by the family tree. Step 5: Kartik is Amrita's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends A, B, C, D, E sit in a circle facing center. A is left of B. C is opposite D. E is between A and D. Who is right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "In the circular arrangement, B is to the right of C.",
+    "reasoning": "Step 1: A is left of B. Step 2: C is opposite D. Step 3: E is between A and D. Step 4: Placing all constraints, B must be adjacent to C. Step 5: B is right of C verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Ram is the brother of Hema. Hema is the aunt of Monika. How is Ram related to Monika?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "Ram is the brother of Hema, who is the aunt of Monika, making Ram the uncle.",
+    "reasoning": "Step 1: Ram is the brother of Hema. Step 2: Hema is the aunt of Monika. Step 3: Therefore, Ram is the uncle of Monika. Step 4: This relationship is confirmed by the family tree. Step 5: Ram is Monika's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six friends P, Q, R, S, T, U sit in a row. P sits third from left. Q sits second to the right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P at position 3, Q second to right means position 5. Step 2: R at extreme means position 1 or 6. Step 3: Test if R can be at position 1. Step 4: No conflicts with other constraints. Step 5: R at position 1 is valid.",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends A, B, C, D, E sit in a circle facing center. A is left of B. C is opposite D. E is between A and D. Who is right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "With A left of B, C opposite D, and E between A and D, the circular arrangement forces B to be right of C.",
+    "reasoning": "Step 1: Given A left of B, C opposite D, E between A and D. Step 2: Need to find who is right of C. Step 3: In 5-person circle, opposite means 2-3 positions apart. Step 4: Placing all constraints, B must be adjacent to C. Step 5: B is right of C verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D the maternal aunt of B. E is D's husband, so E is B's maternal uncle.",
+    "reasoning": "Step 1: Given A is father, C is mother of B, D is C's sister, E is D's husband. Step 2: Find E's relation to B. Step 3: D is sister of B's mother, so D is maternal aunt. Step 4: E is husband of aunt, making E uncle. Step 5: E is maternal uncle of B verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six friends P, Q, R, S, T, U sit in a row. P sits third from left. Q sits second to right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P at position 3, Q second to right means position 5. Step 2: R at extreme means position 1 or 6. Step 3: Test if R can be at position 1. Step 4: No conflicts with other constraints. Step 5: R at position 1 is valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a man, Priya said he is the only son of my grandfather's only child. Priya's grandfather had only one child. How is the man related to Priya?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Uncle",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "Priya's grandfather's only child must be one of Priya's parents. The only son of that parent is Priya's brother.",
+    "reasoning": "Step 1: Grandfather has only one child who must be Priya's parent. Step 2: The man is the only son of this parent. Step 3: If parent has only one son and Priya exists, Priya could be daughter or the man is Priya if male. Step 4: Since Priya is pointing to the man, they are different people. Step 5: Man is Priya's brother.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five persons sit on a bench. Blue-eyed lady in the middle is my mother. Extreme left is my maternal uncle. Lady at extreme right has a pimple and is wife of the person between blue-eyed lady and grey-haired man. Lady with marks is the younger sister of blue-eyed lady. Person with pointed nose is the son of blue-eyed lady. What is the lady with marks to the man at extreme left?",
+    "choices": [
+      "A) Wife",
+      "B) Maternal Aunt",
+      "C) Sister",
+      "D) Sister-in-law"
+    ],
+    "answer": "D",
+    "explanation": "The lady with marks is the younger sister of the blue-eyed lady, making her the sister-in-law of the man at the extreme left.",
+    "reasoning": "Step 1: Blue-eyed lady is mother. Step 2: Extreme left is maternal uncle. Step 3: Lady with marks is younger sister of mother. Step 4: Younger sister of mother is sister-in-law to maternal uncle. Step 5: Lady with marks is sister-in-law to man at extreme left.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Akash said to Mohit, 'That boy in blue shirt is younger of the two brothers of the daughter of my father's wife.' How is the boy in the blue shirt related to Akash?",
+    "choices": [
+      "A) Father",
+      "B) Uncle",
+      "C) Brother",
+      "D) Nephew"
+    ],
+    "answer": "C",
+    "explanation": "The boy is the younger brother of Akash's sister, making him Akash's brother.",
+    "reasoning": "Step 1: Daughter of Akash's father's wife is Akash's sister. Step 2: Two brothers of sister are Akash and another brother. Step 3: Younger brother is Akash's brother. Step 4: Boy in blue shirt is Akash's brother. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Arun said, 'This girl is the wife of the grandson of my mother.' Who is Arun to the girl?",
+    "choices": [
+      "A) Father",
+      "B) Grandfather",
+      "C) Husband",
+      "D) Father-in-law"
+    ],
+    "answer": "D",
+    "explanation": "The girl is the wife of Arun's grandson, making Arun the father-in-law.",
+    "reasoning": "Step 1: Girl is wife of grandson of Arun's mother. Step 2: Arun's mother's grandson is Arun's son's son. Step 3: Wife of Arun's grandson is Arun's daughter-in-law. Step 4: Arun is father-in-law to the girl. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to Ketan, Namarata said, 'He is the son of my father's only son.' How is Ketan's mother related to Namarata?",
+    "choices": [
+      "A) Daughter",
+      "B) Aunt",
+      "C) Sister",
+      "D) Sister-in-law"
+    ],
+    "answer": "C",
+    "explanation": "Ketan's mother is Namarata's sister as she is the only son's wife.",
+    "reasoning": "Step 1: Ketan is son of Namarata's father's only son. Step 2: Only son is Namarata's brother. Step 3: Ketan's mother is Namarata's brother's wife. Step 4: Namarata's brother's wife is Namarata's sister-in-law. Step 5: Ketan's mother is Namarata's sister-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A, B, and C are sisters. D is the brother of E, and E is the daughter of B. How is A related to D?",
+    "choices": [
+      "A) Sister",
+      "B) Cousin",
+      "C) Niece",
+      "D) Aunt"
+    ],
+    "answer": "C",
+    "explanation": "A is the aunt of E, and since D is E's brother, A is D's aunt.",
+    "reasoning": "Step 1: A, B, C are sisters. Step 2: E is daughter of B, making E A's niece. Step 3: D is brother of E, so D is A's nephew. Step 4: A is aunt of D. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P's father is Q's son. M is the paternal uncle of P, and N is the brother of Q. How is N related to M?",
+    "choices": [
+      "A) Brother",
+      "B) Cousin",
+      "C) Nephew",
+      "D) Data inadequate"
+    ],
+    "answer": "D",
+    "explanation": "Insufficient data to determine the exact relationship.",
+    "reasoning": "Step 1: P's father is Q's son. Step 2: M is paternal uncle of P. Step 3: N is brother of Q. Step 4: Relationship between N and M is unclear. Step 5: Data inadequate.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A girl introduced a boy as the son of the daughter of her uncle's father. What is the boy to the girl?",
+    "choices": [
+      "A) Brother",
+      "B) Son",
+      "C) Uncle",
+      "D) Cousin"
+    ],
+    "answer": "D",
+    "explanation": "The boy is the son of the girl's cousin, making him her cousin.",
+    "reasoning": "Step 1: Daughter of uncle's father is the girl's cousin. Step 2: Son of cousin is the girl's cousin. Step 3: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Suresh's sister is Ram's wife. Ram is Rani's brother. Ram's father is Madhur. Sheetal is Ram's grandmother. Rema is Sheetal's daughter-in-law. Rohit is Rani's brother's son. Who is Rohit to Suresh?",
+    "choices": [
+      "A) Brother-in-law",
+      "B) Son",
+      "C) Brother",
+      "D) Nephew"
+    ],
+    "answer": "D",
+    "explanation": "Rohit is Rani's brother's son, making him Suresh's nephew.",
+    "reasoning": "Step 1: Suresh's sister is Ram's wife. Step 2: Ram is Rani's brother. Step 3: Rohit is Rani's brother's son. Step 4: Rohit is Suresh's nephew. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Vinod introduces Vishal as the son of the only brother of his father's wife. How is Vinod related to Vishal?",
+    "choices": [
+      "A) Cousin",
+      "B) Brother",
+      "C) Son",
+      "D) Uncle"
+    ],
+    "answer": "A",
+    "explanation": "Vishal is the son of Vinod's uncle, making him Vinod's cousin.",
+    "reasoning": "Step 1: Vishal is son of only brother of Vinod's father's wife. Step 2: Only brother is Vinod's uncle. Step 3: Vishal is Vinod's cousin. Step 4: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a man, Roshani said his wife is the only daughter-in-law of her father-in-law Mohan. How is the man related to Mohan?",
+    "choices": [
+      "A) Son",
+      "B) Uncle",
+      "C) Father",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "The man is Mohan's son as his wife is the only daughter-in-law.",
+    "reasoning": "Step 1: Wife is only daughter-in-law of Mohan. Step 2: Man is Mohan's son. Step 3: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six people sit in a row. P sits third from left. Q sits second to right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P at position 3, Q second to right means position 5. Step 2: R at extreme means position 1 or 6. Step 3: Test if R can be at position 1. Step 4: No conflicts with other constraints. Step 5: R at position 1 is valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A girl introduced a boy as the son of the daughter of her uncle's father. What is the boy to the girl?",
+    "choices": [
+      "A) Brother",
+      "B) Son",
+      "C) Uncle",
+      "D) Cousin"
+    ],
+    "answer": "D",
+    "explanation": "The boy is the son of the girl's cousin, making him her cousin.",
+    "reasoning": "Step 1: Daughter of uncle's father is the girl's cousin. Step 2: Son of cousin is the girl's cousin. Step 3: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle facing center. A is left of B. C is opposite D. E is between A and D. Who is right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "With A left of B, C opposite D, and E between A and D, the circular arrangement forces B to be right of C.",
+    "reasoning": "Step 1: Given A left of B, C opposite D, E between A and D. Step 2: Need to find who is right of C. Step 3: In 5-person circle, opposite means 2-3 positions apart. Step 4: Placing all constraints, B must be adjacent to C. Step 5: B is right of C verified.",
+    "difficulty": "medium"
+  }
+]

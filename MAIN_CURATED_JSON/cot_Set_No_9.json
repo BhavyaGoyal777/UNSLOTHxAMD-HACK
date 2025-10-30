@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends A, B, C, D, E sit in a row. A sits at an extreme end. B sits to the immediate right of A. C sits at the other extreme end. Who sits in the middle?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D"
+    ],
+    "answer": "D",
+    "explanation": "A is at one end, B next to A, C at the other end. The middle seat is occupied by D.",
+    "reasoning": "Step 1: A is at one end. Step 2: B is next to A. Step 3: C is at the other end. Step 4: The middle seat is between B and C. Step 5: D must be in the middle.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is B's aunt, making E B's uncle.",
+    "reasoning": "Step 1: A is B's father. Step 2: C is B's mother. Step 3: D is C's sister, B's aunt. Step 4: E is D's husband. Step 5: E is B's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six people P, Q, R, S, T, U sit in a row. P sits third from left. Q sits second to the right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P at position 3, Q at 5. Step 2: R at extreme means 1 or 6. Step 3: Test R at 1. Step 4: No conflicts. Step 5: R at 1 is valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a man, Priya said he is the only son of my grandfather's only child. Priya's grandfather had only one child. How is the man related to Priya?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Uncle",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "The man is Priya's brother.",
+    "reasoning": "Step 1: Grandfather's only child is Priya's parent. Step 2: The man is the only son of this parent. Step 3: Priya and the man are siblings. Step 4: The man is Priya's brother.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle facing center. A is left of B. C is opposite D. E is between A and D. Who is right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "B is right of C.",
+    "reasoning": "Step 1: A left of B, C opposite D, E between A and D. Step 2: B must be adjacent to C. Step 3: B is right of C.",
+    "difficulty": "medium"
+  }
+]

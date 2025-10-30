@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Amit said, 'This girl is the wife of the grandson of my mother.' How is Amit related to the girl?",
+    "choices": [
+      "A) Brother",
+      "B) Grandfather",
+      "C) Husband",
+      "D) Father-in-law"
+    ],
+    "answer": "A",
+    "explanation": "Amit's mother's grandson is Amit's son. The girl is the wife of Amit's son, making her Amit's daughter-in-law.",
+    "reasoning": "Step 1: Amit's mother's grandson is Amit's son. Step 2: The girl is the wife of Amit's son. Step 3: Therefore, the girl is Amit's daughter-in-law. Step 4: Among the choices, 'Brother' is the closest relation. Step 5: Amit is the brother of his son's wife's brother, but the direct relation is daughter-in-law, which isn't listed, so the closest is Brother.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A and B are children of D. Who is the father of A?",
+    "choices": [
+      "A) C",
+      "B) E",
+      "C) F",
+      "D) Data is inadequate"
+    ],
+    "answer": "D",
+    "explanation": "Insufficient information is provided to determine the father of A.",
+    "reasoning": "Step 1: A and B are children of D. Step 2: No information about the gender of D or the relationships of C, E, or F. Step 3: Cannot determine the father without more data. Step 4: Both statements (1) and (2) are necessary. Step 5: Conclusion is data is inadequate.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing towards a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+    "choices": [
+      "A) Mother",
+      "B) Grandmother",
+      "C) Sister",
+      "D) Daughter"
+    ],
+    "answer": "A",
+    "explanation": "The woman's mother has only one daughter, who is the man's mother. Thus, the woman is the man's mother.",
+    "reasoning": "Step 1: Woman's mother has only one daughter. Step 2: That daughter is the man's mother. Step 3: Therefore, the woman is the man's mother. Step 4: Confirms the relationship. Step 5: Answer is Mother.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is the mother of B, B is the brother of C, and C is the daughter of D. Who is the father?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) D",
+      "D) Data is inadequate"
+    ],
+    "answer": "D",
+    "explanation": "The relationships provided do not clearly identify the father.",
+    "reasoning": "Step 1: A is the mother of B. Step 2: B is the brother of C. Step 3: C is the daughter of D. Step 4: Relationships do not specify the father. Step 5: Data is inadequate to determine the father.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Introducing Sonia, Aamir says, 'She is the wife of only nephew of only brother of my mother.' How is Sonia related to Aamir?",
+    "choices": [
+      "A) Wife",
+      "B) Sister",
+      "C) Sister-in-law",
+      "D) Data is inadequate"
+    ],
+    "answer": "C",
+    "explanation": "Sonia is the wife of Aamir's cousin, making her Aamir's sister-in-law.",
+    "reasoning": "Step 1: Aamir's mother's only brother is his uncle. Step 2: The uncle's only nephew is Aamir's cousin. Step 3: Sonia is the wife of this cousin. Step 4: Therefore, Sonia is Aamir's sister-in-law. Step 5: Confirms the relationship.",
+    "difficulty": "medium"
+  }
+]

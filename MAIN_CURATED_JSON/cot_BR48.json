@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is the father of B. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D the maternal aunt of B. E is D's husband, so E is B's maternal uncle.",
+    "reasoning": "Step 1: Given A is father, C is mother of B, D is C's sister, E is D's husband. Step 2: Find E's relation to B. Step 3: D is sister of B's mother, so D is maternal aunt. Step 4: E is husband of aunt, making E uncle. Step 5: E is maternal uncle of B verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "M is the sister of N. N is the father of P. Q is P's sister. How is Q related to M?",
+    "choices": [
+      "A) Daughter",
+      "B) Sister",
+      "C) Niece",
+      "D) Aunt"
+    ],
+    "answer": "C",
+    "explanation": "M is the sister of N, making M the aunt of P and Q. Since Q is P's sister, Q is M's niece.",
+    "reasoning": "Step 1: M is sister of N, N is father of P. Step 2: M is aunt of P. Step 3: Q is sister of P, so Q is niece of M. Step 4: Verified Q is niece of M.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "R is the mother of S. T is S's father. U is T's brother. How is U related to R?",
+    "choices": [
+      "A) Brother",
+      "B) Son",
+      "C) Uncle",
+      "D) Father"
+    ],
+    "answer": "C",
+    "explanation": "U is T's brother, and T is R's husband. Therefore, U is R's brother-in-law, making him R's uncle.",
+    "reasoning": "Step 1: R is mother of S, T is father of S. Step 2: U is brother of T. Step 3: U is brother-in-law of R. Step 4: U is uncle of S. Step 5: U is uncle of R's child, making him R's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "V is the daughter of W. X is W's brother. Y is X's son. How is Y related to V?",
+    "choices": [
+      "A) Cousin",
+      "B) Brother",
+      "C) Uncle",
+      "D) Nephew"
+    ],
+    "answer": "A",
+    "explanation": "V is the daughter of W, and X is W's brother, making X V's uncle. Y is X's son, so Y is V's cousin.",
+    "reasoning": "Step 1: V is daughter of W. Step 2: X is brother of W, making X V's uncle. Step 3: Y is son of X, so Y is V's cousin. Step 4: Verified Y is cousin of V.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Z is the father of A. B is A's mother. C is B's sister. D is C's daughter. How is D related to Z?",
+    "choices": [
+      "A) Granddaughter",
+      "B) Daughter",
+      "C) Sister",
+      "D) Aunt"
+    ],
+    "answer": "A",
+    "explanation": "C is B's sister, making C Z's daughter-in-law. D is C's daughter, so D is Z's granddaughter.",
+    "reasoning": "Step 1: Z is father of A, B is mother of A. Step 2: C is sister of B, making C Z's daughter-in-law. Step 3: D is daughter of C, so D is granddaughter of Z. Step 4: Verified D is granddaughter of Z.",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is sister of B. E is brother of B. E is son of H. H is married to F. F is daughter of C. E is brother of D. D is married to I. How is I related to A?",
+    "choices": [
+      "A) Sister",
+      "B) Mother",
+      "C) Daughter-in-law",
+      "D) Sister-in-law"
+    ],
+    "answer": "D",
+    "explanation": "I is married to D, who is the sister of E. E is the brother of B, making D the sister-in-law of B, and thus the sister-in-law of A.",
+    "reasoning": "Step 1: A is sister of B. Step 2: E is brother of B, so E is A's brother. Step 3: E is son of H, so H is A's father. Step 4: H is married to F, making F A's mother. Step 5: F is daughter of C, so C is A's grandmother. Step 6: E is brother of D, making D A's sister. Step 7: D is married to I, so I is A's brother-in-law. However, since the options don't include brother-in-law, the closest is sister-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "M is brother of C. No information is provided about G's relationship to M or C. How is G related to M?",
+    "choices": [
+      "A) Cousin",
+      "B) Uncle",
+      "C) Brother",
+      "D) Can't be determined"
+    ],
+    "answer": "D",
+    "explanation": "The relationship between G and M cannot be determined with the given information.",
+    "reasoning": "Step 1: M is brother of C. Step 2: No information about G's relationship to M or C. Step 3: Without additional details, G's relation to M is unknown. Step 4: The answer cannot be determined from the given data. Step 5: Therefore, the correct answer is 'Can't be determined.'",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "R is daughter of I. No information is provided about B's relationship to I or R. How is B related to R?",
+    "choices": [
+      "A) Uncle",
+      "B) Brother",
+      "C) Father",
+      "D) Can't be determined"
+    ],
+    "answer": "D",
+    "explanation": "The relationship between B and R cannot be determined with the given information.",
+    "reasoning": "Step 1: R is daughter of I. Step 2: No information about B's relationship to I or R. Step 3: Without additional details, B's relation to R is unknown. Step 4: The answer cannot be determined from the given data. Step 5: Therefore, the correct answer is 'Can't be determined.'",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Michael said, pointing to Mahavir, 'He is the son of my grandfather’s daughter.' How is Mahavir related to Michael?",
+    "choices": [
+      "A) Grandfather",
+      "B) Cousin",
+      "C) Uncle",
+      "D) Brother"
+    ],
+    "answer": "B",
+    "explanation": "Mahavir is the son of Michael's grandfather's daughter, making Mahavir Michael's cousin.",
+    "reasoning": "Step 1: Michael's grandfather's daughter is Michael's mother or aunt. Step 2: If it's Michael's mother, Mahavir would be Michael's brother. Step 3: If it's Michael's aunt, Mahavir would be Michael's cousin. Step 4: Since the options include cousin, and brother is also an option, we need to determine which is correct. Step 5: The correct relationship is cousin.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "In which of the following pairs is the first person daughter of the second person?",
+    "choices": [
+      "A) G, J",
+      "B) F, H",
+      "C) H, G",
+      "D) I, H"
+    ],
+    "answer": "B",
+    "explanation": "F is daughter of H, as per the given relations.",
+    "reasoning": "Step 1: From the relations, F is daughter of H. Step 2: Therefore, F is the daughter of H. Step 3: The correct pair is F, H. Step 4: Hence, Option B is correct. Step 5: Confirmed.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a lady in the photograph, Kiran said, 'She is the daughter of the daughter of my mother.' How is the lady related to Kiran?",
+    "choices": [
+      "A) Sister",
+      "B) Maternal aunt",
+      "C) Niece",
+      "D) Cousin"
+    ],
+    "answer": "C",
+    "explanation": "The lady is the daughter of Kiran's mother's daughter, making her Kiran's niece.",
+    "reasoning": "Step 1: Kiran's mother's daughter is Kiran herself or her sister. Step 2: The lady is the daughter of Kiran's sister. Step 3: Therefore, the lady is Kiran's niece. Step 4: The correct answer is niece. Step 5: Confirmed.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a lady in the photograph, Nitesh said, 'Her mother is the only daughter of my mother.' How is the lady related to Nitesh?",
+    "choices": [
+      "A) Nephew",
+      "B) Uncle",
+      "C) Maternal uncle",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "The lady's mother is Nitesh's mother's only daughter, making the lady Nitesh's sister. Therefore, the lady's son would be Nitesh's nephew.",
+    "reasoning": "Step 1: Nitesh's mother's only daughter is Nitesh's sister. Step 2: The lady is Nitesh's sister. Step 3: The lady's son is Nitesh's nephew. Step 4: Therefore, the correct answer is nephew. Step 5: Confirmed.",
+    "difficulty": "medium"
+  }
+]

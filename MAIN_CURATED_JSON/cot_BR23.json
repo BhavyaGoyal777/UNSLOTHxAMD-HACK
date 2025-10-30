@@ -1,0 +1,58 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Introducing a man, a woman said, 'He is the only son of the mother of my mother.' How is the woman related to the man?",
+    "choices": [
+      "A) Mother",
+      "B) Sister",
+      "C) Daughter",
+      "D) Maternal aunt"
+    ],
+    "answer": "C",
+    "explanation": "The man is the only son of the woman's grandmother, making him her father. Therefore, the woman is his daughter.",
+    "reasoning": "Step 1: The man is the only son of the woman's grandmother. Step 2: The woman's grandmother's only son is her father. Step 3: Therefore, the man is the woman's father. Step 4: The woman is the daughter of the man. Step 5: The correct answer is Daughter.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to Gopi, Nalni says, 'I am the daughter of the only son of his grandfather.' How is Nalni related to Gopi?",
+    "choices": [
+      "A) Niece",
+      "B) Daughter",
+      "C) Sister",
+      "D) Cannot be determined"
+    ],
+    "answer": "C",
+    "explanation": "The only son of Gopi's grandfather is Gopi's father. Nalni is the daughter of Gopi's father, making her Gopi's sister.",
+    "reasoning": "Step 1: The only son of Gopi's grandfather is Gopi's father. Step 2: Nalni is the daughter of Gopi's father. Step 3: Therefore, Nalni is Gopi's sister. Step 4: The correct answer is Sister. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A's son B is married to C, whose sister D is married to E, the brother of B. How is D related to A?",
+    "choices": [
+      "A) Sister",
+      "B) Daughter-in-law",
+      "C) Sister-in-law",
+      "D) Cousin"
+    ],
+    "answer": "B",
+    "explanation": "D is the sister of C, who is married to B. E is B's brother, making D the wife of E and thus A's daughter-in-law.",
+    "reasoning": "Step 1: B is A's son. Step 2: C is B's wife. Step 3: D is C's sister. Step 4: E is B's brother. Step 5: D is married to E, making her A's daughter-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a lady, a person said, 'The son of her only brother is the brother of my wife.' How is the lady related to the person?",
+    "choices": [
+      "A) Maternal aunt",
+      "B) Grandmother",
+      "C) Sister of father-in-law",
+      "D) None of these"
+    ],
+    "answer": "A",
+    "explanation": "The lady's only brother's son is the brother of the person's wife, making the lady the maternal aunt of the person.",
+    "reasoning": "Step 1: The lady's brother's son is the brother of the person's wife. Step 2: This makes the lady the aunt of the person's wife. Step 3: Therefore, the lady is the person's maternal aunt. Step 4: Correct answer is Maternal aunt. Step 5: Verified.",
+    "difficulty": "medium"
+  }
+]

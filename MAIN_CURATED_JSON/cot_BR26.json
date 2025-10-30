@@ -1,0 +1,30 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends A, B, C, D, E sit in a row. A sits at one end. B sits to the immediate right of A. C sits at the other end. D sits between B and E. Who sits in the middle?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D"
+    ],
+    "answer": "D",
+    "explanation": "A is at one end, B next to A, C at the other end. D is between B and E, making D the middle.",
+    "reasoning": "Step 1: A at left end. Step 2: B next to A. Step 3: C at right end. Step 4: D between B and E. Step 5: D is middle.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is Y's father. Y is Z's mother. Z is Q's sister. How is X related to Q?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "D",
+    "explanation": "X is Y's father, Y is Z's mother, making X Z's grandfather. Since Z is Q's sister, X is also Q's grandfather.",
+    "reasoning": "Step 1: X is Y's father. Step 2: Y is Z's mother. Step 3: Z is Q's sister. Step 4: X is Z's grandfather. Step 5: X is Q's grandfather.",
+    "difficulty": "medium"
+  }
+]

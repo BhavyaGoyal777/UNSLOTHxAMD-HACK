@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "P is the mother of R. R is the sister of Q. Q is the brother of T. What does this mean?",
+    "choices": [
+      "A) T is the husband of P",
+      "B) R is the son of T",
+      "C) R is the daughter of T",
+      "D) T is the wife of P"
+    ],
+    "answer": "C",
+    "explanation": "R is the daughter of T, as R is the sister of Q, who is the brother of T.",
+    "reasoning": "Step 1: P is the mother of R. Step 2: R is the sister of Q. Step 3: Q is the brother of T. Step 4: Therefore, R is the daughter of T. Step 5: R is the daughter of T confirmed.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is the son of U. U is the father of R. R is the mother of Q. Q is the brother of B. Which of the following indicates that 'A is the paternal uncle of B'?",
+    "choices": [
+      "A) A is the son of U, U is the mother of Q, Q is the brother of B",
+      "B) A is the son of U, U is the father of R, R is the mother of Q, Q is the brother of B",
+      "C) B is the son of R, R is the daughter of Q, Q is the sister of U, U is the brother of A",
+      "D) B is the daughter of Q, Q is the sister of U, U is the brother of R, R is the father of A"
+    ],
+    "answer": "B",
+    "explanation": "A is the paternal uncle of B as A is the son of U, who is the father of R, making A the uncle of B.",
+    "reasoning": "Step 1: A is the son of U. Step 2: U is the father of R. Step 3: R is the mother of Q. Step 4: Q is the brother of B. Step 5: A is the paternal uncle of B confirmed.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is the sister of P. P is the mother of Q. Q is the brother of V. V is the son of R. Which of the following can be the correct conclusion?",
+    "choices": [
+      "A) R is the grandson of P",
+      "B) A is the aunt of Q",
+      "C) Q is the uncle of R",
+      "D) R is the niece of Q"
+    ],
+    "answer": "B",
+    "explanation": "A is the aunt of Q, as A is the sister of P, who is the mother of Q.",
+    "reasoning": "Step 1: A is the sister of P. Step 2: P is the mother of Q. Step 3: Q is the brother of V. Step 4: V is the son of R. Step 5: A is the aunt of Q confirmed.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "E is the son of C. C is the mother of D. D is the brother of G. G is the sister of F. Which of the following can be a correct conclusion?",
+    "choices": [
+      "A) D is the brother of F",
+      "B) C has two sons and two daughters",
+      "C) D is the sister of F",
+      "D) F is the sister of E"
+    ],
+    "answer": "A",
+    "explanation": "D is the brother of F, as D is the brother of G, who is the sister of F.",
+    "reasoning": "Step 1: E is the son of C. Step 2: C is the mother of D. Step 3: D is the brother of G. Step 4: G is the sister of F. Step 5: D is the brother of F confirmed.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "N is the father of D. D is the son of R. R is the mother of M. Which of the following indicates that 'M is the daughter of N'?",
+    "choices": [
+      "A) Q is the father of P, P is the son of C, C is the mother of N, N is the mother of V",
+      "B) N is the father of D, D is the son of R, R is the mother of M, M is the daughter of B",
+      "C) F is the mother of N, N is the father of R, R is the son of M",
+      "D) F is the brother of M, M is the sister of B, B is the daughter of N"
+    ],
+    "answer": "B",
+    "explanation": "M is the daughter of N, as N is the father of D, who is the son of R, making M the daughter of N.",
+    "reasoning": "Step 1: N is the father of D. Step 2: D is the son of R. Step 3: R is the mother of M. Step 4: M is the daughter of N. Step 5: M is the daughter of N confirmed.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is the daughter of Q. R has only two children, P and S. R is the son of Y. Who is the father of Q?",
+    "choices": [
+      "A) W",
+      "B) Y",
+      "C) R",
+      "D) X"
+    ],
+    "answer": "C",
+    "explanation": "R is the father of Q, as R is the son of Y and the parent of P and S.",
+    "reasoning": "Step 1: P is the daughter of Q. Step 2: R has only two children, P and S. Step 3: R is the son of Y. Step 4: Therefore, R is the father of Q. Step 5: R is the father of Q confirmed.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "T is the brother of U. T is married to P. Who is the sister-in-law of U?",
+    "choices": [
+      "A) S",
+      "B) P",
+      "C) Q",
+      "D) W"
+    ],
+    "answer": "B",
+    "explanation": "P is the sister-in-law of U, as P is married to T, who is the brother of U.",
+    "reasoning": "Step 1: T is the brother of U. Step 2: T is married to P. Step 3: Therefore, P is the sister-in-law of U. Step 4: P is the sister-in-law of U confirmed. Step 5: No conflicts found.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "R has two children, P and S. T is married to P. How is R related to T?",
+    "choices": [
+      "A) Father-in-law",
+      "B) Mother-in-law",
+      "C) Father",
+      "D) Mother"
+    ],
+    "answer": "A",
+    "explanation": "R is the father-in-law of T, as R is the parent of P, who is married to T.",
+    "reasoning": "Step 1: R has two children, P and S. Step 2: T is married to P. Step 3: Therefore, R is the father-in-law of T. Step 4: R is the father-in-law of T confirmed. Step 5: No conflicts found.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is the brother of Q. Q is the mother of R. R is the sister of S. S is married to T. How is W related to R?",
+    "choices": [
+      "A) Cannot be determined",
+      "B) Mother",
+      "C) Uncle",
+      "D) Father"
+    ],
+    "answer": "C",
+    "explanation": "W is the uncle of R, as W is the brother of P, who is the mother of R.",
+    "reasoning": "Step 1: P is the brother of Q. Step 2: Q is the mother of R. Step 3: R is the sister of S. Step 4: S is married to T. Step 5: W is the brother of P, making W the uncle of R.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is the father of M. X is the father-in-law of W. W is the brother of P. P is the sister of Q. How is W related to M?",
+    "choices": [
+      "A) Cousin",
+      "B) Husband",
+      "C) Wife",
+      "D) Cannot be determined"
+    ],
+    "answer": "A",
+    "explanation": "W is the cousin of M, as W is the brother of P, who is the sister of Q, making M the cousin of W.",
+    "reasoning": "Step 1: X is the father of M. Step 2: X is the father-in-law of W. Step 3: W is the brother of P. Step 4: P is the sister of Q. Step 5: W is the cousin of M confirmed.",
+    "difficulty": "medium"
+  }
+]

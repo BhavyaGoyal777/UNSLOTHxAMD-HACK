@@ -1,0 +1,128 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is the uncle of B, who is the daughter of C. C is the daughter-in-law of P. How is A related to P?",
+    "choices": [
+      "A) Brother",
+      "B) Son",
+      "C) Son-in-law",
+      "D) Data inadequate"
+    ],
+    "answer": "C",
+    "explanation": "A is the uncle of B, and since C is B's mother and the daughter-in-law of P, A must be the brother of P's son, making A the son-in-law of P.",
+    "reasoning": "Step 1: A is the uncle of B, meaning A is the brother of B's parent. Step 2: B is the daughter of C, so A is the brother of C. Step 3: C is the daughter-in-law of P, meaning C is married to P's son. Step 4: Therefore, A is the brother of P's son. Step 5: Hence, A is the son-in-law of P.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is the brother of the son of Y's son. How is X related to Y?",
+    "choices": [
+      "A) Brother",
+      "B) Cousin",
+      "C) Grandson",
+      "D) Son"
+    ],
+    "answer": "C",
+    "explanation": "Y's son has a son, making Y a grandfather. X is the brother of Y's grandson, so X is Y's grandson as well.",
+    "reasoning": "Step 1: Y's son has a son, making Y a grandfather. Step 2: X is the brother of Y's grandson. Step 3: Therefore, X is also Y's grandson. Step 4: This makes X the grandson of Y. Step 5: Hence, X is Y's grandson.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "F is the brother of A. C is the daughter of A. K is the sister of F. G is the brother of C. How is F related to G?",
+    "choices": [
+      "A) A",
+      "B) C",
+      "C) F",
+      "D) K"
+    ],
+    "answer": "C",
+    "explanation": "G is the brother of C, who is the daughter of A. F is A's brother, making F the uncle of G.",
+    "reasoning": "Step 1: F is the brother of A, making F the uncle of A's children. Step 2: C is the daughter of A, so F is C's uncle. Step 3: G is the brother of C, so G is A's child. Step 4: Therefore, F is also the uncle of G. Step 5: Hence, F is the uncle of G.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is the mother of B. C is the son of A. E is the daughter of B. D is the brother of E. How is A related to D?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) E"
+    ],
+    "answer": "A",
+    "explanation": "A is the mother of B, making A the grandmother of B's children. E is B's daughter, and D is E's brother, so A is D's grandmother.",
+    "reasoning": "Step 1: A is the mother of B, making A the grandmother of B's children. Step 2: E is the daughter of B, so A is E's grandmother. Step 3: D is the brother of E, so D is also B's child. Step 4: Therefore, A is the grandmother of D. Step 5: Hence, A is the grandmother of D.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "B is the husband of P. E is the wife of D and the mother-in-law of P. Q is the only grandson of E. How is B related to D?",
+    "choices": [
+      "A) Nephew",
+      "B) Cousin",
+      "C) Son-in-law",
+      "D) Son"
+    ],
+    "answer": "C",
+    "explanation": "E is the mother-in-law of P, meaning E is P's mother. B is P's husband, making B the son-in-law of E. Since E is married to D, B is also the son-in-law of D.",
+    "reasoning": "Step 1: E is the mother-in-law of P, so E is P's mother. Step 2: B is the husband of P, making B the son-in-law of E. Step 3: E is married to D, so D is P's father. Step 4: Therefore, B is the son-in-law of D. Step 5: Hence, B is the son-in-law of D.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A, B, and C are sisters. E is the daughter of B. D is the brother of E. How is A related to D?",
+    "choices": [
+      "A) Sister",
+      "B) Cousin",
+      "C) Niece",
+      "D) Aunt"
+    ],
+    "answer": "D",
+    "explanation": "E is the daughter of B, making E A's niece. D is the brother of E, so D is also A's niece's brother, making D A's nephew. Therefore, A is the aunt of D.",
+    "reasoning": "Step 1: A, B, and C are sisters. Step 2: E is the daughter of B, making E A's niece. Step 3: D is the brother of E, so D is A's nephew. Step 4: Therefore, A is the aunt of D. Step 5: Hence, A is the aunt of D.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Deepak has a brother Anil. Deepak is the son of Prem. Bimal is Prem's father. What is Anil to Bimal?",
+    "choices": [
+      "A) Son",
+      "B) Grandson",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "B",
+    "explanation": "Deepak is Prem's son, making Prem the father of Deepak and Anil. Bimal is Prem's father, so Bimal is the grandfather of Deepak and Anil, making Anil Bimal's grandson.",
+    "reasoning": "Step 1: Deepak is the son of Prem, making Prem the father of Deepak and Anil. Step 2: Bimal is Prem's father, so Bimal is the grandfather of Deepak and Anil. Step 3: Therefore, Anil is the grandson of Bimal. Step 4: Hence, Anil is Bimal's grandson.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A and B are a married couple. X and Y are brothers. X is the brother of A. How is Y related to B?",
+    "choices": [
+      "A) Brother-in-law",
+      "B) Brother",
+      "C) Cousin",
+      "D) None of these"
+    ],
+    "answer": "A",
+    "explanation": "X is A's brother, making X B's brother-in-law. Since X and Y are brothers, Y is also B's brother-in-law.",
+    "reasoning": "Step 1: X is the brother of A, making X the brother-in-law of B. Step 2: Y is the brother of X, so Y is also the brother-in-law of B. Step 3: Therefore, Y is B's brother-in-law. Step 4: Hence, Y is B's brother-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "M is the brother of N. B is the brother of N. M is the brother of D. Which statement is definitely true?",
+    "choices": [
+      "A) N is the brother of B",
+      "B) N is the brother of D",
+      "C) M is the brother of B",
+      "D) D is the brother of M"
+    ],
+    "answer": "C",
+    "explanation": "M is the brother of N, and B is also the brother of N, making M and B brothers. M is the brother of D, so D is also the brother of M.",
+    "reasoning": "Step 1: M is the brother of N, and B is also the brother of N, making M and B brothers. Step 2: M is the brother of D, so D is the brother of M. Step 3: Therefore, both C and D are true. Step 4: However, the question asks for definitely true, and both could be correct. Step 5: But since the options are single choices, C is the correct answer as M is the brother of B.",
+    "difficulty": "hard"
+  }
+]

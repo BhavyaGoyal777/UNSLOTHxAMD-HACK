@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends A, B, C, D, and E sit in a circle facing the center. A is to the immediate left of B. C is opposite D. E is between A and D. Who is to the immediate right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "Given A is left of B, C opposite D, and E between A and D, the arrangement places B to the right of C.",
+    "reasoning": "Step 1: A is left of B. Step 2: C is opposite D. Step 3: E is between A and D. Step 4: In a circle of five, opposite means two seats apart. Step 5: B must be adjacent to C on the right.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six people P, Q, R, S, T, and U sit in a row. P is third from the left. Q is second to the right of P. R is at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P at position 3, Q at 5. Step 2: R at extreme means 1 or 6. Step 3: Test R at 1. Step 4: No conflicts. Step 5: Valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons S, T, U, V, W, X, Y, and Z sit around a circular table. S stands second to the left of X. W is not adjacent to S or X. Y is immediate right of W. Z is second to the left of V. V and W are not neighbors. Who is opposite S?",
+    "choices": [
+      "A) T",
+      "B) U",
+      "C) V",
+      "D) Y"
+    ],
+    "answer": "C",
+    "explanation": "Given the constraints, V ends up opposite S.",
+    "reasoning": "Step 1: S is second left of X. Step 2: W not adjacent to S or X. Step 3: Y is right of W. Step 4: Z is second left of V. Step 5: V opposite S.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Seven people A, B, C, D, E, F, and G sit in a circle. A is between B and C. D is opposite A. E is to the right of F. G is between E and D. Who is to the immediate left of D?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) G",
+      "D) F"
+    ],
+    "answer": "C",
+    "explanation": "G is between E and D, placing G to D's left.",
+    "reasoning": "Step 1: A between B and C. Step 2: D opposite A. Step 3: E right of F. Step 4: G between E and D. Step 5: G left of D.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Nine people J, K, L, M, N, O, P, Q, and R sit in a line. J is at the far left. K is third from the right. L is between M and N. O is to the immediate right of P. Q is second from the left. Who is at position 5?",
+    "choices": [
+      "A) L",
+      "B) M",
+      "C) N",
+      "D) O"
+    ],
+    "answer": "A",
+    "explanation": "L is between M and N, placing L at position 5.",
+    "reasoning": "Step 1: J at far left. Step 2: K third from right (position 7). Step 3: L between M and N. Step 4: O right of P. Step 5: L at position 5.",
+    "difficulty": "medium"
+  }
+]

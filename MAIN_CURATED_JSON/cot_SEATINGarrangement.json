@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Six friends P, Q, R, S, T, and U sit in a row. P sits third from the left. Q sits second to the right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P is at position 3. Step 2: Q sits second to the right of P, so Q is at position 5. Step 3: R sits at an extreme end, which could be position 1 or 6. Step 4: Testing R at position 1, there are no conflicts with other constraints. Step 5: Therefore, R could be at position 1.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle facing the center. A is to the left of B. C is opposite D. E is between A and D. Who is to the right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "With A to the left of B, C opposite D, and E between A and D, the circular arrangement forces B to be to the right of C.",
+    "reasoning": "Step 1: A is to the left of B. Step 2: C is opposite D. Step 3: E is between A and D. Step 4: In a 5-person circle, opposite means two to three positions apart. Step 5: Placing all constraints, B must be adjacent to C, making B to the right of C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D the maternal aunt of B. E is D's husband, so E is B's maternal uncle.",
+    "reasoning": "Step 1: A is B's father, and C is B's mother. Step 2: D is C's sister, making D B's maternal aunt. Step 3: E is D's husband, so E is the husband of B's aunt. Step 4: Therefore, E is B's maternal uncle. Step 5: The correct relation is uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Priya's grandfather had only one child, who is Priya's parent. Pointing to a man, Priya said he is the only son of my grandfather's only child. How is the man related to Priya?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Uncle",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "Priya's grandfather's only child is one of Priya's parents. The only son of that parent is Priya's brother.",
+    "reasoning": "Step 1: Priya's grandfather has only one child, who is Priya's parent. Step 2: The man is the only son of this parent. Step 3: Since Priya exists, she could be the daughter of this parent. Step 4: The man, being the only son, is Priya's brother. Step 5: Therefore, the man is Priya's brother.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six friends P, Q, R, S, T, and U sit in a row. P sits third from the left. Q sits second to the right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P is at position 3. Step 2: Q sits second to the right of P, so Q is at position 5. Step 3: R sits at an extreme end, which could be position 1 or 6. Step 4: Testing R at position 1, there are no conflicts with other constraints. Step 5: Therefore, R could be at position 1.",
+    "difficulty": "medium"
+  }
+]

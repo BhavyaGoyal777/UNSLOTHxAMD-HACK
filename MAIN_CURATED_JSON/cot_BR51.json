@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Jack introduces Mary as the daughter of the only son of my father’s wife. How is Mary related to Jack?",
+    "choices": [
+      "A) Sister",
+      "B) Niece",
+      "C) Wife",
+      "D) Daughter"
+    ],
+    "answer": "D",
+    "explanation": "Mary is the daughter of Jack's father's wife's only son, making her Jack's daughter.",
+    "reasoning": "Step 1: Jack's father's wife is Jack's mother. Step 2: The only son of Jack's mother is Jack himself. Step 3: Mary is the daughter of this son, who is Jack. Step 4: Therefore, Mary is Jack's daughter. Step 5: The correct answer is D) Daughter.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is the husband of B, who is the mother of C. C is the father of D. How is A related to D?",
+    "choices": [
+      "A) Father",
+      "B) Uncle",
+      "C) Brother",
+      "D) Son"
+    ],
+    "answer": "B",
+    "explanation": "A is the husband of B, who is the mother of C. C is the father of D, making A the uncle of D.",
+    "reasoning": "Step 1: A is the husband of B. Step 2: B is the mother of C. Step 3: C is the father of D. Step 4: Therefore, A is the uncle of D. Step 5: The correct answer is B) Uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "E is the brother of F, who is the wife of G. G is the father of H. How is E related to H?",
+    "choices": [
+      "A) H is the niece of E.",
+      "B) H is the nephew of E.",
+      "C) E is the paternal uncle of H.",
+      "D) H is the father of E."
+    ],
+    "answer": "C",
+    "explanation": "E is the brother of F, who is the wife of G. G is the father of H, making E the paternal uncle of H.",
+    "reasoning": "Step 1: E is the brother of F. Step 2: F is the wife of G. Step 3: G is the father of H. Step 4: Therefore, E is the paternal uncle of H. Step 5: The correct answer is C) E is the paternal uncle of H.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "I is the father of J, who is the daughter of K. K is the daughter of L, who is the husband of M. How is I related to M?",
+    "choices": [
+      "A) I is the son of M.",
+      "B) I is the nephew of M.",
+      "C) M is the father-in-law of I.",
+      "D) I is the son-in-law of M."
+    ],
+    "answer": "D",
+    "explanation": "I is the father of J, who is the daughter of K. K is the daughter of L, who is the husband of M. Thus, I is the son-in-law of M.",
+    "reasoning": "Step 1: I is the father of J. Step 2: J is the daughter of K. Step 3: K is the daughter of L. Step 4: L is the husband of M. Step 5: Therefore, I is the son-in-law of M.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is the sister of Q, who is the husband of R. R is the brother of S, who is the wife of T. How is P related to S?",
+    "choices": [
+      "A) S is the aunt of P.",
+      "B) Q is the niece of S.",
+      "C) S is the father of P and Q.",
+      "D) P is the niece of S."
+    ],
+    "answer": "D",
+    "explanation": "P is the sister of Q, who is the husband of R. R is the brother of S, who is the wife of T. Thus, P is the niece of S.",
+    "reasoning": "Step 1: P is the sister of Q. Step 2: Q is the husband of R. Step 3: R is the brother of S. Step 4: T is the wife of S. Step 5: Therefore, P is the niece of S.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "W is the daughter of X, who is the husband of Y. Y is the mother of Z. How is W related to Z?",
+    "choices": [
+      "A) Z is the uncle of W.",
+      "B) W is the niece of Z.",
+      "C) W is the daughter of Z.",
+      "D) W is the son of Z."
+    ],
+    "answer": "B",
+    "explanation": "W is the daughter of X, who is the husband of Y. Y is the mother of Z, making W the niece of Z.",
+    "reasoning": "Step 1: W is the daughter of X. Step 2: X is the husband of Y. Step 3: Y is the mother of Z. Step 4: Therefore, W is the niece of Z. Step 5: The correct answer is B) W is the niece of Z.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Dhani’s father points to a person and says, 'He is the brother of my father’s only son.' How is this person related to Dhani?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Son",
+      "D) Nephew"
+    ],
+    "answer": "A",
+    "explanation": "The person is the brother of Dhani's father's only son, making him Dhani's brother.",
+    "reasoning": "Step 1: Dhani's father's only son is Dhani. Step 2: The person is the brother of Dhani. Step 3: Therefore, the person is Dhani's brother. Step 4: The correct answer is A) Brother.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A man, who has no brother or sister, points to a boy in a photograph and says, 'That boy is my father’s only son.' How is the boy related to the man?",
+    "choices": [
+      "A) Himself",
+      "B) His son",
+      "C) His father",
+      "D) His brother"
+    ],
+    "answer": "B",
+    "explanation": "The man has no siblings, and the boy is his father's only son, making the boy his son.",
+    "reasoning": "Step 1: The man has no brother or sister. Step 2: The boy is the only son of the man's father. Step 3: Therefore, the boy is the man's son. Step 4: The correct answer is B) His son.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Mr. Arora, a teacher, points to a girl in a photograph and says, 'She is the daughter of my brother.' How is the girl related to Mr. Arora’s brother?",
+    "choices": [
+      "A) Sister",
+      "B) Wife",
+      "C) Mother",
+      "D) Daughter"
+    ],
+    "answer": "D",
+    "explanation": "The girl is the daughter of Mr. Arora's brother, making her Mr. Arora's niece.",
+    "reasoning": "Step 1: The girl is the daughter of Mr. Arora's brother. Step 2: Therefore, the girl is Mr. Arora's niece. Step 3: The correct answer is D) Daughter.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "T is the husband of P, who is the sister of Q. How is Q related to T?",
+    "choices": [
+      "A) Nephew",
+      "B) Brother",
+      "C) Aunt",
+      "D) Uncle"
+    ],
+    "answer": "B",
+    "explanation": "T is the husband of P, who is the sister of Q. Thus, Q is the brother of T.",
+    "reasoning": "Step 1: T is the husband of P. Step 2: P is the sister of Q. Step 3: Therefore, Q is the brother of T. Step 4: The correct answer is B) Brother.",
+    "difficulty": "medium"
+  }
+]

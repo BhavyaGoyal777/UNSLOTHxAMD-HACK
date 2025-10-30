@@ -1,0 +1,254 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D the maternal aunt of B. E is D's husband, so E is B's maternal uncle.",
+    "reasoning": "Step 1: Given A is father, C is mother of B, D is C's sister, E is D's husband. Step 2: Find E's relation to B. Step 3: D is sister of B's mother, so D is maternal aunt. Step 4: E is husband of aunt, making E uncle. Step 5: E is maternal uncle of B verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six friends P, Q, R, S, T, U sit in a row. P sits third from left. Q sits second to right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P at position 3, Q second to right means position 5. Step 2: R at extreme means position 1 or 6. Step 3: Test if R can be at position 1. Step 4: No conflicts with other constraints. Step 5: R at position 1 is valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a man, Priya said he is the only son of my grandfather's only child. Priya's grandfather had only one child. How is the man related to Priya?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Uncle",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "Priya's grandfather's only child must be one of Priya's parents. The only son of that parent is Priya's brother.",
+    "reasoning": "Step 1: Grandfather has only one child who must be Priya's parent. Step 2: The man is the only son of this parent. Step 3: If parent has only one son and Priya exists, Priya could be daughter or the man is Priya if male. Step 4: Since Priya is pointing to the man, they are different people. Step 5: Man is Priya's brother.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle facing center. A is left of B. C is opposite D. E is between A and D. Who is right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "With A left of B, C opposite D, and E between A and D, the circular arrangement forces B to be right of C.",
+    "reasoning": "Step 1: Given A left of B, C opposite D, E between A and D. Step 2: Need to find who is right of C. Step 3: In 5-person circle, opposite means 2-3 positions apart. Step 4: Placing all constraints, B must be adjacent to C. Step 5: B is right of C verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A told to B, 'Yesterday I met the only daughter of my grandmother.' Whom did A meet?",
+    "choices": [
+      "A) Cousin",
+      "B) Mother",
+      "C) Sister",
+      "D) Nephew"
+    ],
+    "answer": "B",
+    "explanation": "The only daughter of A's grandmother is A's mother.",
+    "reasoning": "Step 1: A's grandmother's only daughter is A's mother. Step 2: A met this person. Step 3: Therefore, A met their mother.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Seven people A, B, C, D, E, F, G sit in a row. A sits at position 1. B sits at position 5. C sits between B and D. Who could be at position 4?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "A",
+    "explanation": "C sits between B (position 5) and D, so C could be at position 4 with D at 6.",
+    "reasoning": "Step 1: A at 1, B at 5. Step 2: C between B and D. Step 3: Possible positions for C are 4 or 6. Step 4: If C is at 4, D is at 6. Step 5: C at 4 is valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is the father of Y. Y is the mother of Z. W is the brother of X. How is W related to Z?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "W is the brother of X, who is Z's grandfather, making W Z's great-uncle.",
+    "reasoning": "Step 1: X is father of Y. Step 2: Y is mother of Z. Step 3: W is brother of X. Step 4: X is grandfather of Z. Step 5: W is Z's great-uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight people A, B, C, D, E, F, G, H sit in a circle. A is between B and C. D is opposite A. E is between F and G. Who is opposite E?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) D",
+      "D) H"
+    ],
+    "answer": "D",
+    "explanation": "D is opposite A, so D is at position 5 if A is at 1. E between F and G could be at position 6, opposite H at position 3.",
+    "reasoning": "Step 1: A between B and C. Step 2: D opposite A. Step 3: E between F and G. Step 4: Possible positions for E. Step 5: H is opposite E.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "M is the grandmother of N. O is the daughter of M. P is the son of O. How is P related to N?",
+    "choices": [
+      "A) Brother",
+      "B) Son",
+      "C) Cousin",
+      "D) Nephew"
+    ],
+    "answer": "D",
+    "explanation": "P is the son of O, who is M's daughter. N is M's granddaughter, making P N's nephew.",
+    "reasoning": "Step 1: M is grandmother of N. Step 2: O is daughter of M. Step 3: P is son of O. Step 4: P is grandson of M. Step 5: P is nephew of N.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Nine people A, B, C, D, E, F, G, H, I sit in a row. A sits at position 3. B sits at position 5. C sits between D and E. Who could be at position 1?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "B",
+    "explanation": "C between D and E, with B at 5, A at 3. D could be at 1 with C at 2.",
+    "reasoning": "Step 1: A at 3, B at 5. Step 2: C between D and E. Step 3: Possible positions for D and C. Step 4: D at 1, C at 2. Step 5: Valid arrangement.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "R is the father of S. S is the mother of T. U is the sister of R. How is U related to T?",
+    "choices": [
+      "A) Aunt",
+      "B) Mother",
+      "C) Sister",
+      "D) Grandmother"
+    ],
+    "answer": "A",
+    "explanation": "U is the sister of R, who is T's grandfather, making U T's great-aunt.",
+    "reasoning": "Step 1: R is father of S. Step 2: S is mother of T. Step 3: U is sister of R. Step 4: R is grandfather of T. Step 5: U is T's great-aunt.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Ten people A, B, C, D, E, F, G, H, I, J sit in a circle. A is between B and C. D is opposite A. E is between F and G. Who is opposite E?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) D",
+      "D) H"
+    ],
+    "answer": "D",
+    "explanation": "D is opposite A, so D is at position 6 if A is at 1. E between F and G could be at position 7, opposite H at position 4.",
+    "reasoning": "Step 1: A between B and C. Step 2: D opposite A. Step 3: E between F and G. Step 4: Possible positions for E. Step 5: H is opposite E.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "K is the mother of L. L is the father of M. N is the sister of K. How is N related to M?",
+    "choices": [
+      "A) Aunt",
+      "B) Mother",
+      "C) Sister",
+      "D) Grandmother"
+    ],
+    "answer": "A",
+    "explanation": "N is the sister of K, who is M's grandmother, making N M's great-aunt.",
+    "reasoning": "Step 1: K is mother of L. Step 2: L is father of M. Step 3: N is sister of K. Step 4: K is grandmother of M. Step 5: N is M's great-aunt.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eleven people A, B, C, D, E, F, G, H, I, J, K sit in a row. A sits at position 4. B sits at position 7. C sits between D and E. Who could be at position 1?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "B",
+    "explanation": "C between D and E, with B at 7, A at 4. D could be at 1 with C at 2.",
+    "reasoning": "Step 1: A at 4, B at 7. Step 2: C between D and E. Step 3: Possible positions for D and C. Step 4: D at 1, C at 2. Step 5: Valid arrangement.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is the father of Q. Q is the mother of R. S is the brother of P. How is S related to R?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "S is the brother of P, who is R's grandfather, making S R's great-uncle.",
+    "reasoning": "Step 1: P is father of Q. Step 2: Q is mother of R. Step 3: S is brother of P. Step 4: P is grandfather of R. Step 5: S is R's great-uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Twelve people A, B, C, D, E, F, G, H, I, J, K, L sit in a circle. A is between B and C. D is opposite A. E is between F and G. Who is opposite E?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) D",
+      "D) H"
+    ],
+    "answer": "D",
+    "explanation": "D is opposite A, so D is at position 7 if A is at 1. E between F and G could be at position 8, opposite H at position 5.",
+    "reasoning": "Step 1: A between B and C. Step 2: D opposite A. Step 3: E between F and G. Step 4: Possible positions for E. Step 5: H is opposite E.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "T is the father of U. U is the mother of V. W is the sister of T. How is W related to V?",
+    "choices": [
+      "A) Aunt",
+      "B) Mother",
+      "C) Sister",
+      "D) Grandmother"
+    ],
+    "answer": "A",
+    "explanation": "W is the sister of T, who is V's grandfather, making W V's great-aunt.",
+    "reasoning": "Step 1: T is father of U. Step 2: U is mother of V. Step 3: W is sister of T. Step 4: T is grandfather of V. Step 5: W is V's great-aunt.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Thirteen people A, B, C, D, E, F, G, H, I, J, K, L, M sit in a row. A sits at position 5. B sits at position 8. C sits between D and E. Who could be at position 1?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "B",
+    "explanation": "C between D and E, with B at 8, A at 5. D could be at 1 with C at 2.",
+    "reasoning": "Step 1: A at 5, B at 8. Step 2: C between D and E. Step 3: Possible positions for D and C. Step 4: D at 1, C at 2. Step 5: Valid arrangement.",
+    "difficulty": "medium"
+  }
+]

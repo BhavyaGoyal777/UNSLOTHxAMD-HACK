@@ -1,0 +1,58 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a man, Priya said he is the only son of her grandfather's only child. How is the man related to Priya?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Uncle",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "Priya's grandfather's only child is her parent. The only son of this parent is Priya's brother.",
+    "reasoning": "Step 1: Grandfather has only one child, who is Priya's parent. Step 2: The man is the only son of this parent. Step 3: If the parent has only one son and Priya exists, the man must be her brother. Step 4: Since Priya is pointing to the man, they are different people. Step 5: The man is Priya's brother.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six friends P, Q, R, S, T, U sit in a row. P sits third from the left. Q sits second to the right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P at position 3, Q second to right means position 5. Step 2: R at extreme means position 1 or 6. Step 3: Test if R can be at position 1. Step 4: No conflicts with other constraints. Step 5: R at position 1 is valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D the maternal aunt of B. E is D's husband, so E is B's maternal uncle.",
+    "reasoning": "Step 1: Given A is father, C is mother of B, D is C's sister, E is D's husband. Step 2: Find E's relation to B. Step 3: D is sister of B's mother, so D is maternal aunt. Step 4: E is husband of aunt, making E uncle. Step 5: E is maternal uncle of B verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle facing the center. A is left of B. C is opposite D. E is between A and D. Who is right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "With A left of B, C opposite D, and E between A and D, the circular arrangement forces B to be right of C.",
+    "reasoning": "Step 1: Given A left of B, C opposite D, E between A and D. Step 2: Need to find who is right of C. Step 3: In a 5-person circle, opposite means 2-3 positions apart. Step 4: Placing all constraints, B must be adjacent to C. Step 5: B is right of C verified.",
+    "difficulty": "medium"
+  }
+]

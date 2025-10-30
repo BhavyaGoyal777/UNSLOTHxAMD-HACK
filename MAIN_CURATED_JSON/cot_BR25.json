@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "P is the mother of Q, Q is the father of R, R is the brother of T, and T is the daughter of K. What is P's relation to K?",
+    "choices": [
+      "A) Daughter-in-law",
+      "B) Sister-in-law",
+      "C) Aunt",
+      "D) None of these"
+    ],
+    "answer": "A",
+    "explanation": "P is the mother of Q, who is the father of R. R is the brother of T, making T the daughter of Q. Since T is the daughter of K, K is Q's wife, making P the mother-in-law of K.",
+    "reasoning": "Step 1: P is the mother of Q. Step 2: Q is the father of R. Step 3: R is the brother of T. Step 4: T is the daughter of K. Step 5: Therefore, K is Q's wife, making P the mother-in-law of K.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "K is the brother of Y, Y is the father of I, and I is the sister of Z. What is I's relation to K?",
+    "choices": [
+      "A) K + Y + Z - I",
+      "B) K + Y x I - Z",
+      "C) Z - I x Y + K",
+      "D) K x Y + I - Z"
+    ],
+    "answer": "B",
+    "explanation": "K is the brother of Y, Y is the father of I, and I is the sister of Z. This makes I the niece of K.",
+    "reasoning": "Step 1: K is the brother of Y. Step 2: Y is the father of I. Step 3: I is the sister of Z. Step 4: Therefore, I is the niece of K. Step 5: The correct option is B.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing towards a girl, Abhisek says, 'This girl is the daughter of only a child of my father.' What is the relation of Abhisek's wife to that girl?",
+    "choices": [
+      "A) Daughter",
+      "B) Mother",
+      "C) Aunt",
+      "D) Sister"
+    ],
+    "answer": "A",
+    "explanation": "The girl is the daughter of Abhisek's father's only child, making her Abhisek's daughter. Thus, Abhisek's wife is the girl's mother.",
+    "reasoning": "Step 1: The girl is the daughter of Abhisek's father's only child. Step 2: Abhisek's father's only child is Abhisek himself. Step 3: Therefore, the girl is Abhisek's daughter. Step 4: Hence, Abhisek's wife is the girl's mother. Step 5: The correct answer is A.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P # Q means Q is the mother of P; Q $ N means N is the father of Q; P * Q means Q is the sister of P; and P @ Q means Q is the husband of P. What is N's relation to P?",
+    "choices": [
+      "A) P * Q # M $ N",
+      "B) P @ Q $ M # N",
+      "C) P # Q $ N * M",
+      "D) None of these"
+    ],
+    "answer": "C",
+    "explanation": "P # Q means Q is the mother of P. Q $ N means N is the father of Q. Therefore, N is the grandmother of P.",
+    "reasoning": "Step 1: P # Q means Q is the mother of P. Step 2: Q $ N means N is the father of Q. Step 3: Therefore, N is the grandmother of P. Step 4: The correct option is C. Step 5: Verified.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Anupam said to a lady sitting in a car, 'The only daughter of the brother of my wife is the sister-in-law of the brother of your sister.' How is the husband of the lady related to Anupam?",
+    "choices": [
+      "A) Maternal uncle",
+      "B) Uncle",
+      "C) Father",
+      "D) Son-in-law"
+    ],
+    "answer": "A",
+    "explanation": "The only daughter of Anupam's wife's brother is his niece. The brother of the lady's sister is her brother. The niece is the sister-in-law of the lady's brother, making the lady's husband Anupam's maternal uncle.",
+    "reasoning": "Step 1: The only daughter of Anupam's wife's brother is his niece. Step 2: The brother of the lady's sister is her brother. Step 3: The niece is the sister-in-law of the lady's brother. Step 4: Therefore, the lady's husband is Anupam's maternal uncle. Step 5: The correct answer is A.",
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a photograph of a boy Suresh said, 'He is the son of the only son of my mother.' How is Suresh related to that boy?",
+    "choices": [
+      "A) Brother",
+      "B) Uncle",
+      "C) Cousin",
+      "D) Father"
+    ],
+    "answer": "D",
+    "explanation": "Suresh's mother's only son is Suresh himself, so the boy is Suresh's son.",
+    "reasoning": "Step 1: Suresh's mother has only one son. Step 2: That son is Suresh. Step 3: The boy is the son of Suresh. Step 4: Therefore, Suresh is the father. Step 5: Confirmed as father.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the brother of B; B is the sister of C; and C is the father of D, how is D related to A?",
+    "choices": [
+      "A) Brother",
+      "B) Sister",
+      "C) Nephew",
+      "D) Cannot be determined"
+    ],
+    "answer": "C",
+    "explanation": "A is the brother of B, B is the sister of C, so C is A's brother. C is the father of D, so D is A's nephew.",
+    "reasoning": "Step 1: A is brother of B. Step 2: B is sister of C, so C is A's brother. Step 3: C is father of D. Step 4: D is A's nephew. Step 5: Confirmed as nephew.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Introducing a boy, a girl said, 'He is the son of the daughter of the father of my uncle.' How is the boy related to the girl?",
+    "choices": [
+      "A) Brother",
+      "B) Nephew",
+      "C) Uncle",
+      "D) Son-in-law"
+    ],
+    "answer": "B",
+    "explanation": "The girl's uncle's father is her grandfather. The daughter of the grandfather is the girl's aunt. The son of the aunt is the girl's cousin, but more precisely, nephew.",
+    "reasoning": "Step 1: Girl's uncle's father is her grandfather. Step 2: Daughter of grandfather is girl's aunt. Step 3: Son of aunt is girl's nephew. Step 4: Boy is the son of the aunt. Step 5: Boy is the girl's nephew.",
+    "difficulty": "hard"
+  }
+]

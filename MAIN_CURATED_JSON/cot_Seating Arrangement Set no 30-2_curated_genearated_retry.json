@@ -1,0 +1,30 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight members A, B, C, D, E, F, G, H sit around a circular table. A sits opposite B. C sits two places to the right of D. E sits between F and G. Who sits to the immediate left of H?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D"
+    ],
+    "answer": "C",
+    "explanation": "Based on the seating arrangement, C is two places to the right of D, making C the immediate left of H.",
+    "reasoning": "Step 1: A sits opposite B. Step 2: C sits two places to the right of D. Step 3: E sits between F and G. Step 4: Analyze the circular arrangement. Step 5: Determine H's position relative to C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is Y's father. Y is Z's mother. Z is W's sister. How is X related to W?",
+    "choices": [
+      "A) Grandfather",
+      "B) Father",
+      "C) Uncle",
+      "D) Brother"
+    ],
+    "answer": "B",
+    "explanation": "X is Y's father and Y is Z's mother, making X the father of Z and W.",
+    "reasoning": "Step 1: X is Y's father. Step 2: Y is Z's mother. Step 3: Z is W's sister. Step 4: Determine X's relation to W. Step 5: Conclude X is W's father.",
+    "difficulty": "easy"
+  }
+]

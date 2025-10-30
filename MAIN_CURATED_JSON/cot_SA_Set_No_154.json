@@ -1,0 +1,16 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons Andrew, Bill, Charles, David, Emma, Fabio, George, and Henry sit around a square table facing outward. David sits at a corner and does not like any ice-cream. George sits immediately to the right of David. Bill sits opposite Fabio, who likes ice-cream but not vanilla. Charles sits third to the left of Fabio. Andrew sits at a corner but is not the immediate neighbor of Emma or Fabio. Henry and Emma are immediate neighbors. Henry sits opposite the one who likes vanilla ice-cream. George does not like any ice-cream. Who likes vanilla ice-cream?",
+    "choices": [
+      "A) Andrew",
+      "B) Bill",
+      "C) Charles",
+      "D) Emma"
+    ],
+    "answer": "A",
+    "explanation": "Andrew likes vanilla ice-cream as he sits opposite Henry, who does not like vanilla.",
+    "reasoning": "Step 1: David sits at a corner. Step 2: George is to David's right. Step 3: Bill opposite Fabio, who likes strawberry. Step 4: Charles third left of Fabio. Step 5: Andrew, at a corner, opposite Henry, likes vanilla.",
+    "difficulty": "medium"
+  }
+]

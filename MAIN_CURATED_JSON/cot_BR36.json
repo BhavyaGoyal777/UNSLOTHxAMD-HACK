@@ -1,0 +1,58 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D the maternal aunt of B. E is D's husband, so E is B's maternal uncle.",
+    "reasoning": "Step 1: Given A is father, C is mother of B, D is C's sister, E is D's husband. Step 2: Find E's relation to B. Step 3: D is sister of B's mother, so D is maternal aunt. Step 4: E is husband of aunt, making E uncle. Step 5: E is maternal uncle of B verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's mother. C is B's father. D is C's brother. E is D's son. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "D is C's brother, making D the paternal uncle of B. E is D's son, so E is B's cousin.",
+    "reasoning": "Step 1: Given A is mother, C is father of B, D is C's brother, E is D's son. Step 2: Find E's relation to B. Step 3: D is brother of B's father, so D is paternal uncle. Step 4: E is son of uncle, making E cousin. Step 5: E is cousin of B verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's sister. B is married to C. C is the son of D. A is the mother of E. How is E related to D?",
+    "choices": [
+      "A) Granddaughter",
+      "B) Daughter",
+      "C) Grandson",
+      "D) Son"
+    ],
+    "answer": "A",
+    "explanation": "A is B's sister, making A the daughter of B's parents. E is A's child, so E is the granddaughter of D.",
+    "reasoning": "Step 1: Given A is sister of B, B is married to C, C is son of D, A is mother of E. Step 2: Find E's relation to D. Step 3: A is sister of B, so A is daughter of B's parents. Step 4: E is child of A, making E granddaughter of D. Step 5: E is granddaughter of D verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's brother. C is B's sister. D is C's daughter. E is D's son. How is E related to A?",
+    "choices": [
+      "A) Nephew",
+      "B) Son",
+      "C) Grandson",
+      "D) Brother"
+    ],
+    "answer": "C",
+    "explanation": "D is C's daughter, making D the niece of A. E is D's son, so E is the grandson of A.",
+    "reasoning": "Step 1: Given A is brother of B, C is sister of B, D is daughter of C, E is son of D. Step 2: Find E's relation to A. Step 3: D is niece of A. Step 4: E is son of niece, making E grandson. Step 5: E is grandson of A verified.",
+    "difficulty": "medium"
+  }
+]

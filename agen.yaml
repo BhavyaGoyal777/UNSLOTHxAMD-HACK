@@ -1,0 +1,9 @@
+# A-Agent Generation Configuration
+# Configuration for answer generation
+
+max_new_tokens: 512
+temperature: 0.1
+top_p: 0.9
+do_sample: true
+repetition_penalty: 1.2
+tgps_show: true

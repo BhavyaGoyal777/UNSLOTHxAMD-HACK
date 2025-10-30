@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Rohan's grandmother's only son is Rohan's father. The father's wife is Rohan's mother. The brother of Rohan's father is Rohan's uncle. The persons on the left and right are Rohan's uncle and mother. How are the persons on Rahul’s left and right related to each other?",
+    "choices": [
+      "A) Father and Daughter",
+      "B) Brother and Sister",
+      "C) Husband and Wife",
+      "D) Mother and Son"
+    ],
+    "answer": "B",
+    "explanation": "Rohan's grandmother's only son is Rohan's father. The father's wife is Rohan's mother. The brother of Rohan's father is Rohan's uncle. Therefore, the persons on the left and right are brother and sister.",
+    "reasoning": "Step 1: Rohan's grandmother's only son is Rohan's father. Step 2: The father's wife is Rohan's mother. Step 3: The brother of Rohan's father is Rohan's uncle. Step 4: The persons on the left and right are Rohan's uncle and mother. Step 5: Therefore, they are brother and sister.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Anand is the son of Mita's only brother. How is Mita related to Anand?",
+    "choices": [
+      "A) Aunt and Nephew",
+      "B) Grandmother and Grandson",
+      "C) Mother and Son",
+      "D) Father and Son"
+    ],
+    "answer": "A",
+    "explanation": "Mita is the sister of Anand's father, making her Anand's aunt.",
+    "reasoning": "Step 1: Anand is the son of Mita's only brother. Step 2: Mita is the sister of Anand's father. Step 3: Therefore, Mita is Anand's aunt.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "The man is the paternal grandfather of Priya's son's wife. How is the man related to Priya?",
+    "choices": [
+      "A) Husband",
+      "B) Father",
+      "C) Father-in-law",
+      "D) Paternal Grandfather"
+    ],
+    "answer": "C",
+    "explanation": "The man is the paternal grandfather of Priya's son's wife, making him Priya's father-in-law.",
+    "reasoning": "Step 1: The man is the paternal grandfather of Priya's son's wife. Step 2: The paternal grandfather of Priya's son's wife is Priya's father-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "John's father's wife is John's mother. The only son of John's mother is John himself. Maya is the daughter of John. How is Maya related to John?",
+    "choices": [
+      "A) Mother",
+      "B) Daughter",
+      "C) Sister",
+      "D) Niece"
+    ],
+    "answer": "B",
+    "explanation": "John's father's wife is John's mother. The only son of John's mother is John himself. Therefore, Maya is John's daughter.",
+    "reasoning": "Step 1: John's father's wife is John's mother. Step 2: The only son of John's mother is John. Step 3: Maya is the daughter of John. Step 4: Therefore, Maya is John's daughter.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "The teacher is the younger sister of A's mother. How is the teacher related to A?",
+    "choices": [
+      "A) Mother",
+      "B) Daughter",
+      "C) Sister",
+      "D) Aunt"
+    ],
+    "answer": "D",
+    "explanation": "The teacher is the younger sister of A's mother, making her A's aunt.",
+    "reasoning": "Step 1: The teacher is the younger sister of A's mother. Step 2: The younger sister of A's mother is A's aunt.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Which of the given expressions indicates that P is the daughter-in-law of U? The expressions are: 1) B is the father of U, Q is the son of S, and S is the sister of P. 2) B is the father of U, U is the mother of Q, Q is the son of S, and S is the sister of P. 3) B is the father of U, S is the sister of Q, and P is the sister of Q. 4) U is the mother of B, S is the son of Q, and P is the sister of Q. 5) None of these. Which expression correctly shows P as the daughter-in-law of U?",
+    "choices": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "B",
+    "explanation": "Expression 2: B is the father of U, U is the mother of Q, Q is the son of S, and S is the sister of P. Therefore, P is the daughter-in-law of U.",
+    "reasoning": "Step 1: B is the father of U. Step 2: U is the mother of Q. Step 3: Q is the son of S. Step 4: S is the sister of P. Step 5: Therefore, P is the daughter-in-law of U.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Given the expression 'E is the father of T, T is the mother of C, C is the son of W, and Q is the wife of S', which of the following options is true? 1) C is the grandson of E, 2) S is the daughter-in-law of W, 3) Q is the son of C, 4) All of the above, 5) None of the above.",
+    "choices": [
+      "A) 1",
+      "B) 2",
+      "C) 3",
+      "D) 4"
+    ],
+    "answer": "D",
+    "explanation": "E is the father of T, T is the mother of C, C is the son of W, and Q is the wife of S. Therefore, C is the grandson of E, S is the daughter-in-law of W, and Q is the son of C.",
+    "reasoning": "Step 1: E is the father of T. Step 2: T is the mother of C. Step 3: C is the son of W. Step 4: Q is the wife of S. Step 5: Therefore, C is the grandson of E, S is the daughter-in-law of W, and Q is the son of C.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is the father of T, T is the sister of U, and U is the wife of V. How is P related to V?",
+    "choices": [
+      "A) Uncle",
+      "B) Niece",
+      "C) Father-in-law",
+      "D) Brother"
+    ],
+    "answer": "C",
+    "explanation": "P is the father of T, T is the sister of U, and U is the wife of V. Therefore, P is the father-in-law of V.",
+    "reasoning": "Step 1: P is the father of T. Step 2: T is the sister of U. Step 3: U is the wife of V. Step 4: Therefore, P is the father-in-law of V.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "I is the father of J, J is the sister of K, and K is the son of L. How is L related to I?",
+    "choices": [
+      "A) Brother",
+      "B) Niece",
+      "C) Husband",
+      "D) Son"
+    ],
+    "answer": "D",
+    "explanation": "I is the father of J, J is the sister of K, and K is the son of L. Therefore, L is the son of I.",
+    "reasoning": "Step 1: I is the father of J. Step 2: J is the sister of K. Step 3: K is the son of L. Step 4: Therefore, L is the son of I.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "I is the sister of J, J is the wife of K, K is the father of L, and L is the sister of M. How is L related to I?",
+    "choices": [
+      "A) Niece",
+      "B) Husband",
+      "C) Uncle",
+      "D) Father"
+    ],
+    "answer": "A",
+    "explanation": "I is the sister of J, J is the wife of K, K is the father of L, and L is the sister of M. Therefore, L is the niece of I.",
+    "reasoning": "Step 1: I is the sister of J. Step 2: J is the wife of K. Step 3: K is the father of L. Step 4: L is the sister of M. Step 5: Therefore, L is the niece of I.",
+    "difficulty": "hard"
+  }
+]

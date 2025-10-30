@@ -1,0 +1,86 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a photograph of a boy, Suresh said, 'He is the son of the only son of my mother.' How is Suresh related to that boy?",
+    "choices": [
+      "A) Brother",
+      "B) Uncle",
+      "C) Cousin",
+      "D) Father"
+    ],
+    "answer": "D",
+    "explanation": "Suresh is the father of the boy because the only son of his mother is himself, making the boy his son.",
+    "reasoning": "Step 1: Suresh's mother has only one son, who is Suresh. Step 2: The boy is the son of this only son. Step 3: Therefore, the boy is Suresh's son. Step 4: This makes Suresh the father of the boy. Step 5: The correct relation is father.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is the brother of B; B is the sister of C; and C is the father of D. How is D related to A?",
+    "choices": [
+      "A) Brother",
+      "B) Sister",
+      "C) Nephew",
+      "D) Cannot be determined"
+    ],
+    "answer": "C",
+    "explanation": "D is the nephew of A because C is A's brother and D is C's son.",
+    "reasoning": "Step 1: A is the brother of B. Step 2: B is the sister of C, making C the brother of A. Step 3: C is the father of D. Step 4: Therefore, D is the son of A's brother. Step 5: D is A's nephew.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Introducing a boy, a girl said, 'He is the son of the daughter of the father of my uncle.' How is the boy related to the girl?",
+    "choices": [
+      "A) Brother",
+      "B) Nephew",
+      "C) Uncle",
+      "D) Son-in-law"
+    ],
+    "answer": "B",
+    "explanation": "The boy is the nephew of the girl because he is the son of her uncle's daughter.",
+    "reasoning": "Step 1: The girl's uncle has a daughter. Step 2: The daughter has a son. Step 3: Therefore, the boy is the son of the girl's cousin. Step 4: This makes the boy the nephew of the girl. Step 5: The correct relation is nephew.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a photograph, Lata says, 'He is the son of the only son of my grandfather.' How is the man in the photograph related to Lata?",
+    "choices": [
+      "A) Brother",
+      "B) Uncle",
+      "C) Cousin",
+      "D) Data is inadequate"
+    ],
+    "answer": "D",
+    "explanation": "The relationship cannot be determined without more information about Lata's family structure.",
+    "reasoning": "Step 1: The only son of Lata's grandfather is her father. Step 2: The son of her father is her brother. Step 3: However, without knowing if Lata has other siblings, the relation cannot be confirmed. Step 4: The data is inadequate to determine the exact relationship. Step 5: Therefore, the answer is data is inadequate.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "D is the brother of B. To determine how B is related to C, which of the following statements is/are necessary? 1. The son of D is the grandson of C. 2. B is the sister of D.",
+    "choices": [
+      "A) Only 1",
+      "B) Only 2",
+      "C) Either 1 or 2",
+      "D) 1 and 2 both are required"
+    ],
+    "answer": "C",
+    "explanation": "Either statement 1 or 2 is sufficient to determine the relationship.",
+    "reasoning": "Step 1: If statement 1 is true, the son of D is the grandson of C, making C the father of D. Step 2: Therefore, B is the sister of D, making B the daughter of C. Step 3: If statement 2 is true, B is the sister of D, making B the daughter of C. Step 4: Either statement alone is sufficient. Step 5: Therefore, either 1 or 2 is necessary.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a photograph, Bajpai said, 'He is the son of the only daughter of the father of my brother.' How is Bajpai related to the man in the photograph?",
+    "choices": [
+      "A) Nephew",
+      "B) Brother",
+      "C) Father",
+      "D) Maternal Uncle"
+    ],
+    "answer": "D",
+    "explanation": "Bajpai is the maternal uncle of the man because the man is the son of Bajpai's brother's only daughter.",
+    "reasoning": "Step 1: The father of Bajpai's brother is Bajpai's father. Step 2: The only daughter of Bajpai's father is Bajpai's sister. Step 3: The son of Bajpai's sister is Bajpai's nephew. Step 4: Therefore, Bajpai is the maternal uncle of the man. Step 5: The correct relation is maternal uncle.",
+    "difficulty": "medium"
+  }
+]

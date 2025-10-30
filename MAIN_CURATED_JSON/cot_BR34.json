@@ -1,0 +1,30 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends A, B, C, D, E sit in a row. A sits at the left end. B sits to the immediate right of A. C sits at the far right end. D sits between B and C. Who sits at position 3?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D"
+    ],
+    "answer": "D",
+    "explanation": "A is at position 1, B at 2, D between B and C, so D is at 3 and C at 4.",
+    "reasoning": "Step 1: A at position 1. Step 2: B immediately right of A at 2. Step 3: C at far right (position 5). Step 4: D between B and C, so position 4 is C, thus D at 3. Step 5: D is at position 3.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is Y's father. Y is Z's mother. W is Z's sister. How is W related to X?",
+    "choices": [
+      "A) Daughter",
+      "B) Wife",
+      "C) Sister",
+      "D) Mother"
+    ],
+    "answer": "A",
+    "explanation": "W is Z's sister, making W the daughter of Y, who is X's child.",
+    "reasoning": "Step 1: X is Y's father. Step 2: Y is Z's mother. Step 3: W is Z's sister. Step 4: W is Y's daughter. Step 5: W is X's granddaughter.",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends A, B, C, D, E sit in a row. A sits at one end. B sits second to the right of C. D sits between A and E. Who sits third from the left?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) C",
+      "D) D"
+    ],
+    "answer": "C",
+    "explanation": "A sits at the left end. D sits between A and E, so E is at the right end. B sits second to the right of C, placing C third from the left.",
+    "reasoning": "Step 1: A sits at the left end. Step 2: D sits between A and E, so E is at the right end. Step 3: B sits second to the right of C. Step 4: C must be third from the left. Step 5: Confirming the arrangement, C is third from the left.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D B's aunt. E is D's husband, so E is B's uncle.",
+    "reasoning": "Step 1: A is B's father. Step 2: C is B's mother. Step 3: D is C's sister, B's aunt. Step 4: E is D's husband. Step 5: E is B's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six people P, Q, R, S, T, U sit in a row. P sits third from the left. Q sits second to the right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P at position 3, Q second to right means position 5. Step 2: R at extreme means position 1 or 6. Step 3: Test if R can be at position 1. Step 4: No conflicts with other constraints. Step 5: R at position 1 is valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D B's aunt. E is D's husband, so E is B's uncle.",
+    "reasoning": "Step 1: A is B's father. Step 2: C is B's mother. Step 3: D is C's sister, B's aunt. Step 4: E is D's husband. Step 5: E is B's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle facing center. A is left of B. C is opposite D. E is between A and D. Who is right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "With A left of B, C opposite D, and E between A and D, the circular arrangement forces B to be right of C.",
+    "reasoning": "Step 1: Given A left of B, C opposite D, E between A and D. Step 2: Need to find who is right of C. Step 3: In 5-person circle, opposite means 2-3 positions apart. Step 4: Placing all constraints, B must be adjacent to C. Step 5: B is right of C verified.",
+    "difficulty": "medium"
+  }
+]

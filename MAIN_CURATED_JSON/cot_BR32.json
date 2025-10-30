@@ -1,0 +1,86 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "G is M's mother, M is K's husband. How is K related to G?",
+    "choices": [
+      "A) Daughter-in-law",
+      "B) Aunt",
+      "C) Mother-in-law",
+      "D) Daughter"
+    ],
+    "answer": "A",
+    "explanation": "G is M's mother, M is K's husband, making K G's daughter-in-law.",
+    "reasoning": "Step 1: G $ M means G is M's mother. Step 2: M @ K means M is K's husband. Step 3: K is married to G's son, making K G's daughter-in-law. Step 4: Confirmed K is daughter-in-law. Step 5: Answer is A.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "In a family with six persons A, B, C, D, E, F, where C is the sister of F, B is the brother and grandfather of F, and there are two fathers, three brothers, and a mother. Who is the mother?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) D",
+      "D) E"
+    ],
+    "answer": "D",
+    "explanation": "E is the mother as she is the only female figure in the family setup provided.",
+    "reasoning": "Step 1: C is F's sister. Step 2: B is F's grandfather and brother, indicating B is male. Step 3: Family includes two fathers, three brothers, and one mother. Step 4: E is the mother. Step 5: E is the mother of the family.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "In the same family, who is E's husband?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) A",
+      "D) F"
+    ],
+    "answer": "C",
+    "explanation": "A is E's husband as he is one of the fathers in the family.",
+    "reasoning": "Step 1: E is the mother. Step 2: There are two fathers, so A and another male. Step 3: A is the husband of E. Step 4: Confirmed A is E's husband. Step 5: Answer is C.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "How many male members are there in the group?",
+    "choices": [
+      "A) Two",
+      "B) Three",
+      "C) Four",
+      "D) Five"
+    ],
+    "answer": "B",
+    "explanation": "The males are B, A, and D, making three male members.",
+    "reasoning": "Step 1: B is a grandfather. Step 2: A is a father. Step 3: D is another father. Step 4: Total males: B, A, D. Step 5: Three male members.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "How is F related to E?",
+    "choices": [
+      "A) Uncle",
+      "B) Husband",
+      "C) Son",
+      "D) Daughter"
+    ],
+    "answer": "D",
+    "explanation": "F is E's daughter as C is F's sister and E is the mother.",
+    "reasoning": "Step 1: C is F's sister. Step 2: E is the mother. Step 3: F is E's daughter. Step 4: Confirmed F is E's daughter. Step 5: Answer is D.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Which of the following is the group of brothers?",
+    "choices": [
+      "A) ABF",
+      "B) ABD",
+      "C) BFC",
+      "D) None of these"
+    ],
+    "answer": "B",
+    "explanation": "A and D are fathers, making them brothers along with B.",
+    "reasoning": "Step 1: B is a grandfather. Step 2: A and D are fathers. Step 3: A, B, D are brothers. Step 4: Confirmed group ABD. Step 5: Answer is B.",
+    "difficulty": "medium"
+  }
+]

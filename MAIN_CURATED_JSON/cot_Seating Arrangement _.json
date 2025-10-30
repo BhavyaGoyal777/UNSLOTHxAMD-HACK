@@ -1,0 +1,30 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends A, B, C, D, E sit in a row. A sits at one end. B sits to the immediate right of A. C sits at the other end. Who sits between B and C?",
+    "choices": [
+      "A) D",
+      "B) E",
+      "C) A",
+      "D) B"
+    ],
+    "answer": "A",
+    "explanation": "A is at one end, B is next to A, and C is at the other end. The only person between B and C is D.",
+    "reasoning": "Step 1: A is at one end. Step 2: B is immediately right of A. Step 3: C is at the other end. Step 4: The remaining seats are filled by D and E. Step 5: D is between B and C.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is Y's father. Y is Z's mother. Z is W's sister. How is X related to W?",
+    "choices": [
+      "A) Grandfather",
+      "B) Father",
+      "C) Uncle",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "X is Y's father and Y is Z's mother, making X Z's grandfather. Since Z is W's sister, X is also W's grandfather.",
+    "reasoning": "Step 1: X is Y's father. Step 2: Y is Z's mother. Step 3: Z is W's sister. Step 4: X is Z's grandfather. Step 5: X is also W's grandfather.",
+    "difficulty": "medium"
+  }
+]

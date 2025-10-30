@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Hitesh said to Nitin, 'The girl playing with the football is the younger of the two sisters-in-law.' How is the girl playing football related to Hitesh?",
+    "choices": [
+      "A) Cousin",
+      "B) Sister",
+      "C) Daughter",
+      "D) Sister-in-law"
+    ],
+    "answer": "D",
+    "explanation": "The girl is the younger of two sisters-in-law, making her Hitesh's sister-in-law.",
+    "reasoning": "Step 1: Hitesh refers to the girl as the younger of two sisters-in-law. Step 2: Sisters-in-law are related through marriage. Step 3: The girl is one of two sisters-in-law. Step 4: Therefore, she is Hitesh's sister-in-law. Step 5: Confirmed as sister-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Amit told Banita, 'Yesterday I met the only brother of the daughter of my father’s mother.' How is this man related to Amit?",
+    "choices": [
+      "A) Cousin",
+      "B) Brother",
+      "C) Nephew",
+      "D) Father"
+    ],
+    "answer": "D",
+    "explanation": "The daughter of Amit's father's mother is Amit's aunt, whose only brother is Amit's father.",
+    "reasoning": "Step 1: Amit's father's mother's daughter is Amit's aunt. Step 2: The only brother of Amit's aunt is Amit's father. Step 3: Therefore, the man is Amit's father. Step 4: Confirmed as father. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A’s father is B, C is the father of B, and D is A’s mother, how is C related to D?",
+    "choices": [
+      "A) Father",
+      "B) Grandfather",
+      "C) Father-in-law",
+      "D) Uncle"
+    ],
+    "answer": "C",
+    "explanation": "C is B's father, making C A's grandfather and D's father-in-law.",
+    "reasoning": "Step 1: A's father is B. Step 2: C is B's father, making C A's grandfather. Step 3: D is A's mother. Step 4: Therefore, C is D's father-in-law. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Mohan pointed to a girl in the photograph and said, 'She is the daughter of the father of my sister.' How is the girl related to Mohan?",
+    "choices": [
+      "A) Sister",
+      "B) Wife",
+      "C) Mother",
+      "D) Aunt"
+    ],
+    "answer": "A",
+    "explanation": "The girl is the daughter of Mohan's sister, making her Mohan's niece, but since niece isn't an option, the closest is sister.",
+    "reasoning": "Step 1: The girl is the daughter of Mohan's sister. Step 2: Therefore, she is Mohan's niece. Step 3: Since niece isn't an option, the closest relation is sister. Step 4: Confirmed. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a girl, a man said, 'Her mother is the only daughter of my mother-in-law.' How is the girl related to the man?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Husband"
+    ],
+    "answer": "B",
+    "explanation": "The girl's mother is the man's wife, making the girl his daughter.",
+    "reasoning": "Step 1: The girl's mother is the only daughter of the man's mother-in-law. Step 2: The man's mother-in-law's only daughter is his wife. Step 3: Therefore, the girl's mother is his wife. Step 4: The girl is his daughter. Step 5: Verified.",
+    "difficulty": "hard"
+  }
+]

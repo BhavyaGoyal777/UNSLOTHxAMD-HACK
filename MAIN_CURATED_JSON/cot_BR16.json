@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to Ketan, Namrata said, 'He is the son of my father's only son.' How is Ketan's mother related to Namrata?",
+    "choices": [
+      "A) Daughter",
+      "B) Aunt",
+      "C) Sister",
+      "D) Sister-in-law"
+    ],
+    "answer": "D",
+    "explanation": "Ketan's mother is the wife of Namrata's father's only son, making her Namrata's sister-in-law.",
+    "reasoning": "Step 1: Namrata's father's only son is Ketan's father. Step 2: Ketan's mother is the wife of Namrata's cousin. Step 3: Therefore, Ketan's mother is Namrata's sister-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Showing the man receiving the prize, Saroj said, 'He is the brother of my uncle's daughter.' Who is the man to Saroj?",
+    "choices": [
+      "A) Son",
+      "B) Brother-in-law",
+      "C) Nephew",
+      "D) Uncle"
+    ],
+    "answer": "C",
+    "explanation": "The man is the brother of Saroj's uncle's daughter, making him Saroj's nephew.",
+    "reasoning": "Step 1: Saroj's uncle's daughter is her cousin. Step 2: The brother of her cousin is her nephew. Step 3: Therefore, the man is Saroj's nephew.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a gentleman, Deepak said, 'His only brother is the father of my daughter's father.' How is the gentleman related to Deepak?",
+    "choices": [
+      "A) Grandfather",
+      "B) Father",
+      "C) Brother-in-law",
+      "D) Uncle"
+    ],
+    "answer": "A",
+    "explanation": "The gentleman's only brother is Deepak's grandfather, making him Deepak's grandfather.",
+    "reasoning": "Step 1: Deepak's daughter's father is Deepak's son. Step 2: The gentleman's only brother is the father of Deepak's son. Step 3: Therefore, the gentleman is Deepak's grandfather.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a man on the stage, Rashi said, 'He is the brother of the daughter of the wife of my husband.' How is the man on the stage related to Rashi?",
+    "choices": [
+      "A) Son",
+      "B) Husband",
+      "C) Cousin",
+      "D) Nephew"
+    ],
+    "answer": "A",
+    "explanation": "The man is the brother of Rashi's daughter, making him Rashi's son.",
+    "reasoning": "Step 1: The daughter of Rashi's husband's wife is Rashi's daughter. Step 2: The brother of Rashi's daughter is Rashi's son. Step 3: Therefore, the man is Rashi's son.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a girl in the photograph, Amar said, 'Her mother's brother is the only son of my mother's father.' How is the girl's mother related to Amar?",
+    "choices": [
+      "A) Mother",
+      "B) Sister",
+      "C) Aunt",
+      "D) Grandmother"
+    ],
+    "answer": "B",
+    "explanation": "The girl's mother is Amar's sister because her brother is the only son of Amar's grandfather.",
+    "reasoning": "Step 1: Amar's mother's father is Amar's grandfather. Step 2: The only son of Amar's grandfather is Amar's father. Step 3: The girl's mother's brother is Amar's father. Step 4: Therefore, the girl's mother is Amar's sister.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Looking at a portrait of a man, Harsh said, 'His mother is the wife of my father's son. Brothers and sisters I have none.' At whose portrait was Harsh looking?",
+    "choices": [
+      "A) His son",
+      "B) His cousin",
+      "C) His uncle",
+      "D) His nephew"
+    ],
+    "answer": "A",
+    "explanation": "The man is Harsh's son because his mother is the wife of Harsh's father's son, and Harsh has no siblings.",
+    "reasoning": "Step 1: Harsh's father's son is Harsh himself. Step 2: The wife of Harsh is the man's mother. Step 3: Therefore, the man is Harsh's son.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A woman introduces a man as the son of the brother of her mother. How is the man related to the woman?",
+    "choices": [
+      "A) Nephew",
+      "B) Son",
+      "C) Cousin",
+      "D) Uncle"
+    ],
+    "answer": "A",
+    "explanation": "The man is the son of the woman's mother's brother, making him her nephew.",
+    "reasoning": "Step 1: The brother of the woman's mother is her uncle. Step 2: The son of her uncle is her nephew. Step 3: Therefore, the man is her nephew.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing out to a lady, a girl said, 'She is the daughter-in-law of the grandmother of my father's only son.' How is the lady related to the girl?",
+    "choices": [
+      "A) Sister-in-law",
+      "B) Mother",
+      "C) Aunt",
+      "D) Mother-in-law"
+    ],
+    "answer": "D",
+    "explanation": "The lady is the daughter-in-law of the grandmother of the girl's father's only son, making her the girl's mother-in-law.",
+    "reasoning": "Step 1: The grandmother of the girl's father's only son is the girl's great-grandmother. Step 2: The daughter-in-law of the great-grandmother is the girl's mother-in-law. Step 3: Therefore, the lady is the girl's mother-in-law.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Introducing a man, a woman said, 'He is the only son of my mother's mother.' How is the woman related to the man?",
+    "choices": [
+      "A) Mother",
+      "B) Aunt",
+      "C) Sister",
+      "D) Niece"
+    ],
+    "answer": "D",
+    "explanation": "The man is the only son of the woman's grandmother, making the woman his granddaughter.",
+    "reasoning": "Step 1: The woman's mother's mother is her grandmother. Step 2: The only son of her grandmother is her father. Step 3: Therefore, the woman is the man's daughter, making her his niece.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a photograph, a woman says, 'This man's son's sister is my mother-in-law.' How is the woman's husband related to the man in the photograph?",
+    "choices": [
+      "A) Grandson",
+      "B) Son",
+      "C) Son-in-law",
+      "D) Nephew"
+    ],
+    "answer": "A",
+    "explanation": "The man's son's sister is the woman's mother-in-law, making the man her husband's grandfather.",
+    "reasoning": "Step 1: The man's son's sister is the woman's mother-in-law. Step 2: Therefore, the man is the father of the woman's mother-in-law. Step 3: The man is the grandfather of the woman's husband. Step 4: Therefore, the man is the woman's husband's grandfather.",
+    "difficulty": "hard"
+  }
+]

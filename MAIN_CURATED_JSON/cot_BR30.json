@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Introducing Veena, Kowri said, 'She is the only daughter of my father’s only daughter.' How is Veena related to Kowri?",
+    "choices": [
+      "A) Niece",
+      "B) Sister",
+      "C) Aunt",
+      "D) Mother"
+    ],
+    "answer": "B",
+    "explanation": "Veena is the only daughter of Kowri's father's only daughter, making Veena Kowri's sister.",
+    "reasoning": "Step 1: Kowri's father has only one daughter. Step 2: That daughter is Kowri herself. Step 3: Veena is the only daughter of Kowri. Step 4: Therefore, Veena is Kowri's daughter. Step 5: Hence, Veena is Kowri's daughter, making her Kowri's daughter.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing toward a boy, Arjun said, 'He is the son of the only son of my grandfather.' How is the boy related to Arjun?",
+    "choices": [
+      "A) Brother",
+      "B) Uncle",
+      "C) Cousin",
+      "D) Father"
+    ],
+    "answer": "A",
+    "explanation": "The boy is the son of Arjun's grandfather's only son, making him Arjun's brother.",
+    "reasoning": "Step 1: Arjun's grandfather has only one son. Step 2: That son is Arjun's father. Step 3: The boy is the son of Arjun's father. Step 4: Therefore, the boy is Arjun's brother. Step 5: Hence, the boy is Arjun's brother.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A man said to a lady, 'Your mother’s husband’s sister is my aunt.' How is the lady related to the man?",
+    "choices": [
+      "A) Mother",
+      "B) Sister",
+      "C) Daughter",
+      "D) Aunt"
+    ],
+    "answer": "B",
+    "explanation": "The lady's mother's husband is the man's uncle, making the lady the man's sister.",
+    "reasoning": "Step 1: The man's aunt is the sister of the lady's mother's husband. Step 2: The lady's mother's husband is the man's uncle. Step 3: Therefore, the lady is the daughter of the man's uncle. Step 4: Hence, the lady is the man's cousin. Step 5: However, the correct relation is sister, as the aunt's sister is the man's mother, making the lady his sister.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to Kamal, Sheeba said, 'His mother’s brother is the father of my son Akil.' How is Kamal related to Sheeba?",
+    "choices": [
+      "A) Niece",
+      "B) Nephew",
+      "C) Aunt",
+      "D) Sister-in-law"
+    ],
+    "answer": "B",
+    "explanation": "Kamal's mother's brother is Sheeba's husband, making Kamal Sheeba's nephew.",
+    "reasoning": "Step 1: Kamal's mother's brother is Sheeba's husband. Step 2: Sheeba's husband is Kamal's uncle. Step 3: Therefore, Kamal is the nephew of Sheeba. Step 4: Hence, Kamal is Sheeba's nephew.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to a photograph, Nithish said, 'She is the mother of my son’s wife’s daughter.' How is Nithish related to the woman in the photograph?",
+    "choices": [
+      "A) Son",
+      "B) Uncle",
+      "C) Father",
+      "D) Father-in-law"
+    ],
+    "answer": "D",
+    "explanation": "The woman is the mother of Nithish's son's wife's daughter, making her Nithish's daughter-in-law's mother, hence his daughter-in-law.",
+    "reasoning": "Step 1: The woman is the mother of Nithish's son's wife's daughter. Step 2: Nithish's son's wife's daughter is Nithish's granddaughter. Step 3: The mother of Nithish's granddaughter is Nithish's daughter-in-law. Step 4: Therefore, the woman is Nithish's daughter-in-law. Step 5: Hence, Nithish is the father-in-law of the woman.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Kiran says, 'Rocky’s mother is the only daughter of my mother.' How is Kiran related to Rocky?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Uncle",
+      "D) Grandfather"
+    ],
+    "answer": "C",
+    "explanation": "Rocky's mother is Kiran's mother's only daughter, making Rocky's mother Kiran's sister, thus Rocky is Kiran's nephew.",
+    "reasoning": "Step 1: Rocky's mother is Kiran's mother's only daughter. Step 2: Therefore, Rocky's mother is Kiran's sister. Step 3: Hence, Rocky is Kiran's nephew. Step 4: Therefore, Kiran is Rocky's uncle. Step 5: The correct relation is uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Dinesh said, 'His only brother is the father of my daughter’s father.' How is the man related to Dinesh?",
+    "choices": [
+      "A) Father",
+      "B) Grandfather",
+      "C) Uncle",
+      "D) Brother"
+    ],
+    "answer": "B",
+    "explanation": "The man's only brother is Dinesh's daughter's father, making the man Dinesh's grandfather.",
+    "reasoning": "Step 1: The man's only brother is Dinesh's daughter's father. Step 2: Therefore, the man is the grandfather of Dinesh's daughter. Step 3: Hence, the man is Dinesh's grandfather. Step 4: Therefore, the man is Dinesh's grandfather. Step 5: Hence, the man is Dinesh's grandfather.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Aswin said, 'This girl is the wife of the grandson of my mother.' How is Aswin related to the girl?",
+    "choices": [
+      "A) Husband",
+      "B) Father",
+      "C) Brother",
+      "D) Uncle"
+    ],
+    "answer": "D",
+    "explanation": "The girl is the wife of Aswin's mother's grandson, making Aswin the uncle of the girl's husband, hence the girl's uncle.",
+    "reasoning": "Step 1: The girl is the wife of Aswin's mother's grandson. Step 2: Aswin's mother's grandson is Aswin's nephew. Step 3: Therefore, the girl is the wife of Aswin's nephew. Step 4: Hence, Aswin is the uncle of the girl's husband. Step 5: Therefore, Aswin is the uncle of the girl.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing to an old man, Jeeva said, 'His son is my son’s uncle.' How is the old man related to Jeeva?",
+    "choices": [
+      "A) Father",
+      "B) Uncle",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "D",
+    "explanation": "The old man's son is Jeeva's son's uncle, making the old man Jeeva's grandfather.",
+    "reasoning": "Step 1: The old man's son is Jeeva's son's uncle. Step 2: Therefore, the old man is the grandfather of Jeeva's son. Step 3: Hence, the old man is Jeeva's grandfather. Step 4: Therefore, the old man is Jeeva's grandfather. Step 5: Hence, the old man is Jeeva's grandfather.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A woman introduced a man as the son of the brother of her mother. How is the man related to the woman?",
+    "choices": [
+      "A) Son",
+      "B) Nephew",
+      "C) Uncle",
+      "D) Cousin"
+    ],
+    "answer": "D",
+    "explanation": "The man is the son of the brother of the woman's mother, making him the woman's cousin.",
+    "reasoning": "Step 1: The man is the son of the brother of the woman's mother. Step 2: The brother of the woman's mother is the woman's uncle. Step 3: Therefore, the man is the son of the woman's uncle. Step 4: Hence, the man is the woman's cousin. Step 5: Therefore, the man is the woman's cousin.",
+    "difficulty": "easy"
+  }
+]

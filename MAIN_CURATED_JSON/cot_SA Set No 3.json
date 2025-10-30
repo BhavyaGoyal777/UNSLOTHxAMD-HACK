@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight people P, Q, R, S, T, V, W, and Z are sitting around a circle facing the center. T is 2nd to the right of R, who is 3rd to the right of P. S is 2nd to the left of P and 4th to the right of Q. Z is 3rd to the right of V, who is not an immediate neighbor of P. In which combination is the first person sitting between the second and third?",
+    "choices": [
+      "A) VTS",
+      "B) TZS",
+      "C) ORV",
+      "D) PWQ"
+    ],
+    "answer": "E",
+    "explanation": "V is sitting between R and T in the clockwise direction.",
+    "reasoning": "Step 1: Determine the seating arrangement based on given constraints. Step 2: Identify positions of each person. Step 3: Check each combination to see if the first person is between the second and third. Step 4: Verify that V is between R and T. Step 5: Confirm the correct combination is VRT.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight people P, Q, R, S, T, V, W, and Z are sitting around a circle facing the center. T is 2nd to the right of R, who is 3rd to the right of P. S is 2nd to the left of P and 4th to the right of Q. Z is 3rd to the right of V, who is not an immediate neighbor of P. Who is second to the right of T?",
+    "choices": [
+      "A) S",
+      "B) Z",
+      "C) P",
+      "D) R"
+    ],
+    "answer": "B",
+    "explanation": "T is at position 6, so second to the right is position 8, which is Z.",
+    "reasoning": "Step 1: Determine T's position. Step 2: Calculate two positions to the right. Step 3: Identify the person at that position. Step 4: Confirm it's Z. Step 5: Verify the answer.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight people P, Q, R, S, T, V, W, and Z are sitting around a circle facing the center. T is 2nd to the right of R, who is 3rd to the right of P. S is 2nd to the left of P and 4th to the right of Q. Z is 3rd to the right of V, who is not an immediate neighbor of P. What is P's position with respect to S?",
+    "choices": [
+      "A) 4th to the left",
+      "B) 4th to the right",
+      "C) 5th to the left",
+      "D) 6th to the left"
+    ],
+    "answer": "D",
+    "explanation": "P is at position 1, S at position 7, so P is 6th to the left of S.",
+    "reasoning": "Step 1: Determine positions of P and S. Step 2: Calculate the distance in the left direction. Step 3: Confirm P is 6th to the left of S. Step 4: Verify the answer. Step 5: Ensure no contradictions.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight people P, Q, R, S, T, V, W, and Z are sitting around a circle facing the center. T is 2nd to the right of R, who is 3rd to the right of P. S is 2nd to the left of P and 4th to the right of Q. Z is 3rd to the right of V, who is not an immediate neighbor of P. Who is to the immediate left of Z?",
+    "choices": [
+      "A) T",
+      "B) P",
+      "C) S",
+      "D) V"
+    ],
+    "answer": "C",
+    "explanation": "Z is at position 8, so the immediate left is position 7, which is S.",
+    "reasoning": "Step 1: Determine Z's position. Step 2: Identify the person to the immediate left. Step 3: Confirm it's S. Step 4: Verify the answer. Step 5: Ensure no contradictions.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight people P, Q, R, S, T, V, W, and Z are sitting around a circle facing the center. T is 2nd to the right of R, who is 3rd to the right of P. S is 2nd to the left of P and 4th to the right of Q. Z is 3rd to the right of V, who is not an immediate neighbor of P. Who is second to the right of W?",
+    "choices": [
+      "A) R",
+      "B) Q",
+      "C) Z",
+      "D) S"
+    ],
+    "answer": "A",
+    "explanation": "W is at position 2, so second to the right is position 4, which is R.",
+    "reasoning": "Step 1: Determine W's position. Step 2: Calculate two positions to the right. Step 3: Identify the person at that position. Step 4: Confirm it's R. Step 5: Verify the answer.",
+    "difficulty": "easy"
+  }
+]

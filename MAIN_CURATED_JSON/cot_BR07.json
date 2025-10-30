@@ -1,0 +1,100 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is the brother of B. B is the brother of C. D is the father of A. Which of the following cannot be definitely true?",
+    "choices": [
+      "A) B is the brother of A",
+      "B) B is the son of D",
+      "C) A is the brother of C",
+      "D) C is the brother of A"
+    ],
+    "answer": "D",
+    "explanation": "A is the brother of B and B is the brother of C. So, C may be the brother or sister of A.",
+    "reasoning": "Step 1: A is the brother of B. Step 2: B is the brother of C. Step 3: D is the father of A. Step 4: C could be the brother or sister of A. Step 5: Therefore, C being the brother of A cannot be definitely true.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is the brother of Q and R. S is R's mother. T is P's father. Which of the following cannot be definitely true?",
+    "choices": [
+      "A) T is Q's father",
+      "B) S is P's mother",
+      "C) P is S's son",
+      "D) T is S's husband"
+    ],
+    "answer": "A",
+    "explanation": "P, Q, R are children of the same parents. S is R's mother and T is P's father. It is not mentioned whether Q is male or female, so Q being T's son cannot be definitely true.",
+    "reasoning": "Step 1: P, Q, R are siblings. Step 2: S is R's mother, T is P's father. Step 3: S and T are parents of P, Q, R. Step 4: Q's gender is not specified. Step 5: Therefore, Q being T's son cannot be definitely true.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A, B, C, D, E, F, and G are family members. A and D are brothers, A is a doctor, E is an engineer married to one of the brothers, B is married to D, and G is their child. Who is C?",
+    "choices": [
+      "A) A's son",
+      "B) E's daughter",
+      "C) F's father",
+      "D) G's brother"
+    ],
+    "answer": "A",
+    "explanation": "E is married to A, having two children, C and F. C is A's son.",
+    "reasoning": "Step 1: E is married to A. Step 2: A and E have two children. Step 3: B and D have a child G. Step 4: Only F and G are girls. Step 5: C is A's son.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Shobha is the niece of Ashish. Ashish's mother is Priya. Kamla is Priya's mother. Kamla's husband is Hari. Krishna is Hari's mother-in-law. How is Shobha related to Hari?",
+    "choices": [
+      "A) Daughter",
+      "B) Great grand daughter",
+      "C) Grand niece",
+      "D) Great grandson's daughter"
+    ],
+    "answer": "B",
+    "explanation": "Shobha is the great-granddaughter of Hari.",
+    "reasoning": "Step 1: Shobha is Ashish's niece. Step 2: Priya is Ashish's mother. Step 3: Hari is Priya's father. Step 4: Shobha is Priya's granddaughter. Step 5: Shobha is Hari's great-granddaughter.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A family has six members: A, B, C, D, E, F. A and E are F's sons. D is the mother of two, one boy and one girl. B is A's son. There is one married couple. Who is C?",
+    "choices": [
+      "A) A, B, and C are all females",
+      "B) A is the husband of D",
+      "C) D is F's granddaughter",
+      "D) E and F are D's children"
+    ],
+    "answer": "B",
+    "explanation": "A is the husband of D, having two children, B and C.",
+    "reasoning": "Step 1: A, E, B are male. Step 2: C, D, F are female. Step 3: D has one boy and one girl. Step 4: A and D form a couple. Step 5: A is the husband of D.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "K is the brother of N and X. Y is N's mother. Z is K's father. Which statement is not definitely true?",
+    "choices": [
+      "A) K is Z's son",
+      "B) Y is Z's wife",
+      "C) K is Y's son",
+      "D) Z is X's father"
+    ],
+    "answer": "C",
+    "explanation": "K is the son of Y and Z, making C correct.",
+    "reasoning": "Step 1: K is N and X's brother. Step 2: Y is N's mother. Step 3: Z is K's father. Step 4: Y is Z's wife. Step 5: K is Y's son.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Kalyani is Veena's mother-in-law. Veena is Ashok's sister-in-law. Dheeraj is Sudeep's father, who is Ashok's only brother. How is Kalyani related to Ashok?",
+    "choices": [
+      "A) Cousin",
+      "B) Wife",
+      "C) Mother-in-law",
+      "D) Aunt"
+    ],
+    "answer": "C",
+    "explanation": "Kalyani is Veena's mother-in-law, making her Ashok's mother-in-law.",
+    "reasoning": "Step 1: Veena is Ashok's sister-in-law. Step 2: Kalyani is Veena's mother-in-law. Step 3: Kalyani is Ashok's mother-in-law.",
+    "difficulty": "medium"
+  }
+]

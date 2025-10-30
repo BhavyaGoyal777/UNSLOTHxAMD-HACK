@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is the father of B. C is the sister of B. D is the daughter of C. How is D related to A?",
+    "choices": [
+      "A) Granddaughter",
+      "B) Daughter",
+      "C) Sister",
+      "D) Mother"
+    ],
+    "answer": "A",
+    "explanation": "D is the daughter of C, who is B's sister. B is A's child, making C A's daughter. Thus, D is A's granddaughter.",
+    "reasoning": "Step 1: A is B's father. Step 2: C is B's sister, making C A's daughter. Step 3: D is C's daughter. Step 4: Therefore, D is A's granddaughter. Step 5: Confirmed D is A's granddaughter.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends P, Q, R, S, T sit in a row. P sits at the left end. Q sits next to P. R sits at the right end. S sits between Q and R. Who sits second from the right?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) S",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 1, Q at 2, S at 3, T at 4, R at 5. Second from right is position 4, which is T.",
+    "reasoning": "Step 1: P at position 1. Step 2: Q next to P at 2. Step 3: R at position 5. Step 4: S between Q and R at 3. Step 5: T must be at position 4, second from right.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is married to Y. Y is the mother of Z. Z is the sister of V. How is X related to V?",
+    "choices": [
+      "A) Father",
+      "B) Uncle",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "Y is Z's mother, making Y V's mother too. X is married to Y, so X is V's father.",
+    "reasoning": "Step 1: Y is Z and V's mother. Step 2: X is married to Y. Step 3: X is the father of Y's children, Z and V. Step 4: Therefore, X is V's father. Step 5: Confirmed X is V's father.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six people A, B, C, D, E, F sit in a circle. A sits opposite D. B sits between A and C. E sits between D and F. Who sits to the immediate left of D?",
+    "choices": [
+      "A) B",
+      "B) C",
+      "C) E",
+      "D) F"
+    ],
+    "answer": "C",
+    "explanation": "A opposite D. B between A and C. E between D and F. E sits to D's left.",
+    "reasoning": "Step 1: A opposite D. Step 2: B between A and C. Step 3: E between D and F. Step 4: E is to D's left. Step 5: E is immediate left of D.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "M is the mother of N. N is the sister of O. O is married to P. How is P related to M?",
+    "choices": [
+      "A) Son-in-law",
+      "B) Daughter-in-law",
+      "C) Son",
+      "D) Daughter"
+    ],
+    "answer": "A",
+    "explanation": "O is N's sister, making O M's daughter. P is married to O, so P is M's son-in-law.",
+    "reasoning": "Step 1: M is N's mother. Step 2: O is N's sister, so O is M's daughter. Step 3: P is married to O. Step 4: P is M's son-in-law. Step 5: Confirmed P is son-in-law.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Seven people G, H, I, J, K, L, M sit in a row. G sits at the left end. H sits second from the right. I sits between G and J. K sits between H and L. Who sits third from the left?",
+    "choices": [
+      "A) I",
+      "B) J",
+      "C) K",
+      "D) L"
+    ],
+    "answer": "B",
+    "explanation": "G at 1, I between G and J at 3, J at 4. H at 6, K at 5, L at 7. Third from left is J.",
+    "reasoning": "Step 1: G at 1. Step 2: I between G and J, so I at 3, J at 4. Step 3: H at 6. Step 4: K between H and L, so K at 5, L at 7. Step 5: Third from left is J at 4.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "R is the father of S. S is the sister of T. T is married to U. How is U related to R?",
+    "choices": [
+      "A) Son-in-law",
+      "B) Daughter-in-law",
+      "C) Son",
+      "D) Daughter"
+    ],
+    "answer": "A",
+    "explanation": "T is S's sister, making T R's daughter. U is married to T, so U is R's son-in-law.",
+    "reasoning": "Step 1: R is S's father. Step 2: T is S's sister, so T is R's daughter. Step 3: U is married to T. Step 4: U is R's son-in-law. Step 5: Confirmed U is son-in-law.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight people N, O, P, Q, R, S, T, U sit in a row. N sits at the left end. O sits second from the right. P sits between N and Q. Q sits between P and R. Who sits fifth from the left?",
+    "choices": [
+      "A) Q",
+      "B) R",
+      "C) S",
+      "D) T"
+    ],
+    "answer": "B",
+    "explanation": "N at 1, P at 3, Q at 4, R at 5. O at 7, S at 6, T at 8. Fifth from left is R.",
+    "reasoning": "Step 1: N at 1. Step 2: P between N and Q, so P at 3, Q at 4. Step 3: Q between P and R, so R at 5. Step 4: O at 7, S at 6, T at 8. Step 5: Fifth from left is R at 5.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "V is the daughter of W. W is the sister of X. X is married to Y. How is Y related to V?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "W is V's mother. X is W's sister, making X V's aunt. Y is married to X, so Y is V's uncle.",
+    "reasoning": "Step 1: V is W's daughter. Step 2: W is X's sister. Step 3: X is V's aunt. Step 4: Y is married to X. Step 5: Y is V's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Nine people A, B, C, D, E, F, G, H, I sit in a row. A sits at the left end. B sits second from the left. C sits between B and D. D sits between C and E. Who sits fifth from the left?",
+    "choices": [
+      "A) D",
+      "B) E",
+      "C) F",
+      "D) G"
+    ],
+    "answer": "B",
+    "explanation": "A at 1, B at 2, C at 3, D at 4, E at 5. F at 6, G at 7, H at 8, I at 9. Fifth from left is E.",
+    "reasoning": "Step 1: A at 1. Step 2: B at 2. Step 3: C between B and D, so C at 3, D at 4. Step 4: D between C and E, so E at 5. Step 5: Fifth from left is E at 5.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Z is the son of A. A is the sister of B. B is married to C. How is C related to Z?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "A is Z's mother. B is A's sister, making B Z's aunt. C is married to B, so C is Z's uncle.",
+    "reasoning": "Step 1: Z is A's son. Step 2: A is B's sister. Step 3: B is Z's aunt. Step 4: C is married to B. Step 5: C is Z's uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Ten people J, K, L, M, N, O, P, Q, R, S sit in a row. J sits at the left end. K sits second from the left. L sits between K and M. M sits between L and N. Who sits sixth from the left?",
+    "choices": [
+      "A) M",
+      "B) N",
+      "C) O",
+      "D) P"
+    ],
+    "answer": "C",
+    "explanation": "J at 1, K at 2, L at 3, M at 4, N at 5. O at 6, P at 7, Q at 8, R at 9, S at 10. Sixth from left is O.",
+    "reasoning": "Step 1: J at 1. Step 2: K at 2. Step 3: L between K and M, so L at 3, M at 4. Step 4: M between L and N, so N at 5. Step 5: Sixth from left is O at 6.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "T is the daughter of U. U is the brother of V. V is married to W. How is W related to T?",
+    "choices": [
+      "A) Aunt",
+      "B) Mother",
+      "C) Sister",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "U is T's father. V is U's brother, making V T's uncle. W is married to V, so W is T's aunt.",
+    "reasoning": "Step 1: T is U's daughter. Step 2: U is V's brother. Step 3: V is T's uncle. Step 4: W is married to V. Step 5: W is T's aunt.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eleven people D, E, F, G, H, I, J, K, L, M, N sit in a row. D sits at the left end. E sits second from the left. F sits between E and G. G sits between F and H. Who sits seventh from the left?",
+    "choices": [
+      "A) G",
+      "B) H",
+      "C) I",
+      "D) J"
+    ],
+    "answer": "C",
+    "explanation": "D at 1, E at 2, F at 3, G at 4, H at 5. I at 6, J at 7, K at 8, L at 9, M at 10, N at 11. Seventh from left is J.",
+    "reasoning": "Step 1: D at 1. Step 2: E at 2. Step 3: F between E and G, so F at 3, G at 4. Step 4: G between F and H, so H at 5. Step 5: Seventh from left is J at 7.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is the son of Y. Y is the sister of Z. Z is married to A. How is A related to X?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "Y is X's mother. Z is Y's sister, making Z X's aunt. A is married to Z, so A is X's uncle.",
+    "reasoning": "Step 1: X is Y's son. Step 2: Y is Z's sister. Step 3: Z is X's aunt. Step 4: A is married to Z. Step 5: A is X's uncle.",
+    "difficulty": "medium"
+  }
+]

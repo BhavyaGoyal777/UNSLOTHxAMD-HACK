@@ -1,0 +1,59 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Twelve key members sit in two rows of six each, facing each other. Row 1: Raghu, Gopi, Somi, Sethi, Abram, Anu (east). Row 2: Prabhu, Deva, Javed, Atal, Puri, Gil (west). Prabhu is at an end, second to the right of Puri. Raghu does not face Prabhu or Puri. Raghu is third to the left of Anu. Two persons between Deva and Gil. One person between Somi and Sethi; they do not face Prabhu. Gopi is Somi's neighbor. Atal does not face Sethi or sit next to Deva. Who faces Anu?",
+    "choices": [
+      "A) Deva",
+      "B) Puri",
+      "C) Atal",
+      "D) Javed",
+      "E) Gil"
+    ],
+    "answer": "E",
+    "explanation": "Anu faces Gil as they are seated opposite each other in their respective rows.",
+    "reasoning": "Step 1: Determine Anu's position based on Raghu being third to her left. Step 2: Place Raghu and Anu accordingly. Step 3: Face Anu with the corresponding seat in row 2, which is Gil. Step 4: Confirm no conflicts with other constraints. Step 5: Verify seating arrangement consistency.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Using the same seating arrangement, how many persons sit between Abram and Somi?",
+    "choices": [
+      "A) One",
+      "B) Two",
+      "C) Three",
+      "D) Four"
+    ],
+    "answer": "B",
+    "explanation": "Two persons, Raghu and Gopi, sit between Abram and Somi.",
+    "reasoning": "Step 1: Identify positions of Abram and Somi. Step 2: Count the seats between them. Step 3: Confirm the count matches the given options. Step 4: Ensure no other constraints are violated. Step 5: Finalize the answer based on the seating chart.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Following the pattern, Abram relates to Javed as Gopi relates to Atal. Who does Anu relate to?",
+    "choices": [
+      "A) Gil",
+      "B) Prabhu",
+      "C) Puri",
+      "D) Deva"
+    ],
+    "answer": "D",
+    "explanation": "Anu relates to Deva, following the positional relationship pattern.",
+    "reasoning": "Step 1: Analyze the given relationships. Step 2: Determine the pattern based on positions. Step 3: Apply the pattern to find Anu's relation. Step 4: Verify the consistency with the seating arrangement. Step 5: Conclude the correct relation.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Which statement about Gopi is true?",
+    "choices": [
+      "A) Gil is the neighbour of Gopi's facing person.",
+      "B) Somi is not Gopi's immediate neighbour.",
+      "C) Abram is second to Gopi's right.",
+      "D) Puri faces Gopi."
+    ],
+    "answer": "D",
+    "explanation": "Gopi faces Puri, as they are seated opposite each other.",
+    "reasoning": "Step 1: Identify Gopi's position. Step 2: Determine who faces Gopi. Step 3: Confirm the facing person is Puri. Step 4: Ensure no other constraints contradict. Step 5: Finalize the correct statement.",
+    "difficulty": "medium"
+  }
+]

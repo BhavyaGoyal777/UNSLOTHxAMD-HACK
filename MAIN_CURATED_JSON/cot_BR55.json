@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A woman introduces a man as the son of the brother of her mother. How is the man related to the woman?",
+    "choices": [
+      "A) Brother",
+      "B) Uncle",
+      "C) Nephew",
+      "D) Cousin"
+    ],
+    "answer": "D",
+    "explanation": "The man is the son of the woman's maternal uncle, making him her cousin.",
+    "reasoning": "Step 1: The woman's mother's brother is her maternal uncle. Step 2: The man is the son of this maternal uncle. Step 3: Therefore, the man is the woman's cousin. Step 4: This relationship is established through the maternal line. Step 5: The correct answer is cousin.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the brother of B, C is the sister of B, and B is the father of D, how is D related to A?",
+    "choices": [
+      "A) Nephew/Niece",
+      "B) Niece",
+      "C) Nephew",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "A is the brother of B, and B is the father of D, making D the nephew/niece of A.",
+    "reasoning": "Step 1: A and B are siblings. Step 2: B is the father of D. Step 3: Therefore, D is the child of A's sibling. Step 4: This makes D A's nephew or niece. Step 5: The correct answer is nephew/niece.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the mother of B, B is the son of C, and C is the brother of D, how is D related to A?",
+    "choices": [
+      "A) Brother-in-law",
+      "B) Uncle",
+      "C) Nephew",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "C is the brother of B's father, making D the brother-in-law of A.",
+    "reasoning": "Step 1: A is the mother of B. Step 2: B is the son of C, making C B's father. Step 3: C is the brother of D. Step 4: Therefore, D is the brother of B's father. Step 5: D is A's brother-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the sister of B, B is the daughter of C, and C is the wife of D, how is D related to A?",
+    "choices": [
+      "A) Father",
+      "B) Uncle",
+      "C) Grand Father",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "C is the mother of A and B, and D is C's husband, making D the father of A.",
+    "reasoning": "Step 1: A and B are siblings. Step 2: B is the daughter of C, making C the mother of A and B. Step 3: C is married to D. Step 4: Therefore, D is the father of A and B. Step 5: The correct answer is father.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the husband of B, B is the mother of C, and C is the wife of D, how is A related to D?",
+    "choices": [
+      "A) Father-in-law",
+      "B) Grandfather",
+      "C) Nephew",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "A is the father of C, and C is married to D, making A the father-in-law of D.",
+    "reasoning": "Step 1: A is the husband of B. Step 2: B is the mother of C, making A the father of C. Step 3: C is married to D. Step 4: Therefore, A is the father-in-law of D. Step 5: The correct answer is father-in-law.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the brother of B, B is the son of C, and C is the daughter of D, how is D related to A?",
+    "choices": [
+      "A) Uncle",
+      "B) Grandfather",
+      "C) Nephew",
+      "D) Cousin"
+    ],
+    "answer": "B",
+    "explanation": "C is the daughter of D, making D the grandfather of A and B.",
+    "reasoning": "Step 1: A and B are siblings. Step 2: B is the son of C, making C the parent of A and B. Step 3: C is the daughter of D. Step 4: Therefore, D is the grandparent of A and B. Step 5: The correct answer is grandfather.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the sister of B, B is the daughter of C, C is the wife of D, and D is the brother of E, how is E related to A?",
+    "choices": [
+      "A) Uncle",
+      "B) Grandfather",
+      "C) Nephew",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "E is the brother of D, who is the father of A and B, making E the uncle of A.",
+    "reasoning": "Step 1: A and B are siblings. Step 2: B is the daughter of C, making C the mother of A and B. Step 3: C is married to D. Step 4: D is the brother of E. Step 5: Therefore, E is the paternal uncle of A.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the brother of B, B is the son of C, C is the daughter of D, and D is the wife of E, how is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Grandfather",
+      "C) Mother",
+      "D) Grandmother"
+    ],
+    "answer": "B",
+    "explanation": "E is the husband of D, who is the mother of C, making E the grandfather of B.",
+    "reasoning": "Step 1: A and B are siblings. Step 2: B is the son of C, making C the parent of A and B. Step 3: C is the daughter of D. Step 4: D is married to E. Step 5: Therefore, E is the maternal grandfather of B.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If A is the sister of B, B is the daughter of C, C is the wife of D, and D is the brother of E, how is E related to C?",
+    "choices": [
+      "A) Brother-in-law",
+      "B) Grandfather",
+      "C) Nephew",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "E is the brother of D, who is married to C, making E the brother-in-law of C.",
+    "reasoning": "Step 1: A and B are siblings. Step 2: B is the daughter of C, making C the mother of A and B. Step 3: C is married to D. Step 4: D is the brother of E. Step 5: Therefore, E is the brother-in-law of C.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Introducing a boy, a girl said, “He is the only son of my mother’s mother.” How is the girl related to the boy?",
+    "choices": [
+      "A) Mother",
+      "B) Aunt",
+      "C) Niece",
+      "D) Cousin"
+    ],
+    "answer": "C",
+    "explanation": "The boy is the son of the girl's grandmother, making the girl the niece of the boy.",
+    "reasoning": "Step 1: The boy is the son of the girl's grandmother. Step 2: This makes the boy the girl's uncle. Step 3: Therefore, the girl is the niece of the boy. Step 4: The relationship is established through the maternal line. Step 5: The correct answer is niece.",
+    "difficulty": "hard"
+  }
+]

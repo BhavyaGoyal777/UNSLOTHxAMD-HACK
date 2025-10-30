@@ -1,0 +1,30 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Sandeep's father has only one sister. The girl is the daughter of this sister. How is Sandeep related to the girl?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Cousin",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "The girl is the daughter of Sandeep's father's only sister, making Sandeep the girl's uncle.",
+    "reasoning": "Step 1: Sandeep's father has only one sister. Step 2: The girl is the daughter of this sister. Step 3: Sandeep is the brother of this sister's child. Step 4: Therefore, Sandeep is the uncle of the girl.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Reena's grandfather has only one child. The boy is the only son of this child. How is Reena related to the boy?",
+    "choices": [
+      "A) Mother",
+      "B) Sister",
+      "C) Aunt",
+      "D) Cousin"
+    ],
+    "answer": "C",
+    "explanation": "The boy is the only son of Reena's grandfather's only child. If Reena is not the boy, she must be his aunt.",
+    "reasoning": "Step 1: Reena's grandfather has only one child. Step 2: The boy is the only son of this child. Step 3: If Reena is not the boy, she must be the sister of this child. Step 4: Therefore, Reena is the aunt of the boy.",
+    "difficulty": "hard"
+  }
+]

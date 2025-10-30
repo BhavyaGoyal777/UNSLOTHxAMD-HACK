@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Ram is the brother of Hema and the father of Dev. Monika is the mother of Shreya and the wife of Gagan. How is Ram related to Monika?",
+    "choices": [
+      "A) Brother",
+      "B) Uncle",
+      "C) Father",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "Ram is the brother of Hema and the father of Dev. Monika is the mother of Shreya and the wife of Gagan. The two statements do not share any common person, so Ram cannot be related to Monika.",
+    "reasoning": "Step 1: Analyze Statement I - Monika is the mother of Shreya and the wife of Gagan. Step 2: Analyze Statement II - Ram is the brother of Hema and the father of Dev. Step 3: Check for common persons between statements. Step 4: No common persons found. Step 5: Conclude Ram and Monika are not related.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father's nephew. C is B's cousin but not the brother of A. How is C related to A?",
+    "choices": [
+      "A) Sister",
+      "B) Mother",
+      "C) Aunt",
+      "D) Grandmother"
+    ],
+    "answer": "C",
+    "explanation": "C is the sister of A's mother, making C the maternal aunt of A.",
+    "reasoning": "Step 1: A is B's father's nephew. Step 2: C is B's cousin but not the brother of A. Step 3: Determine the relationship between C and A. Step 4: C is the sister of A's mother. Step 5: C is the aunt of A.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Prateek is the son of Chitra's husband's father's wife. How is Prateek related to Chitra?",
+    "choices": [
+      "A) Brother",
+      "B) Father",
+      "C) Uncle",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "Prateek is the son of Chitra's husband's father's wife, making Prateek the brother-in-law of Chitra.",
+    "reasoning": "Step 1: Prateek is the son of Chitra's husband's father's wife. Step 2: Determine the relationship. Step 3: Chitra's husband's father's wife is Chitra's mother-in-law. Step 4: Prateek is the son of Chitra's mother-in-law. Step 5: Prateek is Chitra's brother-in-law.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Kartik is the brother of Preeti. Amrita is the daughter of Raghav. Raghav is the son of Preeti's mother Seema. How is Kartik related to Amrita?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "Kartik is the brother of Amrita's father, making Kartik the paternal uncle of Amrita.",
+    "reasoning": "Step 1: Kartik is the brother of Preeti. Step 2: Amrita is the daughter of Raghav. Step 3: Raghav is the son of Preeti's mother Seema. Step 4: Kartik is the brother of Raghav. Step 5: Kartik is the paternal uncle of Amrita.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is the brother of Y. Y is the brother of Z. X is the brother of T. How is Y related to T?",
+    "choices": [
+      "A) Brother",
+      "B) Uncle",
+      "C) Father",
+      "D) Cousin"
+    ],
+    "answer": "B",
+    "explanation": "Y is the brother of X, who is the brother of T, making Y the uncle of T.",
+    "reasoning": "Step 1: X is the brother of Y. Step 2: Y is the brother of Z. Step 3: X is the brother of T. Step 4: Y is the uncle of T. Step 5: Conclude Y is the uncle of T.",
+    "difficulty": "medium"
+  }
+]

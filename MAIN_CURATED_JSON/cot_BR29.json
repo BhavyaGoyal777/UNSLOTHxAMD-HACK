@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "If A is the father of B, C is the sister of B, and D is the husband of C, how is D related to A?",
+    "choices": [
+      "A) Son",
+      "B) Brother",
+      "C) Nephew",
+      "D) Uncle"
+    ],
+    "answer": "C",
+    "explanation": "D is the husband of C, who is B's sister, making D the nephew of A.",
+    "reasoning": "Step 1: A is the father of B. Step 2: C is B's sister, so C is A's daughter. Step 3: D is C's husband, making D the son-in-law of A. Step 4: Since D is married to A's daughter, D is A's nephew. Step 5: Therefore, D is A's nephew.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a row. A sits at the left end. B sits to the immediate right of A. C sits at the far right end. Who sits between B and C?",
+    "choices": [
+      "A) D",
+      "B) E",
+      "C) A",
+      "D) B"
+    ],
+    "answer": "A",
+    "explanation": "D sits between B and C.",
+    "reasoning": "Step 1: A is at the left end. Step 2: B is immediately to the right of A. Step 3: C is at the far right end. Step 4: The remaining seats are between B and C. Step 5: D must sit between B and C.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If X is the mother of Y, Y is the brother of Z, and Z is the sister of W, how is X related to W?",
+    "choices": [
+      "A) Mother",
+      "B) Aunt",
+      "C) Sister",
+      "D) Grandmother"
+    ],
+    "answer": "A",
+    "explanation": "X is the mother of Y, and since Y is the brother of Z and Z is the sister of W, X is the mother of W.",
+    "reasoning": "Step 1: X is Y's mother. Step 2: Y is Z's brother. Step 3: Z is W's sister. Step 4: Therefore, W is Y's sister. Step 5: X is the mother of W.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six people P, Q, R, S, T, U sit in a circle. P sits opposite Q. R sits between Q and S. Who sits opposite R?",
+    "choices": [
+      "A) T",
+      "B) U",
+      "C) S",
+      "D) P"
+    ],
+    "answer": "A",
+    "explanation": "T sits opposite R.",
+    "reasoning": "Step 1: P is opposite Q. Step 2: R is between Q and S. Step 3: In a circle of six, each person has one opposite. Step 4: R's opposite is T. Step 5: Therefore, T is opposite R.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If M is the father of N, N is the brother of O, and O is the mother of P, how is M related to P?",
+    "choices": [
+      "A) Grandfather",
+      "B) Father",
+      "C) Uncle",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "M is the grandfather of P.",
+    "reasoning": "Step 1: M is N's father. Step 2: N is O's brother. Step 3: O is P's mother. Step 4: Therefore, M is the grandfather of P.",
+    "difficulty": "medium"
+  }
+]

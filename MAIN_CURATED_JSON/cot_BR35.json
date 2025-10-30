@@ -1,0 +1,30 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's sister. D is C's husband. How is D related to A?",
+    "choices": [
+      "A) Son",
+      "B) Brother",
+      "C) Uncle",
+      "D) Nephew"
+    ],
+    "answer": "C",
+    "explanation": "D is the husband of B's sister, making him B's brother-in-law and A's son-in-law, which is the uncle.",
+    "reasoning": "Step 1: A is B's father. Step 2: C is B's sister. Step 3: D is C's husband. Step 4: D is B's brother-in-law. Step 5: Therefore, D is A's son-in-law, making him the uncle.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle. A sits opposite B, C sits next to A, D sits next to B, E sits between C and D. Who is next to E?",
+    "choices": [
+      "A) C",
+      "B) D",
+      "C) A",
+      "D) B"
+    ],
+    "answer": "B",
+    "explanation": "E sits between C and D, so D is next to E.",
+    "reasoning": "Step 1: A sits opposite B. Step 2: C sits next to A. Step 3: D sits next to B. Step 4: E sits between C and D. Step 5: Therefore, D is next to E.",
+    "difficulty": "medium"
+  }
+]

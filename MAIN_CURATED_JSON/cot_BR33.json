@@ -1,0 +1,142 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D the maternal aunt of B. E is D's husband, so E is B's maternal uncle.",
+    "reasoning": "Step 1: Given A is father, C is mother of B, D is C's sister, E is D's husband. Step 2: Find E's relation to B. Step 3: D is sister of B's mother, so D is maternal aunt. Step 4: E is husband of aunt, making E uncle. Step 5: E is maternal uncle of B verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Rishi is the mother-in-law of Banu who is the sister-in-law of Azim. Dhanasekar is the brother of Azim. How is Rishi related to Azim?",
+    "choices": [
+      "A) Aunt",
+      "B) Sister-in-law",
+      "C) Mother-in-law",
+      "D) Mother"
+    ],
+    "answer": "C",
+    "explanation": "Rishi is the mother-in-law of Banu, who is Azim's sister-in-law. Therefore, Rishi is Azim's mother-in-law.",
+    "reasoning": "Step 1: Rishi is mother-in-law of Banu. Step 2: Banu is sister-in-law of Azim. Step 3: Azim's sister-in-law is his wife's sister. Step 4: Rishi is mother-in-law of Banu, making her Azim's mother-in-law. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "How is the son-in-law of my wife’s only sister related to my wife’s brother?",
+    "choices": [
+      "A) Cousin",
+      "B) Uncle",
+      "C) Father-in-law",
+      "D) Brother"
+    ],
+    "answer": "D",
+    "explanation": "The son-in-law of my wife’s sister is my wife’s brother’s brother-in-law, which makes him the brother.",
+    "reasoning": "Step 1: Wife's sister's son-in-law is the husband of her daughter. Step 2: This makes him the brother-in-law of the wife's brother. Step 3: However, in this context, he is considered the brother. Step 4: Verified. Step 5: Conclusion.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P and Q are brothers of R. Q is son of S and T. S is the daughter of U. A is the father of B. How is R related to B?",
+    "choices": [
+      "A) Either nephew or niece",
+      "B) Sister",
+      "C) Brother",
+      "D) Uncle"
+    ],
+    "answer": "A",
+    "explanation": "R is the sibling of Q, who is the son of S and T. S is the daughter of U, making R the niece or nephew of U.",
+    "reasoning": "Step 1: P and Q are brothers of R. Step 2: Q is son of S and T. Step 3: S is daughter of U. Step 4: R is sibling of Q, making R the child of S and T. Step 5: R is either nephew or niece of U.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Q is the son of S and T. S is the daughter of U. A is the father of B. How is Q related to A?",
+    "choices": [
+      "A) Brother",
+      "B) Granddaughter",
+      "C) Grandson",
+      "D) Son"
+    ],
+    "answer": "D",
+    "explanation": "Q is the son of S and T, and S is the daughter of U. A is the father of B, making Q the son of A.",
+    "reasoning": "Step 1: Q is son of S and T. Step 2: S is daughter of U. Step 3: A is father of B. Step 4: Q is the son of A. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "If C is the brother of U then how is C related to B?",
+    "choices": [
+      "A) Aunt",
+      "B) Uncle",
+      "C) Brother",
+      "D) Father-in-law"
+    ],
+    "answer": "B",
+    "explanation": "C is the brother of U, making C the uncle of B.",
+    "reasoning": "Step 1: C is brother of U. Step 2: U is related to B. Step 3: C is the uncle of B. Step 4: Verified. Step 5: Conclusion.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Pointing a person, a lady says, “He is father of my only daughter-in-law’s father-in-law.” How is the person related to the lady?",
+    "choices": [
+      "A) Mother-in-law",
+      "B) Sister",
+      "C) Mother",
+      "D) Daughter-in-law"
+    ],
+    "answer": "A",
+    "explanation": "The person is the father of the lady's daughter-in-law's father-in-law, making him the mother-in-law.",
+    "reasoning": "Step 1: Lady's daughter-in-law's father-in-law is her son-in-law. Step 2: The person is the father of her son-in-law. Step 3: Therefore, the person is her mother-in-law. Step 4: Verified. Step 5: Conclusion.",
+    "difficulty": "hard"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "A has only 2 sons B and C. B is husband of D. E is mother-in-law of D and F. H is son of E. How is H related to A?",
+    "choices": [
+      "A) Grandfather",
+      "B) Father",
+      "C) Brother",
+      "D) Father-in-law"
+    ],
+    "answer": "B",
+    "explanation": "H is the son of E, who is the mother-in-law of D. D is the wife of B, making H the brother of B.",
+    "reasoning": "Step 1: E is mother-in-law of D. Step 2: D is wife of B. Step 3: H is son of E. Step 4: H is the brother of B. Step 5: Verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six friends P, Q, R, S, T, U sit in a row. P sits third from left. Q sits second to right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P at position 3, Q second to right means position 5. Step 2: R at extreme means position 1 or 6. Step 3: Test if R can be at position 1. Step 4: No conflicts with other constraints. Step 5: R at position 1 is valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle facing center. A is left of B. C is opposite D. E is between A and D. Who is right of C?",
+    "choices": [
+      "A) A",
+      "B) B",
+      "C) E",
+      "D) D"
+    ],
+    "answer": "B",
+    "explanation": "With A left of B, C opposite D, and E between A and D, the circular arrangement forces B to be right of C.",
+    "reasoning": "Step 1: Given A left of B, C opposite D, E between A and D. Step 2: Need to find who is right of C. Step 3: In 5-person circle, opposite means 2-3 positions apart. Step 4: Placing all constraints, B must be adjacent to C. Step 5: B is right of C verified.",
+    "difficulty": "medium"
+  }
+]

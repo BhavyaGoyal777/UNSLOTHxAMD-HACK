@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is B's father. C is B's mother. D is C's sister. E is D's husband. How is E related to B?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "A",
+    "explanation": "D is C's sister, making D the maternal aunt of B. E is D's husband, so E is B's maternal uncle.",
+    "reasoning": "Step 1: Given A is father, C is mother of B, D is C's sister, E is D's husband. Step 2: Find E's relation to B. Step 3: D is sister of B's mother, so D is maternal aunt. Step 4: E is husband of aunt, making E uncle. Step 5: E is maternal uncle of B verified.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five friends P, Q, R, S, T sit in a row. P sits third from left. Q sits second to right of P. R sits at an extreme end. Who could be at position 1?",
+    "choices": [
+      "A) P",
+      "B) Q",
+      "C) R",
+      "D) T"
+    ],
+    "answer": "C",
+    "explanation": "P is at position 3, Q at position 5. R is at an extreme end, so position 1 or 6. R could be at position 1.",
+    "reasoning": "Step 1: P at position 3, Q second to right means position 5. Step 2: R at extreme means position 1 or 6. Step 3: Test if R can be at position 1. Step 4: No conflicts with other constraints. Step 5: R at position 1 is valid.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is the father of Y, Y is the sister of Z. How is X related to Z?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandfather"
+    ],
+    "answer": "B",
+    "explanation": "Y is the sister of Z, making Z the daughter of Y's father, who is X. Thus, X is Z's father.",
+    "reasoning": "Step 1: X is father of Y. Step 2: Y is sister of Z. Step 3: Therefore, Z is Y's sibling. Step 4: X is father of Y and Z. Step 5: X is father of Z.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six people A, B, C, D, E, F sit in a circle. A sits opposite B, C sits between D and E, F is next to A. Who is to the immediate right of D?",
+    "choices": [
+      "A) E",
+      "B) F",
+      "C) C",
+      "D) B"
+    ],
+    "answer": "A",
+    "explanation": "C sits between D and E, so D is to the left of C, making E to the right of C. Thus, E is to the immediate right of D.",
+    "reasoning": "Step 1: A opposite B in a circle of 6. Step 2: C between D and E. Step 3: F next to A. Step 4: D is left of C, so E is right of C. Step 5: E is immediate right of D.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is Q's mother, R is Q's brother, S is R's son. How is S related to P?",
+    "choices": [
+      "A) Uncle",
+      "B) Father",
+      "C) Brother",
+      "D) Grandson"
+    ],
+    "answer": "D",
+    "explanation": "S is R's son, and R is Q's brother, making S the nephew of Q and the grandson of P.",
+    "reasoning": "Step 1: P is mother of Q. Step 2: R is Q's brother. Step 3: S is R's son. Step 4: S is grandson of P. Step 5: S is P's grandson.",
+    "difficulty": "easy"
+  }
+]

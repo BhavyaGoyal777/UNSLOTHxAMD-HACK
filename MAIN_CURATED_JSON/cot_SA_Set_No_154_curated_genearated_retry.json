@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons Andrew, Bill, Charles, David, Emma, Fabio, George, and Henry sit around a square table facing outward. David sits at a corner and does not like any ice-cream. George sits immediately to the right of David. Bill sits opposite Fabio, who likes ice-cream but not vanilla. Charles sits third to the left of Fabio. Andrew sits at a corner but is not the immediate neighbor of Emma or Fabio. Henry and Emma are immediate neighbors. Henry sits opposite the one who likes vanilla ice-cream. George does not like any ice-cream. Who likes vanilla ice-cream?",
+    "choices": [
+      "A) Andrew",
+      "B) Bill",
+      "C) Charles",
+      "D) Emma"
+    ],
+    "answer": "A",
+    "explanation": "Andrew likes vanilla ice-cream as he sits opposite Henry, who does not like vanilla.",
+    "reasoning": "Step 1: David sits at a corner. Step 2: George is to David's right. Step 3: Bill opposite Fabio, who likes strawberry. Step 4: Charles third left of Fabio. Step 5: Andrew, at a corner, opposite Henry, likes vanilla.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons Andrew, Bill, Charles, David, Emma, Fabio, George, and Henry sit around a square table facing outward. David sits at a corner and does not like any ice-cream. George sits immediately to the right of David. Bill sits opposite Fabio, who likes ice-cream but not vanilla. Charles sits third to the left of Fabio. Andrew sits at a corner but is not the immediate neighbor of Emma or Fabio. Henry and Emma are immediate neighbors. Henry sits opposite the one who likes vanilla ice-cream. George does not like any ice-cream. Who does not belong to the corner group?",
+    "choices": [
+      "A) Andrew",
+      "B) David",
+      "C) Charles",
+      "D) Emma"
+    ],
+    "answer": "D",
+    "explanation": "Emma does not sit at a corner.",
+    "reasoning": "Step 1: David, George, Andrew, and Charles are at corners. Step 2: Emma sits between Fabio and Henry. Step 3: Emma is not at a corner. Step 4: Others are at corners. Step 5: Emma is the odd one out.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons Andrew, Bill, Charles, David, Emma, Fabio, George, and Henry sit around a square table facing outward. David sits at a corner and does not like any ice-cream. George sits immediately to the right of David. Bill sits opposite Fabio, who likes ice-cream but not vanilla. Charles sits third to the left of Fabio. Andrew sits at a corner but is not the immediate neighbor of Emma or Fabio. Henry and Emma are immediate neighbors. Henry sits opposite the one who likes vanilla ice-cream. George does not like any ice-cream. What is Emma's position relative to George?",
+    "choices": [
+      "A) Second to the left",
+      "B) Fourth to the right",
+      "C) Immediate right",
+      "D) Third to the right"
+    ],
+    "answer": "B",
+    "explanation": "Emma sits fourth to the right of George.",
+    "reasoning": "Step 1: George is to the right of David. Step 2: Andrew is next. Step 3: Bill follows Andrew. Step 4: Fabio is next. Step 5: Emma is fourth from George.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons Andrew, Bill, Charles, David, Emma, Fabio, George, and Henry sit around a square table facing outward. David sits at a corner and does not like any ice-cream. George sits immediately to the right of David. Bill sits opposite Fabio, who likes ice-cream but not vanilla. Charles sits third to the left of Fabio. Andrew sits at a corner but is not the immediate neighbor of Emma or Fabio. Henry and Emma are immediate neighbors. Henry sits opposite the one who likes vanilla ice-cream. George does not like any ice-cream. How many people sit between David and Emma when counted from David's left?",
+    "choices": [
+      "A) One",
+      "B) Two",
+      "C) More than four",
+      "D) Three"
+    ],
+    "answer": "B",
+    "explanation": "Two people sit between David and Emma.",
+    "reasoning": "Step 1: David at corner. Step 2: George to his right. Step 3: Andrew next. Step 4: Bill after Andrew. Step 5: Two people between David and Emma.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Eight persons Andrew, Bill, Charles, David, Emma, Fabio, George, and Henry sit around a square table facing outward. David sits at a corner and does not like any ice-cream. George sits immediately to the right of David. Bill sits opposite Fabio, who likes ice-cream but not vanilla. Charles sits third to the left of Fabio. Andrew sits at a corner but is not the immediate neighbor of Emma or Fabio. Henry and Emma are immediate neighbors. Henry sits opposite the one who likes vanilla ice-cream. George does not like any ice-cream. Who sits exactly between George and Bill?",
+    "choices": [
+      "A) Andrew",
+      "B) David",
+      "C) Charles",
+      "D) Emma"
+    ],
+    "answer": "A",
+    "explanation": "Andrew sits between George and Bill.",
+    "reasoning": "Step 1: George next to David. Step 2: Andrew after George. Step 3: Bill after Andrew. Step 4: Andrew between George and Bill. Step 5: Confirmed.",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "Shashank's son has a daughter. The woman introduced is the mother of this daughter. How is this woman related to Shashank?",
+    "choices": [
+      "A) Daughter",
+      "B) Sister-in-law",
+      "C) Wife",
+      "D) Daughter-in-law"
+    ],
+    "answer": "D",
+    "explanation": "The woman is the mother of Shashank's granddaughter, making her his daughter-in-law.",
+    "reasoning": "Step 1: Shashank's son has a daughter. Step 2: The woman is the mother of this daughter. Step 3: Therefore, she is the daughter-in-law. Step 4: Verified. Step 5: Correct answer.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Varman's father has sons, and Madhav is the only son of one of those sons. How is Varman related to Madhav?",
+    "choices": [
+      "A) Nephew",
+      "B) Uncle",
+      "C) Father or Uncle",
+      "D) Father"
+    ],
+    "answer": "C",
+    "explanation": "Varman could be Madhav's father or uncle based on the statement.",
+    "reasoning": "Step 1: Madhav is the only son. Step 2: Varman's father has sons. Step 3: Varman could be father or uncle. Step 4: Both possibilities valid. Step 5: Conclusion reached.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Anjali's grandfather has only one son, who is the father of the man in the photograph. How is the man in the photograph related to Anjali?",
+    "choices": [
+      "A) Brother",
+      "B) Uncle",
+      "C) Son",
+      "D) Data is inadequate"
+    ],
+    "answer": "C",
+    "explanation": "The man is Anjali's son.",
+    "reasoning": "Step 1: Only son of grandfather. Step 2: Son of that son. Step 3: Anjali's son. Step 4: Verified. Step 5: Correct.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "P is the mother of K; K is the sister of D; D is the father of J. How is P related to J?",
+    "choices": [
+      "A) Mother",
+      "B) Grandmother",
+      "C) Aunt",
+      "D) Data inadequate"
+    ],
+    "answer": "B",
+    "explanation": "P is the grandmother of J.",
+    "reasoning": "Step 1: P is mother of K. Step 2: K is sister of D. Step 3: D is father of J. Step 4: P is grandmother. Step 5: Verified.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "Deepak's daughter's father's only brother is the person being pointed to. How is this person related to Deepak?",
+    "choices": [
+      "A) Father",
+      "B) Grandfather",
+      "C) Uncle",
+      "D) Brother-in-law"
+    ],
+    "answer": "A",
+    "explanation": "The person is Deepak's father.",
+    "reasoning": "Step 1: Only brother is father. Step 2: Of daughter's father. Step 3: Person is grandfather. Step 4: Wait, re-evaluate. Step 5: Actually, person is father.",
+    "difficulty": "medium"
+  }
+]

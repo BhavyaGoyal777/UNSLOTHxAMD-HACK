@@ -1,0 +1,72 @@
+[
+  {
+    "topic": "blood_relations",
+    "question": "A is the mother of B. B is the sister of C. C is the father of D. How is A related to D?",
+    "choices": [
+      "A) Grandmother",
+      "B) Mother",
+      "C) Aunt",
+      "D) Sister"
+    ],
+    "answer": "A",
+    "explanation": "A is the mother of B, who is the sister of C. C is the father of D, making A the grandmother of D.",
+    "reasoning": "Step 1: A is the mother of B. Step 2: B is the sister of C, making C the brother of B. Step 3: C is the father of D. Step 4: Since A is the mother of B and B is the sister of C, A is the mother of C. Step 5: Therefore, A is the grandmother of D.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Five people A, B, C, D, E sit in a circle. A sits next to B and C. B sits next to A and E. How is D positioned?",
+    "choices": [
+      "A) Between C and E",
+      "B) Next to E",
+      "C) Opposite to A",
+      "D) Between B and C"
+    ],
+    "answer": "C",
+    "explanation": "In a circle, A is between B and C, B is between A and E, so the order is A-B-E-D-C-A. Thus, D is opposite to A.",
+    "reasoning": "Step 1: A is between B and C. Step 2: B is next to A and E. Step 3: The order starts as A-B-E. Step 4: Since it's a circle, after E comes D, then C, and back to A. Step 5: D is opposite to A.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "X is the father of Y. Y is the sister of Z. Z is the mother of W. How is X related to W?",
+    "choices": [
+      "A) Grandfather",
+      "B) Father",
+      "C) Uncle",
+      "D) Brother"
+    ],
+    "answer": "A",
+    "explanation": "X is the father of Y, who is the sister of Z. Z is the mother of W, making X the grandfather of W.",
+    "reasoning": "Step 1: X is the father of Y. Step 2: Y is the sister of Z, making Z the daughter of X. Step 3: Z is the mother of W. Step 4: Therefore, X is the grandfather of W. Step 5: Confirmed as grandfather.",
+    "difficulty": "easy"
+  },
+  {
+    "topic": "seating_arrangement",
+    "question": "Six people P, Q, R, S, T, U sit in a row. P is at the first position. Q is next to R. S is between T and U. Who is at position 3?",
+    "choices": [
+      "A) Q",
+      "B) R",
+      "C) S",
+      "D) T"
+    ],
+    "answer": "B",
+    "explanation": "P is at position 1. Q is next to R, so they could be at 2 and 3. S is between T and U, likely at 4 with T and U at 3 and 5 or 5 and 6. Thus, R is at position 3.",
+    "reasoning": "Step 1: P at position 1. Step 2: Q and R must be at 2 and 3. Step 3: S between T and U could be at 4, with T at 3 and U at 5. Step 4: However, Q and R need consecutive spots, so R is at 3. Step 5: Thus, R is at position 3.",
+    "difficulty": "medium"
+  },
+  {
+    "topic": "blood_relations",
+    "question": "M is the mother of N. N is the brother of O. O is the father of P. How is M related to P?",
+    "choices": [
+      "A) Grandmother",
+      "B) Mother",
+      "C) Aunt",
+      "D) Sister"
+    ],
+    "answer": "A",
+    "explanation": "M is the mother of N, who is the brother of O. O is the father of P, making M the grandmother of P.",
+    "reasoning": "Step 1: M is the mother of N. Step 2: N is the brother of O, making O the son of M. Step 3: O is the father of P. Step 4: Therefore, M is the grandmother of P. Step 5: Confirmed as grandmother.",
+    "difficulty": "easy"
+  }
+]
